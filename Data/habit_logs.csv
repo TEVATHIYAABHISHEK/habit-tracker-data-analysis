@@ -1,0 +1,3601 @@
+log_id,user_id,habit_id,date,status,time_spent,notes
+1,1,1,2024-10-01,1,43,"Early morning, very focused"
+2,1,2,2024-10-01,1,13,NULL
+3,1,3,2024-10-01,1,0,NULL
+4,1,4,2024-10-01,1,32,Best session this week
+5,1,5,2024-10-01,1,26,NULL
+6,1,6,2024-10-01,1,18,Managed to fit it in before dinner
+7,1,7,2024-10-01,1,2,Did it right after waking up
+8,1,8,2024-10-01,1,10,Managed to fit it in before dinner
+9,1,9,2024-10-01,1,58,Did it right after waking up
+10,1,10,2024-10-01,1,11,Completed with energy
+11,1,11,2024-10-01,1,19,"Early morning, very focused"
+12,1,12,2024-10-01,1,24,NULL
+13,1,1,2024-10-02,1,22,NULL
+14,1,2,2024-10-02,1,21,NULL
+15,1,3,2024-10-02,1,0,NULL
+16,1,4,2024-10-02,1,32,Short but consistent
+17,1,5,2024-10-02,1,49,"Early morning, very focused"
+18,1,6,2024-10-02,1,12,On a roll!
+19,1,7,2024-10-02,1,2,Feeling motivated
+20,1,8,2024-10-02,0,0,NULL
+21,1,9,2024-10-02,1,60,Pushed through despite tiredness
+22,1,10,2024-10-02,1,15,Feeling motivated
+23,1,11,2024-10-02,1,15,Short but consistent
+24,1,12,2024-10-02,1,17,Short but consistent
+25,1,1,2024-10-03,1,32,"Early morning, very focused"
+26,1,2,2024-10-03,1,20,Best session this week
+27,1,3,2024-10-03,1,5,Kept the streak alive
+28,1,4,2024-10-03,1,37,Feeling motivated
+29,1,5,2024-10-03,1,52,NULL
+30,1,6,2024-10-03,1,12,NULL
+31,1,7,2024-10-03,1,0,Pushed through despite tiredness
+32,1,8,2024-10-03,1,8,NULL
+33,1,9,2024-10-03,1,83,Kept the streak alive
+34,1,10,2024-10-03,1,5,NULL
+35,1,11,2024-10-03,1,18,Did it right after waking up
+36,1,12,2024-10-03,1,20,Completed with energy
+37,1,1,2024-10-04,1,34,Felt great today
+38,1,2,2024-10-04,0,0,NULL
+39,1,3,2024-10-04,1,0,Short but consistent
+40,1,4,2024-10-04,1,46,NULL
+41,1,5,2024-10-04,1,35,NULL
+42,1,6,2024-10-04,0,0,NULL
+43,1,7,2024-10-04,1,0,Completed with energy
+44,1,8,2024-10-04,0,0,NULL
+45,1,9,2024-10-04,1,60,NULL
+46,1,10,2024-10-04,1,12,Short but consistent
+47,1,11,2024-10-04,1,12,Pushed through despite tiredness
+48,1,12,2024-10-04,1,15,"Early morning, very focused"
+49,1,1,2024-10-05,1,33,Best session this week
+50,1,2,2024-10-05,0,0,NULL
+51,1,3,2024-10-05,1,5,NULL
+52,1,4,2024-10-05,1,44,Completed with energy
+53,1,5,2024-10-05,1,46,Felt great today
+54,1,6,2024-10-05,1,19,Best session this week
+55,1,7,2024-10-05,1,5,Felt great today
+56,1,8,2024-10-05,1,7,Completed with energy
+57,1,9,2024-10-05,1,87,Kept the streak alive
+58,1,10,2024-10-05,1,14,NULL
+59,1,11,2024-10-05,1,16,Best session this week
+60,1,12,2024-10-05,1,23,On a roll!
+61,1,1,2024-10-06,1,43,Felt great today
+62,1,2,2024-10-06,1,13,Felt great today
+63,1,3,2024-10-06,1,0,Best session this week
+64,1,4,2024-10-06,1,44,Pushed through despite tiredness
+65,1,5,2024-10-06,1,54,Best session this week
+66,1,6,2024-10-06,0,8,NULL
+67,1,7,2024-10-06,1,1,Pushed through despite tiredness
+68,1,8,2024-10-06,1,6,Short but consistent
+69,1,9,2024-10-06,1,55,Managed to fit it in before dinner
+70,1,10,2024-10-06,1,9,Did it right after waking up
+71,1,11,2024-10-06,1,16,Feeling motivated
+72,1,12,2024-10-06,0,0,NULL
+73,1,1,2024-10-07,1,26,"Early morning, very focused"
+74,1,2,2024-10-07,1,11,Feeling motivated
+75,1,3,2024-10-07,1,3,NULL
+76,1,4,2024-10-07,1,35,Felt great today
+77,1,5,2024-10-07,0,2,Skipped due to travel
+78,1,6,2024-10-07,1,16,Completed with energy
+79,1,7,2024-10-07,1,1,NULL
+80,1,8,2024-10-07,1,5,Managed to fit it in before dinner
+81,1,9,2024-10-07,1,78,On a roll!
+82,1,10,2024-10-07,1,15,Feeling motivated
+83,1,11,2024-10-07,1,16,Pushed through despite tiredness
+84,1,12,2024-10-07,1,24,On a roll!
+85,1,1,2024-10-08,1,34,NULL
+86,1,2,2024-10-08,0,0,Sick day
+87,1,3,2024-10-08,1,2,Completed with energy
+88,1,4,2024-10-08,1,39,Pushed through despite tiredness
+89,1,5,2024-10-08,1,44,NULL
+90,1,6,2024-10-08,0,0,NULL
+91,1,7,2024-10-08,1,2,NULL
+92,1,8,2024-10-08,1,7,Completed with energy
+93,1,9,2024-10-08,1,80,Pushed through despite tiredness
+94,1,10,2024-10-08,1,8,Feeling motivated
+95,1,11,2024-10-08,1,20,Short but consistent
+96,1,12,2024-10-08,1,18,Short but consistent
+97,1,1,2024-10-09,1,33,Short but consistent
+98,1,2,2024-10-09,1,20,Did it right after waking up
+99,1,3,2024-10-09,1,1,Feeling motivated
+100,1,4,2024-10-09,1,43,NULL
+101,1,5,2024-10-09,1,34,NULL
+102,1,6,2024-10-09,1,19,NULL
+103,1,7,2024-10-09,1,2,On a roll!
+104,1,8,2024-10-09,1,7,Best session this week
+105,1,9,2024-10-09,1,51,On a roll!
+106,1,10,2024-10-09,1,14,Feeling motivated
+107,1,11,2024-10-09,1,12,Managed to fit it in before dinner
+108,1,12,2024-10-09,1,20,Did it right after waking up
+109,1,1,2024-10-10,0,0,NULL
+110,1,2,2024-10-10,1,15,Did it right after waking up
+111,1,3,2024-10-10,0,0,NULL
+112,1,4,2024-10-10,1,39,Short but consistent
+113,1,5,2024-10-10,1,39,Felt great today
+114,1,6,2024-10-10,1,15,"Early morning, very focused"
+115,1,7,2024-10-10,0,0,NULL
+116,1,8,2024-10-10,1,7,Felt great today
+117,1,9,2024-10-10,1,82,"Early morning, very focused"
+118,1,10,2024-10-10,1,11,On a roll!
+119,1,11,2024-10-10,0,0,NULL
+120,1,12,2024-10-10,1,16,"Early morning, very focused"
+121,1,1,2024-10-11,1,20,NULL
+122,1,2,2024-10-11,0,0,NULL
+123,1,3,2024-10-11,1,1,On a roll!
+124,1,4,2024-10-11,1,40,NULL
+125,1,5,2024-10-11,1,44,NULL
+126,1,6,2024-10-11,1,15,Managed to fit it in before dinner
+127,1,7,2024-10-11,1,1,Best session this week
+128,1,8,2024-10-11,1,10,Feeling motivated
+129,1,9,2024-10-11,0,0,NULL
+130,1,10,2024-10-11,1,8,Managed to fit it in before dinner
+131,1,11,2024-10-11,1,20,On a roll!
+132,1,12,2024-10-11,1,16,NULL
+133,1,1,2024-10-12,1,25,NULL
+134,1,2,2024-10-12,1,20,Completed with energy
+135,1,3,2024-10-12,0,0,NULL
+136,1,4,2024-10-12,1,34,Felt great today
+137,1,5,2024-10-12,1,29,Kept the streak alive
+138,1,6,2024-10-12,1,19,Best session this week
+139,1,7,2024-10-12,1,3,Managed to fit it in before dinner
+140,1,8,2024-10-12,1,10,Felt great today
+141,1,9,2024-10-12,0,0,NULL
+142,1,10,2024-10-12,0,0,NULL
+143,1,11,2024-10-12,1,10,NULL
+144,1,12,2024-10-12,1,24,Pushed through despite tiredness
+145,1,1,2024-10-13,0,0,NULL
+146,1,2,2024-10-13,1,23,Short but consistent
+147,1,3,2024-10-13,0,0,NULL
+148,1,4,2024-10-13,1,50,"Early morning, very focused"
+149,1,5,2024-10-13,1,56,NULL
+150,1,6,2024-10-13,1,11,Feeling motivated
+151,1,7,2024-10-13,1,2,On a roll!
+152,1,8,2024-10-13,0,2,Forgot in the morning rush
+153,1,9,2024-10-13,1,71,Managed to fit it in before dinner
+154,1,10,2024-10-13,1,11,Felt great today
+155,1,11,2024-10-13,1,16,Did it right after waking up
+156,1,12,2024-10-13,1,10,Short but consistent
+157,1,1,2024-10-14,0,0,NULL
+158,1,2,2024-10-14,0,0,Busy with family obligations
+159,1,3,2024-10-14,1,4,Did it right after waking up
+160,1,4,2024-10-14,1,45,Best session this week
+161,1,5,2024-10-14,1,26,Managed to fit it in before dinner
+162,1,6,2024-10-14,1,16,Feeling motivated
+163,1,7,2024-10-14,1,1,NULL
+164,1,8,2024-10-14,1,9,NULL
+165,1,9,2024-10-14,1,86,Managed to fit it in before dinner
+166,1,10,2024-10-14,1,7,Felt great today
+167,1,11,2024-10-14,1,13,Kept the streak alive
+168,1,12,2024-10-14,1,18,Did it right after waking up
+169,1,1,2024-10-15,0,0,NULL
+170,1,2,2024-10-15,1,11,On a roll!
+171,1,3,2024-10-15,1,5,Felt great today
+172,1,4,2024-10-15,1,36,Short but consistent
+173,1,5,2024-10-15,1,33,Kept the streak alive
+174,1,6,2024-10-15,1,13,Kept the streak alive
+175,1,7,2024-10-15,1,1,NULL
+176,1,8,2024-10-15,1,10,Completed with energy
+177,1,9,2024-10-15,1,64,Completed with energy
+178,1,10,2024-10-15,1,14,NULL
+179,1,11,2024-10-15,1,16,Feeling motivated
+180,1,12,2024-10-15,1,17,Completed with energy
+181,1,1,2024-10-16,1,41,NULL
+182,1,2,2024-10-16,1,11,On a roll!
+183,1,3,2024-10-16,1,2,Completed with energy
+184,1,4,2024-10-16,1,30,Short but consistent
+185,1,5,2024-10-16,1,31,Managed to fit it in before dinner
+186,1,6,2024-10-16,0,0,NULL
+187,1,7,2024-10-16,1,1,Feeling motivated
+188,1,8,2024-10-16,1,7,NULL
+189,1,9,2024-10-16,1,75,Kept the streak alive
+190,1,10,2024-10-16,1,14,"Early morning, very focused"
+191,1,11,2024-10-16,1,11,"Early morning, very focused"
+192,1,12,2024-10-16,1,22,On a roll!
+193,1,1,2024-10-17,1,25,Kept the streak alive
+194,1,2,2024-10-17,1,20,"Early morning, very focused"
+195,1,3,2024-10-17,1,2,NULL
+196,1,4,2024-10-17,1,32,Best session this week
+197,1,5,2024-10-17,1,60,Did it right after waking up
+198,1,6,2024-10-17,1,20,Feeling motivated
+199,1,7,2024-10-17,1,2,Best session this week
+200,1,8,2024-10-17,1,7,NULL
+201,1,9,2024-10-17,1,80,NULL
+202,1,10,2024-10-17,1,13,On a roll!
+203,1,11,2024-10-17,1,14,"Early morning, very focused"
+204,1,12,2024-10-17,1,16,On a roll!
+205,1,1,2024-10-18,1,44,Feeling motivated
+206,1,2,2024-10-18,1,25,"Early morning, very focused"
+207,1,3,2024-10-18,1,4,"Early morning, very focused"
+208,1,4,2024-10-18,0,0,Will catch up tomorrow
+209,1,5,2024-10-18,1,59,Pushed through despite tiredness
+210,1,6,2024-10-18,1,18,"Early morning, very focused"
+211,1,7,2024-10-18,0,7,Too tired after work
+212,1,8,2024-10-18,1,8,Kept the streak alive
+213,1,9,2024-10-18,1,61,Short but consistent
+214,1,10,2024-10-18,1,11,Kept the streak alive
+215,1,11,2024-10-18,1,20,Felt great today
+216,1,12,2024-10-18,1,19,Completed with energy
+217,1,1,2024-10-19,0,6,NULL
+218,1,2,2024-10-19,1,22,Kept the streak alive
+219,1,3,2024-10-19,0,0,NULL
+220,1,4,2024-10-19,1,49,Felt great today
+221,1,5,2024-10-19,1,31,Did it right after waking up
+222,1,6,2024-10-19,1,14,NULL
+223,1,7,2024-10-19,1,1,NULL
+224,1,8,2024-10-19,1,8,Kept the streak alive
+225,1,9,2024-10-19,1,63,Felt great today
+226,1,10,2024-10-19,1,9,Feeling motivated
+227,1,11,2024-10-19,0,3,NULL
+228,1,12,2024-10-19,0,0,NULL
+229,1,1,2024-10-20,0,0,NULL
+230,1,2,2024-10-20,1,14,Completed with energy
+231,1,3,2024-10-20,1,4,Feeling motivated
+232,1,4,2024-10-20,0,0,NULL
+233,1,5,2024-10-20,1,50,"Early morning, very focused"
+234,1,6,2024-10-20,1,17,Completed with energy
+235,1,7,2024-10-20,1,5,On a roll!
+236,1,8,2024-10-20,1,6,NULL
+237,1,9,2024-10-20,1,82,Felt great today
+238,1,10,2024-10-20,0,0,Too tired after work
+239,1,11,2024-10-20,1,17,NULL
+240,1,12,2024-10-20,1,15,NULL
+241,1,1,2024-10-21,1,22,Kept the streak alive
+242,1,2,2024-10-21,1,20,NULL
+243,1,3,2024-10-21,1,2,Managed to fit it in before dinner
+244,1,4,2024-10-21,1,42,Short but consistent
+245,1,5,2024-10-21,1,54,Completed with energy
+246,1,6,2024-10-21,1,11,Did it right after waking up
+247,1,7,2024-10-21,1,0,NULL
+248,1,8,2024-10-21,0,0,NULL
+249,1,9,2024-10-21,1,85,Kept the streak alive
+250,1,10,2024-10-21,1,9,NULL
+251,1,11,2024-10-21,1,17,Feeling motivated
+252,1,12,2024-10-21,1,17,Feeling motivated
+253,1,1,2024-10-22,1,20,NULL
+254,1,2,2024-10-22,1,24,Completed with energy
+255,1,3,2024-10-22,1,3,Feeling motivated
+256,1,4,2024-10-22,1,38,Managed to fit it in before dinner
+257,1,5,2024-10-22,1,40,Kept the streak alive
+258,1,6,2024-10-22,1,13,NULL
+259,1,7,2024-10-22,1,0,"Early morning, very focused"
+260,1,8,2024-10-22,1,7,Did it right after waking up
+261,1,9,2024-10-22,1,64,Short but consistent
+262,1,10,2024-10-22,1,12,Short but consistent
+263,1,11,2024-10-22,1,17,On a roll!
+264,1,12,2024-10-22,1,22,Kept the streak alive
+265,1,1,2024-10-23,0,0,NULL
+266,1,2,2024-10-23,1,17,Short but consistent
+267,1,3,2024-10-23,1,2,Feeling motivated
+268,1,4,2024-10-23,1,42,NULL
+269,1,5,2024-10-23,1,34,Kept the streak alive
+270,1,6,2024-10-23,0,5,NULL
+271,1,7,2024-10-23,1,0,NULL
+272,1,8,2024-10-23,0,2,NULL
+273,1,9,2024-10-23,0,7,NULL
+274,1,10,2024-10-23,1,11,NULL
+275,1,11,2024-10-23,1,20,Short but consistent
+276,1,12,2024-10-23,1,25,Short but consistent
+277,1,1,2024-10-24,1,22,Best session this week
+278,1,2,2024-10-24,1,17,Feeling motivated
+279,1,3,2024-10-24,1,5,Feeling motivated
+280,1,4,2024-10-24,1,35,Feeling motivated
+281,1,5,2024-10-24,1,45,Did it right after waking up
+282,1,6,2024-10-24,1,15,Managed to fit it in before dinner
+283,1,7,2024-10-24,1,3,NULL
+284,1,8,2024-10-24,1,6,Pushed through despite tiredness
+285,1,9,2024-10-24,1,84,NULL
+286,1,10,2024-10-24,1,7,Best session this week
+287,1,11,2024-10-24,1,17,"Early morning, very focused"
+288,1,12,2024-10-24,1,19,NULL
+289,1,1,2024-10-25,1,34,On a roll!
+290,1,2,2024-10-25,0,0,NULL
+291,1,3,2024-10-25,1,2,Best session this week
+292,1,4,2024-10-25,0,0,Busy with family obligations
+293,1,5,2024-10-25,0,0,NULL
+294,1,6,2024-10-25,1,16,"Early morning, very focused"
+295,1,7,2024-10-25,1,5,Felt great today
+296,1,8,2024-10-25,0,0,NULL
+297,1,9,2024-10-25,0,0,Will catch up tomorrow
+298,1,10,2024-10-25,1,14,"Early morning, very focused"
+299,1,11,2024-10-25,1,20,NULL
+300,1,12,2024-10-25,1,13,NULL
+301,1,1,2024-10-26,1,45,Kept the streak alive
+302,1,2,2024-10-26,1,14,Completed with energy
+303,1,3,2024-10-26,0,0,NULL
+304,1,4,2024-10-26,1,41,NULL
+305,1,5,2024-10-26,1,35,"Early morning, very focused"
+306,1,6,2024-10-26,0,0,NULL
+307,1,7,2024-10-26,1,0,Kept the streak alive
+308,1,8,2024-10-26,0,3,NULL
+309,1,9,2024-10-26,1,80,On a roll!
+310,1,10,2024-10-26,1,5,"Early morning, very focused"
+311,1,11,2024-10-26,1,15,NULL
+312,1,12,2024-10-26,1,22,Short but consistent
+313,1,1,2024-10-27,1,23,NULL
+314,1,2,2024-10-27,1,20,NULL
+315,1,3,2024-10-27,1,5,Short but consistent
+316,1,4,2024-10-27,1,39,NULL
+317,1,5,2024-10-27,1,27,Felt great today
+318,1,6,2024-10-27,1,11,Completed with energy
+319,1,7,2024-10-27,1,1,Managed to fit it in before dinner
+320,1,8,2024-10-27,1,10,Feeling motivated
+321,1,9,2024-10-27,0,0,NULL
+322,1,10,2024-10-27,1,15,Completed with energy
+323,1,11,2024-10-27,1,16,"Early morning, very focused"
+324,1,12,2024-10-27,1,16,Kept the streak alive
+325,1,1,2024-10-28,1,31,Completed with energy
+326,1,2,2024-10-28,0,0,NULL
+327,1,3,2024-10-28,1,3,"Early morning, very focused"
+328,1,4,2024-10-28,1,44,Completed with energy
+329,1,5,2024-10-28,1,26,Felt great today
+330,1,6,2024-10-28,1,12,Did it right after waking up
+331,1,7,2024-10-28,1,1,NULL
+332,1,8,2024-10-28,1,7,Did it right after waking up
+333,1,9,2024-10-28,1,45,"Early morning, very focused"
+334,1,10,2024-10-28,1,13,"Early morning, very focused"
+335,1,11,2024-10-28,1,10,Pushed through despite tiredness
+336,1,12,2024-10-28,1,20,Felt great today
+337,1,1,2024-10-29,1,24,Feeling motivated
+338,1,2,2024-10-29,1,12,Kept the streak alive
+339,1,3,2024-10-29,1,4,NULL
+340,1,4,2024-10-29,1,37,NULL
+341,1,5,2024-10-29,1,58,"Early morning, very focused"
+342,1,6,2024-10-29,1,10,Kept the streak alive
+343,1,7,2024-10-29,0,0,NULL
+344,1,8,2024-10-29,1,7,NULL
+345,1,9,2024-10-29,1,62,NULL
+346,1,10,2024-10-29,0,0,NULL
+347,1,11,2024-10-29,0,0,NULL
+348,1,12,2024-10-29,1,13,Short but consistent
+349,1,1,2024-10-30,1,43,Short but consistent
+350,1,2,2024-10-30,1,17,Managed to fit it in before dinner
+351,1,3,2024-10-30,1,3,Managed to fit it in before dinner
+352,1,4,2024-10-30,1,43,On a roll!
+353,1,5,2024-10-30,1,34,NULL
+354,1,6,2024-10-30,1,11,Short but consistent
+355,1,7,2024-10-30,1,0,Feeling motivated
+356,1,8,2024-10-30,1,9,Felt great today
+357,1,9,2024-10-30,1,80,On a roll!
+358,1,10,2024-10-30,1,10,Short but consistent
+359,1,11,2024-10-30,0,0,NULL
+360,1,12,2024-10-30,0,0,NULL
+361,1,1,2024-10-31,1,36,Best session this week
+362,1,2,2024-10-31,1,17,Short but consistent
+363,1,3,2024-10-31,1,2,Completed with energy
+364,1,4,2024-10-31,1,37,Did it right after waking up
+365,1,5,2024-10-31,1,60,Felt great today
+366,1,6,2024-10-31,1,14,Felt great today
+367,1,7,2024-10-31,1,2,On a roll!
+368,1,8,2024-10-31,1,6,NULL
+369,1,9,2024-10-31,1,54,Feeling motivated
+370,1,10,2024-10-31,1,6,Feeling motivated
+371,1,11,2024-10-31,0,0,NULL
+372,1,12,2024-10-31,1,20,Did it right after waking up
+373,1,1,2024-11-01,1,22,Felt great today
+374,1,2,2024-11-01,1,11,NULL
+375,1,3,2024-11-01,1,5,Managed to fit it in before dinner
+376,1,4,2024-11-01,1,43,"Early morning, very focused"
+377,1,5,2024-11-01,1,32,On a roll!
+378,1,6,2024-11-01,1,20,NULL
+379,1,7,2024-11-01,1,5,"Early morning, very focused"
+380,1,8,2024-11-01,1,9,Felt great today
+381,1,9,2024-11-01,1,58,Did it right after waking up
+382,1,10,2024-11-01,1,9,On a roll!
+383,1,11,2024-11-01,1,16,Pushed through despite tiredness
+384,1,12,2024-11-01,1,17,NULL
+385,1,1,2024-11-02,1,45,On a roll!
+386,1,2,2024-11-02,1,11,Managed to fit it in before dinner
+387,1,3,2024-11-02,1,4,Managed to fit it in before dinner
+388,1,4,2024-11-02,1,50,Managed to fit it in before dinner
+389,1,5,2024-11-02,1,26,On a roll!
+390,1,6,2024-11-02,1,17,Short but consistent
+391,1,7,2024-11-02,1,0,Managed to fit it in before dinner
+392,1,8,2024-11-02,1,8,NULL
+393,1,9,2024-11-02,1,70,Short but consistent
+394,1,10,2024-11-02,1,8,On a roll!
+395,1,11,2024-11-02,0,1,NULL
+396,1,12,2024-11-02,1,21,Feeling motivated
+397,1,1,2024-11-03,0,0,Skipped due to travel
+398,1,2,2024-11-03,1,15,NULL
+399,1,3,2024-11-03,1,0,Pushed through despite tiredness
+400,1,4,2024-11-03,0,0,NULL
+401,1,5,2024-11-03,1,53,NULL
+402,1,6,2024-11-03,0,0,NULL
+403,1,7,2024-11-03,1,2,Pushed through despite tiredness
+404,1,8,2024-11-03,1,8,NULL
+405,1,9,2024-11-03,1,82,Felt great today
+406,1,10,2024-11-03,1,9,Kept the streak alive
+407,1,11,2024-11-03,1,15,Short but consistent
+408,1,12,2024-11-03,1,12,NULL
+409,1,1,2024-11-04,1,34,NULL
+410,1,2,2024-11-04,1,11,Kept the streak alive
+411,1,3,2024-11-04,0,0,NULL
+412,1,4,2024-11-04,1,31,Kept the streak alive
+413,1,5,2024-11-04,1,30,NULL
+414,1,6,2024-11-04,1,13,Feeling motivated
+415,1,7,2024-11-04,1,4,NULL
+416,1,8,2024-11-04,1,7,Managed to fit it in before dinner
+417,1,9,2024-11-04,1,88,NULL
+418,1,10,2024-11-04,1,15,On a roll!
+419,1,11,2024-11-04,1,18,NULL
+420,1,12,2024-11-04,1,14,On a roll!
+421,1,1,2024-11-05,1,24,On a roll!
+422,1,2,2024-11-05,1,22,Pushed through despite tiredness
+423,1,3,2024-11-05,1,2,NULL
+424,1,4,2024-11-05,1,34,NULL
+425,1,5,2024-11-05,0,0,NULL
+426,1,6,2024-11-05,0,6,NULL
+427,1,7,2024-11-05,1,1,Best session this week
+428,1,8,2024-11-05,1,6,Best session this week
+429,1,9,2024-11-05,0,4,NULL
+430,1,10,2024-11-05,1,13,Felt great today
+431,1,11,2024-11-05,1,12,NULL
+432,1,12,2024-11-05,1,15,Short but consistent
+433,1,1,2024-11-06,1,45,Pushed through despite tiredness
+434,1,2,2024-11-06,1,21,NULL
+435,1,3,2024-11-06,1,4,"Early morning, very focused"
+436,1,4,2024-11-06,1,37,NULL
+437,1,5,2024-11-06,1,37,On a roll!
+438,1,6,2024-11-06,1,17,Kept the streak alive
+439,1,7,2024-11-06,1,4,NULL
+440,1,8,2024-11-06,1,6,Did it right after waking up
+441,1,9,2024-11-06,1,48,NULL
+442,1,10,2024-11-06,1,13,Completed with energy
+443,1,11,2024-11-06,1,11,"Early morning, very focused"
+444,1,12,2024-11-06,1,18,Kept the streak alive
+445,1,1,2024-11-07,1,33,Completed with energy
+446,1,2,2024-11-07,0,0,NULL
+447,1,3,2024-11-07,1,3,Felt great today
+448,1,4,2024-11-07,1,37,Managed to fit it in before dinner
+449,1,5,2024-11-07,0,0,Skipped due to travel
+450,1,6,2024-11-07,1,15,Did it right after waking up
+451,1,7,2024-11-07,1,3,Feeling motivated
+452,1,8,2024-11-07,1,8,Kept the streak alive
+453,1,9,2024-11-07,1,46,"Early morning, very focused"
+454,1,10,2024-11-07,1,14,NULL
+455,1,11,2024-11-07,1,13,"Early morning, very focused"
+456,1,12,2024-11-07,1,24,Completed with energy
+457,1,1,2024-11-08,1,39,NULL
+458,1,2,2024-11-08,1,17,Feeling motivated
+459,1,3,2024-11-08,1,0,NULL
+460,1,4,2024-11-08,1,43,Pushed through despite tiredness
+461,1,5,2024-11-08,1,58,On a roll!
+462,1,6,2024-11-08,1,18,NULL
+463,1,7,2024-11-08,0,0,NULL
+464,1,8,2024-11-08,1,7,"Early morning, very focused"
+465,1,9,2024-11-08,1,49,On a roll!
+466,1,10,2024-11-08,1,15,Completed with energy
+467,1,11,2024-11-08,1,15,Pushed through despite tiredness
+468,1,12,2024-11-08,1,20,Short but consistent
+469,1,1,2024-11-09,1,34,Feeling motivated
+470,1,2,2024-11-09,1,14,Completed with energy
+471,1,3,2024-11-09,1,0,"Early morning, very focused"
+472,1,4,2024-11-09,1,31,On a roll!
+473,1,5,2024-11-09,0,0,NULL
+474,1,6,2024-11-09,1,10,Did it right after waking up
+475,1,7,2024-11-09,0,0,NULL
+476,1,8,2024-11-09,1,7,"Early morning, very focused"
+477,1,9,2024-11-09,1,72,Managed to fit it in before dinner
+478,1,10,2024-11-09,0,0,Forgot in the morning rush
+479,1,11,2024-11-09,1,15,Did it right after waking up
+480,1,12,2024-11-09,0,0,NULL
+481,1,1,2024-11-10,1,25,NULL
+482,1,2,2024-11-10,1,12,On a roll!
+483,1,3,2024-11-10,1,3,NULL
+484,1,4,2024-11-10,1,44,On a roll!
+485,1,5,2024-11-10,1,47,NULL
+486,1,6,2024-11-10,0,0,NULL
+487,1,7,2024-11-10,0,6,Forgot in the morning rush
+488,1,8,2024-11-10,0,7,Skipped due to travel
+489,1,9,2024-11-10,1,68,On a roll!
+490,1,10,2024-11-10,1,5,NULL
+491,1,11,2024-11-10,1,15,On a roll!
+492,1,12,2024-11-10,1,14,NULL
+493,1,1,2024-11-11,1,40,"Early morning, very focused"
+494,1,2,2024-11-11,1,10,Feeling motivated
+495,1,3,2024-11-11,1,3,NULL
+496,1,4,2024-11-11,1,44,Best session this week
+497,1,5,2024-11-11,0,0,NULL
+498,1,6,2024-11-11,1,12,Short but consistent
+499,1,7,2024-11-11,1,5,Kept the streak alive
+500,1,8,2024-11-11,0,0,NULL
+501,1,9,2024-11-11,0,0,NULL
+502,1,10,2024-11-11,1,9,Short but consistent
+503,1,11,2024-11-11,1,20,Pushed through despite tiredness
+504,1,12,2024-11-11,1,17,Completed with energy
+505,1,1,2024-11-12,0,0,NULL
+506,1,2,2024-11-12,1,21,Kept the streak alive
+507,1,3,2024-11-12,1,1,NULL
+508,1,4,2024-11-12,1,42,Feeling motivated
+509,1,5,2024-11-12,1,51,Did it right after waking up
+510,1,6,2024-11-12,1,11,Pushed through despite tiredness
+511,1,7,2024-11-12,0,0,NULL
+512,1,8,2024-11-12,1,6,Short but consistent
+513,1,9,2024-11-12,1,82,Pushed through despite tiredness
+514,1,10,2024-11-12,1,11,NULL
+515,1,11,2024-11-12,1,18,Pushed through despite tiredness
+516,1,12,2024-11-12,1,20,Feeling motivated
+517,1,1,2024-11-13,1,29,Short but consistent
+518,1,2,2024-11-13,1,18,Pushed through despite tiredness
+519,1,3,2024-11-13,1,4,Completed with energy
+520,1,4,2024-11-13,1,48,NULL
+521,1,5,2024-11-13,1,46,Short but consistent
+522,1,6,2024-11-13,0,0,NULL
+523,1,7,2024-11-13,1,4,Managed to fit it in before dinner
+524,1,8,2024-11-13,1,8,NULL
+525,1,9,2024-11-13,1,64,Kept the streak alive
+526,1,10,2024-11-13,1,11,"Early morning, very focused"
+527,1,11,2024-11-13,1,10,Pushed through despite tiredness
+528,1,12,2024-11-13,1,24,Best session this week
+529,1,1,2024-11-14,1,30,Short but consistent
+530,1,2,2024-11-14,1,21,Managed to fit it in before dinner
+531,1,3,2024-11-14,1,4,Completed with energy
+532,1,4,2024-11-14,1,33,"Early morning, very focused"
+533,1,5,2024-11-14,1,31,Felt great today
+534,1,6,2024-11-14,1,19,Managed to fit it in before dinner
+535,1,7,2024-11-14,1,2,NULL
+536,1,8,2024-11-14,1,6,Kept the streak alive
+537,1,9,2024-11-14,0,0,NULL
+538,1,10,2024-11-14,1,11,NULL
+539,1,11,2024-11-14,1,13,NULL
+540,1,12,2024-11-14,1,19,Kept the streak alive
+541,1,1,2024-11-15,1,41,Kept the streak alive
+542,1,2,2024-11-15,1,23,Pushed through despite tiredness
+543,1,3,2024-11-15,0,0,NULL
+544,1,4,2024-11-15,1,31,NULL
+545,1,5,2024-11-15,1,60,"Early morning, very focused"
+546,1,6,2024-11-15,1,17,Did it right after waking up
+547,1,7,2024-11-15,1,5,NULL
+548,1,8,2024-11-15,1,8,On a roll!
+549,1,9,2024-11-15,1,80,On a roll!
+550,1,10,2024-11-15,1,14,NULL
+551,1,11,2024-11-15,1,10,Felt great today
+552,1,12,2024-11-15,1,25,NULL
+553,1,1,2024-11-16,1,36,Pushed through despite tiredness
+554,1,2,2024-11-16,1,20,Pushed through despite tiredness
+555,1,3,2024-11-16,1,5,Short but consistent
+556,1,4,2024-11-16,1,46,Short but consistent
+557,1,5,2024-11-16,1,44,Kept the streak alive
+558,1,6,2024-11-16,0,0,NULL
+559,1,7,2024-11-16,0,0,NULL
+560,1,8,2024-11-16,1,10,Felt great today
+561,1,9,2024-11-16,1,86,Did it right after waking up
+562,1,10,2024-11-16,0,0,Too tired after work
+563,1,11,2024-11-16,1,18,NULL
+564,1,12,2024-11-16,1,14,Short but consistent
+565,1,1,2024-11-17,1,38,Feeling motivated
+566,1,2,2024-11-17,1,24,On a roll!
+567,1,3,2024-11-17,1,5,Best session this week
+568,1,4,2024-11-17,1,45,Short but consistent
+569,1,5,2024-11-17,1,28,Feeling motivated
+570,1,6,2024-11-17,1,18,On a roll!
+571,1,7,2024-11-17,0,0,Forgot in the morning rush
+572,1,8,2024-11-17,1,7,NULL
+573,1,9,2024-11-17,1,88,NULL
+574,1,10,2024-11-17,0,0,NULL
+575,1,11,2024-11-17,0,0,"Late night, no energy"
+576,1,12,2024-11-17,1,16,Feeling motivated
+577,1,1,2024-11-18,1,35,On a roll!
+578,1,2,2024-11-18,1,18,"Early morning, very focused"
+579,1,3,2024-11-18,1,4,Managed to fit it in before dinner
+580,1,4,2024-11-18,1,41,Did it right after waking up
+581,1,5,2024-11-18,1,27,"Early morning, very focused"
+582,1,6,2024-11-18,0,7,NULL
+583,1,7,2024-11-18,1,1,Short but consistent
+584,1,8,2024-11-18,1,10,"Early morning, very focused"
+585,1,9,2024-11-18,1,82,Best session this week
+586,1,10,2024-11-18,1,13,Best session this week
+587,1,11,2024-11-18,1,11,Managed to fit it in before dinner
+588,1,12,2024-11-18,1,13,NULL
+589,1,1,2024-11-19,1,25,Managed to fit it in before dinner
+590,1,2,2024-11-19,1,25,NULL
+591,1,3,2024-11-19,1,2,"Early morning, very focused"
+592,1,4,2024-11-19,1,48,Best session this week
+593,1,5,2024-11-19,1,27,Pushed through despite tiredness
+594,1,6,2024-11-19,1,10,Short but consistent
+595,1,7,2024-11-19,1,1,Feeling motivated
+596,1,8,2024-11-19,0,0,NULL
+597,1,9,2024-11-19,1,83,Completed with energy
+598,1,10,2024-11-19,0,0,NULL
+599,1,11,2024-11-19,1,17,Pushed through despite tiredness
+600,1,12,2024-11-19,1,16,Did it right after waking up
+601,1,1,2024-11-20,1,43,Kept the streak alive
+602,1,2,2024-11-20,1,15,Felt great today
+603,1,3,2024-11-20,1,4,NULL
+604,1,4,2024-11-20,0,6,NULL
+605,1,5,2024-11-20,1,31,Pushed through despite tiredness
+606,1,6,2024-11-20,0,0,NULL
+607,1,7,2024-11-20,1,1,Kept the streak alive
+608,1,8,2024-11-20,1,7,NULL
+609,1,9,2024-11-20,1,61,NULL
+610,1,10,2024-11-20,1,5,NULL
+611,1,11,2024-11-20,1,12,Managed to fit it in before dinner
+612,1,12,2024-11-20,0,0,NULL
+613,1,1,2024-11-21,0,0,NULL
+614,1,2,2024-11-21,1,17,Best session this week
+615,1,3,2024-11-21,0,0,NULL
+616,1,4,2024-11-21,0,0,NULL
+617,1,5,2024-11-21,0,0,NULL
+618,1,6,2024-11-21,1,20,Did it right after waking up
+619,1,7,2024-11-21,1,4,Kept the streak alive
+620,1,8,2024-11-21,1,5,NULL
+621,1,9,2024-11-21,1,77,Best session this week
+622,1,10,2024-11-21,1,7,On a roll!
+623,1,11,2024-11-21,1,11,NULL
+624,1,12,2024-11-21,1,25,Completed with energy
+625,1,1,2024-11-22,0,0,Forgot in the morning rush
+626,1,2,2024-11-22,1,11,NULL
+627,1,3,2024-11-22,1,5,Felt great today
+628,1,4,2024-11-22,1,36,NULL
+629,1,5,2024-11-22,1,47,Feeling motivated
+630,1,6,2024-11-22,1,11,Kept the streak alive
+631,1,7,2024-11-22,1,1,Did it right after waking up
+632,1,8,2024-11-22,1,10,NULL
+633,1,9,2024-11-22,0,0,NULL
+634,1,10,2024-11-22,1,11,Completed with energy
+635,1,11,2024-11-22,1,18,Pushed through despite tiredness
+636,1,12,2024-11-22,1,13,Pushed through despite tiredness
+637,1,1,2024-11-23,0,0,Sick day
+638,1,2,2024-11-23,1,24,NULL
+639,1,3,2024-11-23,1,4,Managed to fit it in before dinner
+640,1,4,2024-11-23,0,0,"Late night, no energy"
+641,1,5,2024-11-23,1,32,Felt great today
+642,1,6,2024-11-23,0,0,NULL
+643,1,7,2024-11-23,0,3,NULL
+644,1,8,2024-11-23,1,10,Feeling motivated
+645,1,9,2024-11-23,0,0,NULL
+646,1,10,2024-11-23,1,5,Pushed through despite tiredness
+647,1,11,2024-11-23,1,13,Short but consistent
+648,1,12,2024-11-23,0,0,NULL
+649,1,1,2024-11-24,0,0,Forgot in the morning rush
+650,1,2,2024-11-24,0,0,NULL
+651,1,3,2024-11-24,1,4,Feeling motivated
+652,1,4,2024-11-24,0,0,NULL
+653,1,5,2024-11-24,1,49,Did it right after waking up
+654,1,6,2024-11-24,1,16,Managed to fit it in before dinner
+655,1,7,2024-11-24,1,1,Did it right after waking up
+656,1,8,2024-11-24,1,6,"Early morning, very focused"
+657,1,9,2024-11-24,0,7,NULL
+658,1,10,2024-11-24,1,13,NULL
+659,1,11,2024-11-24,1,14,Best session this week
+660,1,12,2024-11-24,1,24,Short but consistent
+661,1,1,2024-11-25,1,43,Short but consistent
+662,1,2,2024-11-25,1,22,NULL
+663,1,3,2024-11-25,1,0,Best session this week
+664,1,4,2024-11-25,1,47,Best session this week
+665,1,5,2024-11-25,1,44,Felt great today
+666,1,6,2024-11-25,1,11,Feeling motivated
+667,1,7,2024-11-25,0,0,NULL
+668,1,8,2024-11-25,1,6,NULL
+669,1,9,2024-11-25,1,69,Kept the streak alive
+670,1,10,2024-11-25,1,9,"Early morning, very focused"
+671,1,11,2024-11-25,1,17,Completed with energy
+672,1,12,2024-11-25,1,25,Did it right after waking up
+673,1,1,2024-11-26,1,31,On a roll!
+674,1,2,2024-11-26,1,17,Feeling motivated
+675,1,3,2024-11-26,1,4,NULL
+676,1,4,2024-11-26,1,39,Pushed through despite tiredness
+677,1,5,2024-11-26,1,49,NULL
+678,1,6,2024-11-26,1,18,NULL
+679,1,7,2024-11-26,0,0,NULL
+680,1,8,2024-11-26,1,10,Feeling motivated
+681,1,9,2024-11-26,1,67,Pushed through despite tiredness
+682,1,10,2024-11-26,1,12,Pushed through despite tiredness
+683,1,11,2024-11-26,1,20,Felt great today
+684,1,12,2024-11-26,1,11,Did it right after waking up
+685,1,1,2024-11-27,1,40,Best session this week
+686,1,2,2024-11-27,1,10,Best session this week
+687,1,3,2024-11-27,1,0,NULL
+688,1,4,2024-11-27,1,45,NULL
+689,1,5,2024-11-27,1,59,NULL
+690,1,6,2024-11-27,1,18,Feeling motivated
+691,1,7,2024-11-27,1,0,NULL
+692,1,8,2024-11-27,1,8,Did it right after waking up
+693,1,9,2024-11-27,0,1,NULL
+694,1,10,2024-11-27,1,13,"Early morning, very focused"
+695,1,11,2024-11-27,1,11,On a roll!
+696,1,12,2024-11-27,0,0,Sick day
+697,1,1,2024-11-28,1,40,Short but consistent
+698,1,2,2024-11-28,1,12,Managed to fit it in before dinner
+699,1,3,2024-11-28,1,3,Felt great today
+700,1,4,2024-11-28,1,35,Completed with energy
+701,1,5,2024-11-28,1,46,NULL
+702,1,6,2024-11-28,0,0,NULL
+703,1,7,2024-11-28,0,0,NULL
+704,1,8,2024-11-28,1,8,"Early morning, very focused"
+705,1,9,2024-11-28,1,88,"Early morning, very focused"
+706,1,10,2024-11-28,1,15,Felt great today
+707,1,11,2024-11-28,1,10,Best session this week
+708,1,12,2024-11-28,1,22,Completed with energy
+709,1,1,2024-11-29,1,27,NULL
+710,1,2,2024-11-29,1,20,Managed to fit it in before dinner
+711,1,3,2024-11-29,1,5,Completed with energy
+712,1,4,2024-11-29,1,31,Completed with energy
+713,1,5,2024-11-29,1,50,Did it right after waking up
+714,1,6,2024-11-29,1,14,Did it right after waking up
+715,1,7,2024-11-29,0,0,Busy with family obligations
+716,1,8,2024-11-29,1,9,NULL
+717,1,9,2024-11-29,1,63,Did it right after waking up
+718,1,10,2024-11-29,1,9,Pushed through despite tiredness
+719,1,11,2024-11-29,1,12,Feeling motivated
+720,1,12,2024-11-29,1,13,Completed with energy
+721,2,1,2024-10-01,1,34,On a roll!
+722,2,2,2024-10-01,1,14,Completed with energy
+723,2,3,2024-10-01,1,4,NULL
+724,2,4,2024-10-01,1,30,Completed with energy
+725,2,5,2024-10-01,1,45,Short but consistent
+726,2,6,2024-10-01,1,16,Managed to fit it in before dinner
+727,2,7,2024-10-01,1,4,Best session this week
+728,2,8,2024-10-01,1,10,Managed to fit it in before dinner
+729,2,9,2024-10-01,1,64,"Early morning, very focused"
+730,2,10,2024-10-01,1,7,Managed to fit it in before dinner
+731,2,11,2024-10-01,1,17,Did it right after waking up
+732,2,12,2024-10-01,1,17,Feeling motivated
+733,2,1,2024-10-02,1,39,Best session this week
+734,2,2,2024-10-02,1,19,Felt great today
+735,2,3,2024-10-02,0,0,NULL
+736,2,4,2024-10-02,1,44,On a roll!
+737,2,5,2024-10-02,1,33,"Early morning, very focused"
+738,2,6,2024-10-02,1,13,Kept the streak alive
+739,2,7,2024-10-02,1,2,"Early morning, very focused"
+740,2,8,2024-10-02,1,8,NULL
+741,2,9,2024-10-02,1,69,"Early morning, very focused"
+742,2,10,2024-10-02,1,10,Completed with energy
+743,2,11,2024-10-02,0,8,NULL
+744,2,12,2024-10-02,1,24,Feeling motivated
+745,2,1,2024-10-03,1,42,Completed with energy
+746,2,2,2024-10-03,1,25,Pushed through despite tiredness
+747,2,3,2024-10-03,1,2,NULL
+748,2,4,2024-10-03,1,42,Completed with energy
+749,2,5,2024-10-03,1,55,NULL
+750,2,6,2024-10-03,1,16,NULL
+751,2,7,2024-10-03,1,5,Did it right after waking up
+752,2,8,2024-10-03,1,5,Completed with energy
+753,2,9,2024-10-03,1,87,On a roll!
+754,2,10,2024-10-03,1,5,NULL
+755,2,11,2024-10-03,0,0,Will catch up tomorrow
+756,2,12,2024-10-03,0,0,"Late night, no energy"
+757,2,1,2024-10-04,1,36,NULL
+758,2,2,2024-10-04,1,17,Kept the streak alive
+759,2,3,2024-10-04,1,5,NULL
+760,2,4,2024-10-04,1,41,Felt great today
+761,2,5,2024-10-04,1,51,Completed with energy
+762,2,6,2024-10-04,1,12,On a roll!
+763,2,7,2024-10-04,1,1,NULL
+764,2,8,2024-10-04,1,5,Kept the streak alive
+765,2,9,2024-10-04,1,65,Completed with energy
+766,2,10,2024-10-04,1,6,Felt great today
+767,2,11,2024-10-04,0,0,NULL
+768,2,12,2024-10-04,1,17,NULL
+769,2,1,2024-10-05,1,30,NULL
+770,2,2,2024-10-05,1,17,Did it right after waking up
+771,2,3,2024-10-05,1,1,NULL
+772,2,4,2024-10-05,1,30,Feeling motivated
+773,2,5,2024-10-05,1,53,NULL
+774,2,6,2024-10-05,1,13,Best session this week
+775,2,7,2024-10-05,1,0,NULL
+776,2,8,2024-10-05,1,6,On a roll!
+777,2,9,2024-10-05,1,52,"Early morning, very focused"
+778,2,10,2024-10-05,1,13,NULL
+779,2,11,2024-10-05,1,19,Managed to fit it in before dinner
+780,2,12,2024-10-05,1,21,Short but consistent
+781,2,1,2024-10-06,1,41,Feeling motivated
+782,2,2,2024-10-06,0,0,NULL
+783,2,3,2024-10-06,1,0,Best session this week
+784,2,4,2024-10-06,1,41,Feeling motivated
+785,2,5,2024-10-06,1,51,NULL
+786,2,6,2024-10-06,1,16,Pushed through despite tiredness
+787,2,7,2024-10-06,1,5,NULL
+788,2,8,2024-10-06,0,2,NULL
+789,2,9,2024-10-06,1,73,NULL
+790,2,10,2024-10-06,1,5,Kept the streak alive
+791,2,11,2024-10-06,1,18,NULL
+792,2,12,2024-10-06,1,25,Managed to fit it in before dinner
+793,2,1,2024-10-07,1,35,Pushed through despite tiredness
+794,2,2,2024-10-07,1,17,"Early morning, very focused"
+795,2,3,2024-10-07,1,4,"Early morning, very focused"
+796,2,4,2024-10-07,1,48,Feeling motivated
+797,2,5,2024-10-07,1,60,NULL
+798,2,6,2024-10-07,1,18,Short but consistent
+799,2,7,2024-10-07,0,0,NULL
+800,2,8,2024-10-07,1,9,Best session this week
+801,2,9,2024-10-07,0,3,Too tired after work
+802,2,10,2024-10-07,1,6,Kept the streak alive
+803,2,11,2024-10-07,0,3,NULL
+804,2,12,2024-10-07,1,23,Pushed through despite tiredness
+805,2,1,2024-10-08,1,45,Felt great today
+806,2,2,2024-10-08,1,18,NULL
+807,2,3,2024-10-08,1,5,"Early morning, very focused"
+808,2,4,2024-10-08,1,46,NULL
+809,2,5,2024-10-08,1,28,"Early morning, very focused"
+810,2,6,2024-10-08,0,2,Will catch up tomorrow
+811,2,7,2024-10-08,0,0,NULL
+812,2,8,2024-10-08,1,10,"Early morning, very focused"
+813,2,9,2024-10-08,1,73,Completed with energy
+814,2,10,2024-10-08,1,13,Feeling motivated
+815,2,11,2024-10-08,1,17,Kept the streak alive
+816,2,12,2024-10-08,1,12,Feeling motivated
+817,2,1,2024-10-09,0,0,NULL
+818,2,2,2024-10-09,0,0,Busy with family obligations
+819,2,3,2024-10-09,1,2,On a roll!
+820,2,4,2024-10-09,1,48,Pushed through despite tiredness
+821,2,5,2024-10-09,0,0,Too tired after work
+822,2,6,2024-10-09,1,17,Felt great today
+823,2,7,2024-10-09,1,3,Kept the streak alive
+824,2,8,2024-10-09,1,6,Feeling motivated
+825,2,9,2024-10-09,0,0,"Late night, no energy"
+826,2,10,2024-10-09,1,9,Completed with energy
+827,2,11,2024-10-09,1,12,Felt great today
+828,2,12,2024-10-09,1,17,Managed to fit it in before dinner
+829,2,1,2024-10-10,1,23,Felt great today
+830,2,2,2024-10-10,1,14,NULL
+831,2,3,2024-10-10,1,3,Felt great today
+832,2,4,2024-10-10,1,33,Short but consistent
+833,2,5,2024-10-10,1,55,Completed with energy
+834,2,6,2024-10-10,1,11,Completed with energy
+835,2,7,2024-10-10,1,1,Managed to fit it in before dinner
+836,2,8,2024-10-10,1,10,NULL
+837,2,9,2024-10-10,1,81,Felt great today
+838,2,10,2024-10-10,0,5,NULL
+839,2,11,2024-10-10,1,16,NULL
+840,2,12,2024-10-10,1,12,Completed with energy
+841,2,1,2024-10-11,1,38,Feeling motivated
+842,2,2,2024-10-11,1,20,Did it right after waking up
+843,2,3,2024-10-11,1,0,Best session this week
+844,2,4,2024-10-11,0,0,NULL
+845,2,5,2024-10-11,1,26,Short but consistent
+846,2,6,2024-10-11,0,0,NULL
+847,2,7,2024-10-11,1,3,"Early morning, very focused"
+848,2,8,2024-10-11,1,8,Managed to fit it in before dinner
+849,2,9,2024-10-11,1,85,NULL
+850,2,10,2024-10-11,1,10,On a roll!
+851,2,11,2024-10-11,1,16,On a roll!
+852,2,12,2024-10-11,1,12,Felt great today
+853,2,1,2024-10-12,1,28,Best session this week
+854,2,2,2024-10-12,1,22,NULL
+855,2,3,2024-10-12,1,4,Did it right after waking up
+856,2,4,2024-10-12,0,0,NULL
+857,2,5,2024-10-12,1,42,Completed with energy
+858,2,6,2024-10-12,1,13,Did it right after waking up
+859,2,7,2024-10-12,1,3,NULL
+860,2,8,2024-10-12,1,10,NULL
+861,2,9,2024-10-12,1,72,Feeling motivated
+862,2,10,2024-10-12,0,0,Busy with family obligations
+863,2,11,2024-10-12,1,19,Felt great today
+864,2,12,2024-10-12,1,15,Completed with energy
+865,2,1,2024-10-13,1,42,Felt great today
+866,2,2,2024-10-13,1,18,Pushed through despite tiredness
+867,2,3,2024-10-13,0,0,NULL
+868,2,4,2024-10-13,0,0,Busy with family obligations
+869,2,5,2024-10-13,1,41,Feeling motivated
+870,2,6,2024-10-13,0,0,NULL
+871,2,7,2024-10-13,1,3,Short but consistent
+872,2,8,2024-10-13,1,6,"Early morning, very focused"
+873,2,9,2024-10-13,1,88,Feeling motivated
+874,2,10,2024-10-13,1,13,Felt great today
+875,2,11,2024-10-13,1,13,Felt great today
+876,2,12,2024-10-13,0,0,Too tired after work
+877,2,1,2024-10-14,1,43,NULL
+878,2,2,2024-10-14,1,17,Managed to fit it in before dinner
+879,2,3,2024-10-14,0,0,NULL
+880,2,4,2024-10-14,1,46,NULL
+881,2,5,2024-10-14,0,8,NULL
+882,2,6,2024-10-14,0,7,NULL
+883,2,7,2024-10-14,1,2,Completed with energy
+884,2,8,2024-10-14,1,6,"Early morning, very focused"
+885,2,9,2024-10-14,1,84,Best session this week
+886,2,10,2024-10-14,1,12,Did it right after waking up
+887,2,11,2024-10-14,1,18,Did it right after waking up
+888,2,12,2024-10-14,1,10,Managed to fit it in before dinner
+889,2,1,2024-10-15,1,31,NULL
+890,2,2,2024-10-15,1,20,Felt great today
+891,2,3,2024-10-15,1,5,Feeling motivated
+892,2,4,2024-10-15,1,46,Best session this week
+893,2,5,2024-10-15,1,34,Feeling motivated
+894,2,6,2024-10-15,1,13,Short but consistent
+895,2,7,2024-10-15,1,2,Kept the streak alive
+896,2,8,2024-10-15,0,1,NULL
+897,2,9,2024-10-15,1,49,NULL
+898,2,10,2024-10-15,1,15,Pushed through despite tiredness
+899,2,11,2024-10-15,1,15,Did it right after waking up
+900,2,12,2024-10-15,1,20,On a roll!
+901,2,1,2024-10-16,1,22,Best session this week
+902,2,2,2024-10-16,1,13,Pushed through despite tiredness
+903,2,3,2024-10-16,1,3,On a roll!
+904,2,4,2024-10-16,1,41,Did it right after waking up
+905,2,5,2024-10-16,1,54,"Early morning, very focused"
+906,2,6,2024-10-16,0,4,NULL
+907,2,7,2024-10-16,1,2,Pushed through despite tiredness
+908,2,8,2024-10-16,1,7,Managed to fit it in before dinner
+909,2,9,2024-10-16,1,64,"Early morning, very focused"
+910,2,10,2024-10-16,1,5,Managed to fit it in before dinner
+911,2,11,2024-10-16,1,18,Best session this week
+912,2,12,2024-10-16,1,14,Completed with energy
+913,2,1,2024-10-17,1,26,Short but consistent
+914,2,2,2024-10-17,1,12,NULL
+915,2,3,2024-10-17,1,0,Completed with energy
+916,2,4,2024-10-17,1,44,Did it right after waking up
+917,2,5,2024-10-17,1,32,Felt great today
+918,2,6,2024-10-17,0,6,NULL
+919,2,7,2024-10-17,1,3,NULL
+920,2,8,2024-10-17,1,6,Pushed through despite tiredness
+921,2,9,2024-10-17,1,54,Felt great today
+922,2,10,2024-10-17,1,8,NULL
+923,2,11,2024-10-17,1,17,Felt great today
+924,2,12,2024-10-17,1,14,Managed to fit it in before dinner
+925,2,1,2024-10-18,1,27,NULL
+926,2,2,2024-10-18,0,0,Busy with family obligations
+927,2,3,2024-10-18,1,3,NULL
+928,2,4,2024-10-18,1,48,NULL
+929,2,5,2024-10-18,1,36,Felt great today
+930,2,6,2024-10-18,1,10,Did it right after waking up
+931,2,7,2024-10-18,1,3,NULL
+932,2,8,2024-10-18,1,6,Pushed through despite tiredness
+933,2,9,2024-10-18,1,60,"Early morning, very focused"
+934,2,10,2024-10-18,1,5,Did it right after waking up
+935,2,11,2024-10-18,0,0,NULL
+936,2,12,2024-10-18,1,15,Pushed through despite tiredness
+937,2,1,2024-10-19,1,45,Feeling motivated
+938,2,2,2024-10-19,1,10,Feeling motivated
+939,2,3,2024-10-19,1,4,Pushed through despite tiredness
+940,2,4,2024-10-19,1,45,NULL
+941,2,5,2024-10-19,1,27,Completed with energy
+942,2,6,2024-10-19,1,13,Felt great today
+943,2,7,2024-10-19,1,2,NULL
+944,2,8,2024-10-19,1,7,Feeling motivated
+945,2,9,2024-10-19,1,46,Pushed through despite tiredness
+946,2,10,2024-10-19,1,6,Short but consistent
+947,2,11,2024-10-19,0,0,Busy with family obligations
+948,2,12,2024-10-19,1,19,On a roll!
+949,2,1,2024-10-20,1,43,Managed to fit it in before dinner
+950,2,2,2024-10-20,0,0,NULL
+951,2,3,2024-10-20,1,5,NULL
+952,2,4,2024-10-20,0,0,NULL
+953,2,5,2024-10-20,1,43,Pushed through despite tiredness
+954,2,6,2024-10-20,1,19,Managed to fit it in before dinner
+955,2,7,2024-10-20,0,0,NULL
+956,2,8,2024-10-20,1,9,Best session this week
+957,2,9,2024-10-20,0,7,Skipped due to travel
+958,2,10,2024-10-20,1,7,NULL
+959,2,11,2024-10-20,0,5,NULL
+960,2,12,2024-10-20,1,12,On a roll!
+961,2,1,2024-10-21,1,43,Felt great today
+962,2,2,2024-10-21,1,23,Pushed through despite tiredness
+963,2,3,2024-10-21,1,3,On a roll!
+964,2,4,2024-10-21,1,45,Did it right after waking up
+965,2,5,2024-10-21,1,39,Pushed through despite tiredness
+966,2,6,2024-10-21,1,14,Felt great today
+967,2,7,2024-10-21,1,0,On a roll!
+968,2,8,2024-10-21,1,6,Feeling motivated
+969,2,9,2024-10-21,1,66,NULL
+970,2,10,2024-10-21,0,0,NULL
+971,2,11,2024-10-21,1,12,NULL
+972,2,12,2024-10-21,1,13,On a roll!
+973,2,1,2024-10-22,1,33,Feeling motivated
+974,2,2,2024-10-22,1,18,NULL
+975,2,3,2024-10-22,1,0,Managed to fit it in before dinner
+976,2,4,2024-10-22,1,34,Felt great today
+977,2,5,2024-10-22,1,30,"Early morning, very focused"
+978,2,6,2024-10-22,1,19,Kept the streak alive
+979,2,7,2024-10-22,1,1,Pushed through despite tiredness
+980,2,8,2024-10-22,1,5,"Early morning, very focused"
+981,2,9,2024-10-22,1,76,NULL
+982,2,10,2024-10-22,1,13,Managed to fit it in before dinner
+983,2,11,2024-10-22,1,15,Pushed through despite tiredness
+984,2,12,2024-10-22,1,24,Kept the streak alive
+985,2,1,2024-10-23,1,38,Felt great today
+986,2,2,2024-10-23,1,13,Completed with energy
+987,2,3,2024-10-23,0,0,NULL
+988,2,4,2024-10-23,1,47,Felt great today
+989,2,5,2024-10-23,1,51,NULL
+990,2,6,2024-10-23,1,19,Best session this week
+991,2,7,2024-10-23,1,3,Short but consistent
+992,2,8,2024-10-23,0,0,NULL
+993,2,9,2024-10-23,1,84,Pushed through despite tiredness
+994,2,10,2024-10-23,1,7,Pushed through despite tiredness
+995,2,11,2024-10-23,0,0,Busy with family obligations
+996,2,12,2024-10-23,1,23,Best session this week
+997,2,1,2024-10-24,0,0,NULL
+998,2,2,2024-10-24,1,12,Completed with energy
+999,2,3,2024-10-24,1,4,On a roll!
+1000,2,4,2024-10-24,1,44,Short but consistent
+1001,2,5,2024-10-24,1,58,Did it right after waking up
+1002,2,6,2024-10-24,1,12,Pushed through despite tiredness
+1003,2,7,2024-10-24,1,0,Completed with energy
+1004,2,8,2024-10-24,0,4,NULL
+1005,2,9,2024-10-24,1,61,Managed to fit it in before dinner
+1006,2,10,2024-10-24,1,14,Kept the streak alive
+1007,2,11,2024-10-24,1,16,Pushed through despite tiredness
+1008,2,12,2024-10-24,1,22,Felt great today
+1009,2,1,2024-10-25,1,42,Best session this week
+1010,2,2,2024-10-25,1,18,On a roll!
+1011,2,3,2024-10-25,1,2,"Early morning, very focused"
+1012,2,4,2024-10-25,1,33,Short but consistent
+1013,2,5,2024-10-25,1,53,Did it right after waking up
+1014,2,6,2024-10-25,1,16,NULL
+1015,2,7,2024-10-25,1,3,Best session this week
+1016,2,8,2024-10-25,0,0,NULL
+1017,2,9,2024-10-25,1,48,NULL
+1018,2,10,2024-10-25,1,9,Feeling motivated
+1019,2,11,2024-10-25,1,18,NULL
+1020,2,12,2024-10-25,1,16,Short but consistent
+1021,2,1,2024-10-26,1,34,Felt great today
+1022,2,2,2024-10-26,0,0,NULL
+1023,2,3,2024-10-26,1,0,NULL
+1024,2,4,2024-10-26,1,45,NULL
+1025,2,5,2024-10-26,0,0,NULL
+1026,2,6,2024-10-26,1,14,Feeling motivated
+1027,2,7,2024-10-26,0,0,Forgot in the morning rush
+1028,2,8,2024-10-26,0,0,Sick day
+1029,2,9,2024-10-26,1,58,"Early morning, very focused"
+1030,2,10,2024-10-26,1,5,Short but consistent
+1031,2,11,2024-10-26,0,0,Forgot in the morning rush
+1032,2,12,2024-10-26,1,10,Best session this week
+1033,2,1,2024-10-27,1,42,Feeling motivated
+1034,2,2,2024-10-27,1,22,Short but consistent
+1035,2,3,2024-10-27,1,1,Kept the streak alive
+1036,2,4,2024-10-27,1,49,Managed to fit it in before dinner
+1037,2,5,2024-10-27,0,5,NULL
+1038,2,6,2024-10-27,0,0,NULL
+1039,2,7,2024-10-27,1,2,NULL
+1040,2,8,2024-10-27,1,7,NULL
+1041,2,9,2024-10-27,1,64,Best session this week
+1042,2,10,2024-10-27,1,5,Did it right after waking up
+1043,2,11,2024-10-27,0,0,NULL
+1044,2,12,2024-10-27,1,10,NULL
+1045,2,1,2024-10-28,1,28,Managed to fit it in before dinner
+1046,2,2,2024-10-28,1,11,NULL
+1047,2,3,2024-10-28,1,1,On a roll!
+1048,2,4,2024-10-28,1,47,NULL
+1049,2,5,2024-10-28,0,0,NULL
+1050,2,6,2024-10-28,1,20,NULL
+1051,2,7,2024-10-28,1,3,Pushed through despite tiredness
+1052,2,8,2024-10-28,1,9,Did it right after waking up
+1053,2,9,2024-10-28,0,0,NULL
+1054,2,10,2024-10-28,1,10,Best session this week
+1055,2,11,2024-10-28,1,16,Did it right after waking up
+1056,2,12,2024-10-28,1,18,NULL
+1057,2,1,2024-10-29,1,35,Felt great today
+1058,2,2,2024-10-29,0,0,NULL
+1059,2,3,2024-10-29,1,4,Completed with energy
+1060,2,4,2024-10-29,0,0,Too tired after work
+1061,2,5,2024-10-29,0,3,NULL
+1062,2,6,2024-10-29,0,0,Forgot in the morning rush
+1063,2,7,2024-10-29,1,2,NULL
+1064,2,8,2024-10-29,0,0,NULL
+1065,2,9,2024-10-29,1,81,Did it right after waking up
+1066,2,10,2024-10-29,1,14,Managed to fit it in before dinner
+1067,2,11,2024-10-29,1,16,Kept the streak alive
+1068,2,12,2024-10-29,1,16,Feeling motivated
+1069,2,1,2024-10-30,1,30,Did it right after waking up
+1070,2,2,2024-10-30,0,0,NULL
+1071,2,3,2024-10-30,1,2,"Early morning, very focused"
+1072,2,4,2024-10-30,1,46,NULL
+1073,2,5,2024-10-30,1,27,"Early morning, very focused"
+1074,2,6,2024-10-30,0,0,NULL
+1075,2,7,2024-10-30,1,5,Pushed through despite tiredness
+1076,2,8,2024-10-30,1,7,Did it right after waking up
+1077,2,9,2024-10-30,1,46,Best session this week
+1078,2,10,2024-10-30,1,8,Feeling motivated
+1079,2,11,2024-10-30,1,12,Completed with energy
+1080,2,12,2024-10-30,1,11,Managed to fit it in before dinner
+1081,2,1,2024-10-31,1,44,NULL
+1082,2,2,2024-10-31,1,11,NULL
+1083,2,3,2024-10-31,1,5,Completed with energy
+1084,2,4,2024-10-31,1,33,NULL
+1085,2,5,2024-10-31,1,34,Best session this week
+1086,2,6,2024-10-31,1,10,"Early morning, very focused"
+1087,2,7,2024-10-31,1,5,NULL
+1088,2,8,2024-10-31,1,10,Pushed through despite tiredness
+1089,2,9,2024-10-31,1,77,Feeling motivated
+1090,2,10,2024-10-31,1,6,Did it right after waking up
+1091,2,11,2024-10-31,1,19,Best session this week
+1092,2,12,2024-10-31,0,0,NULL
+1093,2,1,2024-11-01,1,29,Pushed through despite tiredness
+1094,2,2,2024-11-01,1,16,Feeling motivated
+1095,2,3,2024-11-01,0,0,Skipped due to travel
+1096,2,4,2024-11-01,0,0,NULL
+1097,2,5,2024-11-01,1,57,Completed with energy
+1098,2,6,2024-11-01,1,14,NULL
+1099,2,7,2024-11-01,1,2,Kept the streak alive
+1100,2,8,2024-11-01,1,5,Short but consistent
+1101,2,9,2024-11-01,1,65,Managed to fit it in before dinner
+1102,2,10,2024-11-01,1,5,Felt great today
+1103,2,11,2024-11-01,1,20,Pushed through despite tiredness
+1104,2,12,2024-11-01,1,18,Feeling motivated
+1105,2,1,2024-11-02,1,23,Managed to fit it in before dinner
+1106,2,2,2024-11-02,1,18,Short but consistent
+1107,2,3,2024-11-02,1,3,NULL
+1108,2,4,2024-11-02,0,2,NULL
+1109,2,5,2024-11-02,1,31,Managed to fit it in before dinner
+1110,2,6,2024-11-02,0,0,NULL
+1111,2,7,2024-11-02,1,3,Did it right after waking up
+1112,2,8,2024-11-02,1,10,Short but consistent
+1113,2,9,2024-11-02,1,75,Kept the streak alive
+1114,2,10,2024-11-02,1,12,Felt great today
+1115,2,11,2024-11-02,1,15,Felt great today
+1116,2,12,2024-11-02,0,0,NULL
+1117,2,1,2024-11-03,0,0,NULL
+1118,2,2,2024-11-03,1,13,Managed to fit it in before dinner
+1119,2,3,2024-11-03,1,3,On a roll!
+1120,2,4,2024-11-03,1,42,Pushed through despite tiredness
+1121,2,5,2024-11-03,0,0,NULL
+1122,2,6,2024-11-03,1,12,NULL
+1123,2,7,2024-11-03,0,0,NULL
+1124,2,8,2024-11-03,1,7,Best session this week
+1125,2,9,2024-11-03,1,48,NULL
+1126,2,10,2024-11-03,1,11,Managed to fit it in before dinner
+1127,2,11,2024-11-03,0,7,NULL
+1128,2,12,2024-11-03,1,24,On a roll!
+1129,2,1,2024-11-04,1,43,NULL
+1130,2,2,2024-11-04,1,23,Felt great today
+1131,2,3,2024-11-04,1,0,Did it right after waking up
+1132,2,4,2024-11-04,1,50,"Early morning, very focused"
+1133,2,5,2024-11-04,0,0,NULL
+1134,2,6,2024-11-04,1,15,Short but consistent
+1135,2,7,2024-11-04,1,3,On a roll!
+1136,2,8,2024-11-04,1,9,Kept the streak alive
+1137,2,9,2024-11-04,1,90,Kept the streak alive
+1138,2,10,2024-11-04,1,8,Felt great today
+1139,2,11,2024-11-04,1,14,NULL
+1140,2,12,2024-11-04,1,13,Felt great today
+1141,2,1,2024-11-05,0,0,NULL
+1142,2,2,2024-11-05,1,13,"Early morning, very focused"
+1143,2,3,2024-11-05,1,0,Short but consistent
+1144,2,4,2024-11-05,1,36,Feeling motivated
+1145,2,5,2024-11-05,1,27,NULL
+1146,2,6,2024-11-05,0,0,NULL
+1147,2,7,2024-11-05,1,4,NULL
+1148,2,8,2024-11-05,1,5,NULL
+1149,2,9,2024-11-05,1,72,Short but consistent
+1150,2,10,2024-11-05,1,7,Feeling motivated
+1151,2,11,2024-11-05,1,12,Completed with energy
+1152,2,12,2024-11-05,1,20,NULL
+1153,2,1,2024-11-06,0,0,NULL
+1154,2,2,2024-11-06,1,18,Managed to fit it in before dinner
+1155,2,3,2024-11-06,0,0,NULL
+1156,2,4,2024-11-06,1,49,Feeling motivated
+1157,2,5,2024-11-06,0,0,NULL
+1158,2,6,2024-11-06,1,18,NULL
+1159,2,7,2024-11-06,1,4,Feeling motivated
+1160,2,8,2024-11-06,1,10,Pushed through despite tiredness
+1161,2,9,2024-11-06,0,0,NULL
+1162,2,10,2024-11-06,1,15,On a roll!
+1163,2,11,2024-11-06,1,18,Kept the streak alive
+1164,2,12,2024-11-06,1,23,NULL
+1165,2,1,2024-11-07,1,29,Short but consistent
+1166,2,2,2024-11-07,1,13,Felt great today
+1167,2,3,2024-11-07,1,5,Felt great today
+1168,2,4,2024-11-07,1,39,NULL
+1169,2,5,2024-11-07,1,43,Best session this week
+1170,2,6,2024-11-07,1,15,Short but consistent
+1171,2,7,2024-11-07,1,5,Feeling motivated
+1172,2,8,2024-11-07,1,10,NULL
+1173,2,9,2024-11-07,1,89,"Early morning, very focused"
+1174,2,10,2024-11-07,1,11,Managed to fit it in before dinner
+1175,2,11,2024-11-07,0,0,NULL
+1176,2,12,2024-11-07,1,18,Best session this week
+1177,2,1,2024-11-08,1,27,NULL
+1178,2,2,2024-11-08,0,0,NULL
+1179,2,3,2024-11-08,1,1,Did it right after waking up
+1180,2,4,2024-11-08,1,39,Kept the streak alive
+1181,2,5,2024-11-08,1,29,Pushed through despite tiredness
+1182,2,6,2024-11-08,0,0,Too tired after work
+1183,2,7,2024-11-08,1,2,Pushed through despite tiredness
+1184,2,8,2024-11-08,1,5,On a roll!
+1185,2,9,2024-11-08,1,47,Pushed through despite tiredness
+1186,2,10,2024-11-08,0,0,NULL
+1187,2,11,2024-11-08,1,14,Kept the streak alive
+1188,2,12,2024-11-08,1,21,Completed with energy
+1189,2,1,2024-11-09,0,0,Forgot in the morning rush
+1190,2,2,2024-11-09,0,0,NULL
+1191,2,3,2024-11-09,1,2,Best session this week
+1192,2,4,2024-11-09,0,0,"Late night, no energy"
+1193,2,5,2024-11-09,1,58,Kept the streak alive
+1194,2,6,2024-11-09,0,0,NULL
+1195,2,7,2024-11-09,1,2,Kept the streak alive
+1196,2,8,2024-11-09,1,9,NULL
+1197,2,9,2024-11-09,1,88,On a roll!
+1198,2,10,2024-11-09,0,0,"Late night, no energy"
+1199,2,11,2024-11-09,1,10,NULL
+1200,2,12,2024-11-09,0,0,NULL
+1201,2,1,2024-11-10,1,29,NULL
+1202,2,2,2024-11-10,1,12,Completed with energy
+1203,2,3,2024-11-10,1,4,Felt great today
+1204,2,4,2024-11-10,1,50,Did it right after waking up
+1205,2,5,2024-11-10,1,52,Short but consistent
+1206,2,6,2024-11-10,1,16,NULL
+1207,2,7,2024-11-10,0,2,Will catch up tomorrow
+1208,2,8,2024-11-10,1,5,Pushed through despite tiredness
+1209,2,9,2024-11-10,0,0,NULL
+1210,2,10,2024-11-10,1,11,Managed to fit it in before dinner
+1211,2,11,2024-11-10,1,16,On a roll!
+1212,2,12,2024-11-10,1,13,NULL
+1213,2,1,2024-11-11,1,39,Completed with energy
+1214,2,2,2024-11-11,1,11,Feeling motivated
+1215,2,3,2024-11-11,1,4,Completed with energy
+1216,2,4,2024-11-11,1,39,NULL
+1217,2,5,2024-11-11,1,49,Managed to fit it in before dinner
+1218,2,6,2024-11-11,0,2,NULL
+1219,2,7,2024-11-11,1,4,"Early morning, very focused"
+1220,2,8,2024-11-11,0,5,NULL
+1221,2,9,2024-11-11,1,54,Completed with energy
+1222,2,10,2024-11-11,1,14,Managed to fit it in before dinner
+1223,2,11,2024-11-11,1,14,Best session this week
+1224,2,12,2024-11-11,1,21,Best session this week
+1225,2,1,2024-11-12,1,36,Pushed through despite tiredness
+1226,2,2,2024-11-12,1,18,Best session this week
+1227,2,3,2024-11-12,1,4,Short but consistent
+1228,2,4,2024-11-12,1,44,NULL
+1229,2,5,2024-11-12,1,29,"Early morning, very focused"
+1230,2,6,2024-11-12,1,19,Kept the streak alive
+1231,2,7,2024-11-12,0,0,NULL
+1232,2,8,2024-11-12,1,9,Completed with energy
+1233,2,9,2024-11-12,0,0,NULL
+1234,2,10,2024-11-12,1,14,Pushed through despite tiredness
+1235,2,11,2024-11-12,1,15,Managed to fit it in before dinner
+1236,2,12,2024-11-12,1,17,Did it right after waking up
+1237,2,1,2024-11-13,1,40,Managed to fit it in before dinner
+1238,2,2,2024-11-13,1,14,NULL
+1239,2,3,2024-11-13,1,3,Kept the streak alive
+1240,2,4,2024-11-13,1,45,NULL
+1241,2,5,2024-11-13,1,30,Short but consistent
+1242,2,6,2024-11-13,1,18,Best session this week
+1243,2,7,2024-11-13,1,0,Feeling motivated
+1244,2,8,2024-11-13,1,9,NULL
+1245,2,9,2024-11-13,1,82,Managed to fit it in before dinner
+1246,2,10,2024-11-13,1,5,NULL
+1247,2,11,2024-11-13,1,17,NULL
+1248,2,12,2024-11-13,1,22,Best session this week
+1249,2,1,2024-11-14,1,43,Short but consistent
+1250,2,2,2024-11-14,1,12,Managed to fit it in before dinner
+1251,2,3,2024-11-14,1,1,Short but consistent
+1252,2,4,2024-11-14,0,0,NULL
+1253,2,5,2024-11-14,1,35,Pushed through despite tiredness
+1254,2,6,2024-11-14,1,20,Short but consistent
+1255,2,7,2024-11-14,0,0,NULL
+1256,2,8,2024-11-14,1,8,Best session this week
+1257,2,9,2024-11-14,1,59,Felt great today
+1258,2,10,2024-11-14,1,10,Managed to fit it in before dinner
+1259,2,11,2024-11-14,1,10,Felt great today
+1260,2,12,2024-11-14,0,0,NULL
+1261,2,1,2024-11-15,1,43,"Early morning, very focused"
+1262,2,2,2024-11-15,1,15,Managed to fit it in before dinner
+1263,2,3,2024-11-15,0,0,NULL
+1264,2,4,2024-11-15,0,0,Sick day
+1265,2,5,2024-11-15,0,0,NULL
+1266,2,6,2024-11-15,1,19,Felt great today
+1267,2,7,2024-11-15,1,3,Pushed through despite tiredness
+1268,2,8,2024-11-15,1,10,"Early morning, very focused"
+1269,2,9,2024-11-15,1,55,On a roll!
+1270,2,10,2024-11-15,1,15,Best session this week
+1271,2,11,2024-11-15,1,11,Kept the streak alive
+1272,2,12,2024-11-15,1,16,NULL
+1273,2,1,2024-11-16,1,20,Best session this week
+1274,2,2,2024-11-16,1,15,Pushed through despite tiredness
+1275,2,3,2024-11-16,0,2,"Late night, no energy"
+1276,2,4,2024-11-16,0,0,NULL
+1277,2,5,2024-11-16,0,0,NULL
+1278,2,6,2024-11-16,1,11,Best session this week
+1279,2,7,2024-11-16,1,3,Pushed through despite tiredness
+1280,2,8,2024-11-16,1,9,Pushed through despite tiredness
+1281,2,9,2024-11-16,0,0,NULL
+1282,2,10,2024-11-16,1,15,On a roll!
+1283,2,11,2024-11-16,0,0,Busy with family obligations
+1284,2,12,2024-11-16,1,10,Best session this week
+1285,2,1,2024-11-17,1,41,Managed to fit it in before dinner
+1286,2,2,2024-11-17,0,0,NULL
+1287,2,3,2024-11-17,0,0,NULL
+1288,2,4,2024-11-17,0,2,NULL
+1289,2,5,2024-11-17,1,52,NULL
+1290,2,6,2024-11-17,1,18,Managed to fit it in before dinner
+1291,2,7,2024-11-17,1,3,On a roll!
+1292,2,8,2024-11-17,1,10,NULL
+1293,2,9,2024-11-17,1,61,Kept the streak alive
+1294,2,10,2024-11-17,1,14,NULL
+1295,2,11,2024-11-17,1,10,Feeling motivated
+1296,2,12,2024-11-17,0,8,Too tired after work
+1297,2,1,2024-11-18,1,45,On a roll!
+1298,2,2,2024-11-18,1,14,Managed to fit it in before dinner
+1299,2,3,2024-11-18,1,2,Short but consistent
+1300,2,4,2024-11-18,1,41,NULL
+1301,2,5,2024-11-18,1,50,Did it right after waking up
+1302,2,6,2024-11-18,1,18,Kept the streak alive
+1303,2,7,2024-11-18,1,4,Kept the streak alive
+1304,2,8,2024-11-18,1,9,On a roll!
+1305,2,9,2024-11-18,1,53,Short but consistent
+1306,2,10,2024-11-18,0,3,NULL
+1307,2,11,2024-11-18,1,11,Best session this week
+1308,2,12,2024-11-18,1,11,Pushed through despite tiredness
+1309,2,1,2024-11-19,1,20,Did it right after waking up
+1310,2,2,2024-11-19,1,25,NULL
+1311,2,3,2024-11-19,1,2,Best session this week
+1312,2,4,2024-11-19,1,31,Feeling motivated
+1313,2,5,2024-11-19,1,58,"Early morning, very focused"
+1314,2,6,2024-11-19,1,10,Did it right after waking up
+1315,2,7,2024-11-19,1,3,Kept the streak alive
+1316,2,8,2024-11-19,1,9,"Early morning, very focused"
+1317,2,9,2024-11-19,1,77,NULL
+1318,2,10,2024-11-19,0,0,NULL
+1319,2,11,2024-11-19,1,10,Pushed through despite tiredness
+1320,2,12,2024-11-19,1,22,On a roll!
+1321,2,1,2024-11-20,0,0,Too tired after work
+1322,2,2,2024-11-20,1,12,NULL
+1323,2,3,2024-11-20,1,4,On a roll!
+1324,2,4,2024-11-20,1,37,NULL
+1325,2,5,2024-11-20,0,0,NULL
+1326,2,6,2024-11-20,1,18,Completed with energy
+1327,2,7,2024-11-20,1,2,On a roll!
+1328,2,8,2024-11-20,0,0,NULL
+1329,2,9,2024-11-20,1,61,Feeling motivated
+1330,2,10,2024-11-20,1,14,Kept the streak alive
+1331,2,11,2024-11-20,1,17,NULL
+1332,2,12,2024-11-20,1,10,Kept the streak alive
+1333,2,1,2024-11-21,1,32,NULL
+1334,2,2,2024-11-21,1,17,Did it right after waking up
+1335,2,3,2024-11-21,1,4,NULL
+1336,2,4,2024-11-21,1,37,"Early morning, very focused"
+1337,2,5,2024-11-21,1,46,Completed with energy
+1338,2,6,2024-11-21,0,5,NULL
+1339,2,7,2024-11-21,1,5,Best session this week
+1340,2,8,2024-11-21,1,6,Feeling motivated
+1341,2,9,2024-11-21,1,58,Best session this week
+1342,2,10,2024-11-21,1,14,On a roll!
+1343,2,11,2024-11-21,1,11,Completed with energy
+1344,2,12,2024-11-21,1,25,NULL
+1345,2,1,2024-11-22,1,21,Short but consistent
+1346,2,2,2024-11-22,1,20,Kept the streak alive
+1347,2,3,2024-11-22,1,2,Kept the streak alive
+1348,2,4,2024-11-22,1,38,Managed to fit it in before dinner
+1349,2,5,2024-11-22,1,33,Felt great today
+1350,2,6,2024-11-22,0,0,NULL
+1351,2,7,2024-11-22,1,3,Short but consistent
+1352,2,8,2024-11-22,1,8,Completed with energy
+1353,2,9,2024-11-22,1,65,Feeling motivated
+1354,2,10,2024-11-22,1,8,Managed to fit it in before dinner
+1355,2,11,2024-11-22,1,15,NULL
+1356,2,12,2024-11-22,1,18,Best session this week
+1357,2,1,2024-11-23,1,30,On a roll!
+1358,2,2,2024-11-23,1,16,Managed to fit it in before dinner
+1359,2,3,2024-11-23,1,2,Short but consistent
+1360,2,4,2024-11-23,1,35,NULL
+1361,2,5,2024-11-23,1,39,Short but consistent
+1362,2,6,2024-11-23,1,13,NULL
+1363,2,7,2024-11-23,1,1,Pushed through despite tiredness
+1364,2,8,2024-11-23,0,0,NULL
+1365,2,9,2024-11-23,1,76,Pushed through despite tiredness
+1366,2,10,2024-11-23,0,0,NULL
+1367,2,11,2024-11-23,1,14,"Early morning, very focused"
+1368,2,12,2024-11-23,1,11,Managed to fit it in before dinner
+1369,2,1,2024-11-24,1,21,Best session this week
+1370,2,2,2024-11-24,0,0,NULL
+1371,2,3,2024-11-24,1,2,On a roll!
+1372,2,4,2024-11-24,1,38,On a roll!
+1373,2,5,2024-11-24,1,47,Short but consistent
+1374,2,6,2024-11-24,1,13,NULL
+1375,2,7,2024-11-24,1,4,Pushed through despite tiredness
+1376,2,8,2024-11-24,0,0,NULL
+1377,2,9,2024-11-24,1,73,Completed with energy
+1378,2,10,2024-11-24,1,12,NULL
+1379,2,11,2024-11-24,0,0,NULL
+1380,2,12,2024-11-24,0,0,NULL
+1381,2,1,2024-11-25,1,22,Pushed through despite tiredness
+1382,2,2,2024-11-25,1,20,NULL
+1383,2,3,2024-11-25,1,4,NULL
+1384,2,4,2024-11-25,1,41,Feeling motivated
+1385,2,5,2024-11-25,1,51,Pushed through despite tiredness
+1386,2,6,2024-11-25,1,12,Feeling motivated
+1387,2,7,2024-11-25,1,5,Feeling motivated
+1388,2,8,2024-11-25,1,8,Completed with energy
+1389,2,9,2024-11-25,1,80,Felt great today
+1390,2,10,2024-11-25,1,13,Did it right after waking up
+1391,2,11,2024-11-25,0,2,Busy with family obligations
+1392,2,12,2024-11-25,1,19,Kept the streak alive
+1393,2,1,2024-11-26,1,36,Short but consistent
+1394,2,2,2024-11-26,1,21,Short but consistent
+1395,2,3,2024-11-26,0,0,NULL
+1396,2,4,2024-11-26,1,44,Pushed through despite tiredness
+1397,2,5,2024-11-26,0,0,NULL
+1398,2,6,2024-11-26,1,20,NULL
+1399,2,7,2024-11-26,1,5,NULL
+1400,2,8,2024-11-26,1,8,NULL
+1401,2,9,2024-11-26,1,64,On a roll!
+1402,2,10,2024-11-26,1,9,Felt great today
+1403,2,11,2024-11-26,1,15,"Early morning, very focused"
+1404,2,12,2024-11-26,1,25,Did it right after waking up
+1405,2,1,2024-11-27,1,45,"Early morning, very focused"
+1406,2,2,2024-11-27,1,21,Best session this week
+1407,2,3,2024-11-27,1,3,Managed to fit it in before dinner
+1408,2,4,2024-11-27,1,50,Managed to fit it in before dinner
+1409,2,5,2024-11-27,0,0,Sick day
+1410,2,6,2024-11-27,1,20,"Early morning, very focused"
+1411,2,7,2024-11-27,1,4,Did it right after waking up
+1412,2,8,2024-11-27,1,5,Pushed through despite tiredness
+1413,2,9,2024-11-27,1,85,Kept the streak alive
+1414,2,10,2024-11-27,1,14,Kept the streak alive
+1415,2,11,2024-11-27,1,12,Felt great today
+1416,2,12,2024-11-27,0,1,Forgot in the morning rush
+1417,2,1,2024-11-28,0,0,Forgot in the morning rush
+1418,2,2,2024-11-28,1,20,Managed to fit it in before dinner
+1419,2,3,2024-11-28,1,2,Kept the streak alive
+1420,2,4,2024-11-28,0,1,NULL
+1421,2,5,2024-11-28,0,6,NULL
+1422,2,6,2024-11-28,1,16,Short but consistent
+1423,2,7,2024-11-28,1,1,Managed to fit it in before dinner
+1424,2,8,2024-11-28,1,6,Feeling motivated
+1425,2,9,2024-11-28,0,1,NULL
+1426,2,10,2024-11-28,0,0,NULL
+1427,2,11,2024-11-28,1,12,NULL
+1428,2,12,2024-11-28,1,13,"Early morning, very focused"
+1429,2,1,2024-11-29,0,0,Too tired after work
+1430,2,2,2024-11-29,1,13,Best session this week
+1431,2,3,2024-11-29,1,0,Pushed through despite tiredness
+1432,2,4,2024-11-29,0,0,Sick day
+1433,2,5,2024-11-29,1,55,Feeling motivated
+1434,2,6,2024-11-29,1,11,Best session this week
+1435,2,7,2024-11-29,1,5,NULL
+1436,2,8,2024-11-29,1,5,Felt great today
+1437,2,9,2024-11-29,1,89,NULL
+1438,2,10,2024-11-29,1,12,Best session this week
+1439,2,11,2024-11-29,1,20,Did it right after waking up
+1440,2,12,2024-11-29,1,16,Felt great today
+1441,3,1,2024-10-01,0,0,Too tired after work
+1442,3,2,2024-10-01,1,19,NULL
+1443,3,3,2024-10-01,0,2,NULL
+1444,3,4,2024-10-01,1,38,Short but consistent
+1445,3,5,2024-10-01,0,0,NULL
+1446,3,6,2024-10-01,1,17,"Early morning, very focused"
+1447,3,7,2024-10-01,0,0,NULL
+1448,3,8,2024-10-01,0,0,NULL
+1449,3,9,2024-10-01,0,0,NULL
+1450,3,10,2024-10-01,1,6,NULL
+1451,3,11,2024-10-01,0,0,NULL
+1452,3,12,2024-10-01,0,4,Will catch up tomorrow
+1453,3,1,2024-10-02,1,41,Completed with energy
+1454,3,2,2024-10-02,1,15,Short but consistent
+1455,3,3,2024-10-02,1,3,Best session this week
+1456,3,4,2024-10-02,1,50,Short but consistent
+1457,3,5,2024-10-02,1,58,NULL
+1458,3,6,2024-10-02,0,0,NULL
+1459,3,7,2024-10-02,0,3,NULL
+1460,3,8,2024-10-02,0,0,NULL
+1461,3,9,2024-10-02,0,0,NULL
+1462,3,10,2024-10-02,0,0,NULL
+1463,3,11,2024-10-02,1,14,NULL
+1464,3,12,2024-10-02,1,19,Completed with energy
+1465,3,1,2024-10-03,0,0,Sick day
+1466,3,2,2024-10-03,0,8,NULL
+1467,3,3,2024-10-03,0,0,NULL
+1468,3,4,2024-10-03,0,0,NULL
+1469,3,5,2024-10-03,0,0,NULL
+1470,3,6,2024-10-03,1,12,Did it right after waking up
+1471,3,7,2024-10-03,1,4,On a roll!
+1472,3,8,2024-10-03,0,0,NULL
+1473,3,9,2024-10-03,0,0,NULL
+1474,3,10,2024-10-03,0,0,NULL
+1475,3,11,2024-10-03,0,0,Sick day
+1476,3,12,2024-10-03,0,0,NULL
+1477,3,1,2024-10-04,0,0,NULL
+1478,3,2,2024-10-04,1,10,Feeling motivated
+1479,3,3,2024-10-04,1,4,Felt great today
+1480,3,4,2024-10-04,1,30,"Early morning, very focused"
+1481,3,5,2024-10-04,0,0,"Late night, no energy"
+1482,3,6,2024-10-04,0,0,NULL
+1483,3,7,2024-10-04,0,7,Forgot in the morning rush
+1484,3,8,2024-10-04,1,6,Best session this week
+1485,3,9,2024-10-04,1,50,NULL
+1486,3,10,2024-10-04,1,6,Feeling motivated
+1487,3,11,2024-10-04,1,12,Kept the streak alive
+1488,3,12,2024-10-04,0,0,NULL
+1489,3,1,2024-10-05,0,0,NULL
+1490,3,2,2024-10-05,0,0,NULL
+1491,3,3,2024-10-05,1,3,Short but consistent
+1492,3,4,2024-10-05,1,50,Short but consistent
+1493,3,5,2024-10-05,0,6,NULL
+1494,3,6,2024-10-05,1,19,Pushed through despite tiredness
+1495,3,7,2024-10-05,1,1,Pushed through despite tiredness
+1496,3,8,2024-10-05,1,8,Kept the streak alive
+1497,3,9,2024-10-05,0,0,Busy with family obligations
+1498,3,10,2024-10-05,1,7,Pushed through despite tiredness
+1499,3,11,2024-10-05,1,19,Feeling motivated
+1500,3,12,2024-10-05,1,18,Completed with energy
+1501,3,1,2024-10-06,0,0,NULL
+1502,3,2,2024-10-06,0,0,Busy with family obligations
+1503,3,3,2024-10-06,0,8,Skipped due to travel
+1504,3,4,2024-10-06,1,40,NULL
+1505,3,5,2024-10-06,0,6,NULL
+1506,3,6,2024-10-06,0,0,NULL
+1507,3,7,2024-10-06,1,1,On a roll!
+1508,3,8,2024-10-06,0,0,NULL
+1509,3,9,2024-10-06,1,59,Best session this week
+1510,3,10,2024-10-06,0,1,Too tired after work
+1511,3,11,2024-10-06,1,12,Short but consistent
+1512,3,12,2024-10-06,0,0,Skipped due to travel
+1513,3,1,2024-10-07,1,20,On a roll!
+1514,3,2,2024-10-07,1,16,Best session this week
+1515,3,3,2024-10-07,0,0,NULL
+1516,3,4,2024-10-07,0,0,NULL
+1517,3,5,2024-10-07,0,0,NULL
+1518,3,6,2024-10-07,0,0,Sick day
+1519,3,7,2024-10-07,0,0,Too tired after work
+1520,3,8,2024-10-07,1,7,NULL
+1521,3,9,2024-10-07,0,0,NULL
+1522,3,10,2024-10-07,1,11,Best session this week
+1523,3,11,2024-10-07,0,0,NULL
+1524,3,12,2024-10-07,0,0,NULL
+1525,3,1,2024-10-08,1,36,Kept the streak alive
+1526,3,2,2024-10-08,0,0,NULL
+1527,3,3,2024-10-08,1,3,Feeling motivated
+1528,3,4,2024-10-08,1,41,On a roll!
+1529,3,5,2024-10-08,0,0,NULL
+1530,3,6,2024-10-08,1,20,"Early morning, very focused"
+1531,3,7,2024-10-08,0,0,NULL
+1532,3,8,2024-10-08,1,7,Best session this week
+1533,3,9,2024-10-08,1,87,Pushed through despite tiredness
+1534,3,10,2024-10-08,1,13,NULL
+1535,3,11,2024-10-08,0,0,Sick day
+1536,3,12,2024-10-08,0,0,NULL
+1537,3,1,2024-10-09,1,24,Best session this week
+1538,3,2,2024-10-09,0,0,NULL
+1539,3,3,2024-10-09,1,2,Feeling motivated
+1540,3,4,2024-10-09,0,0,Forgot in the morning rush
+1541,3,5,2024-10-09,0,0,Skipped due to travel
+1542,3,6,2024-10-09,0,0,Will catch up tomorrow
+1543,3,7,2024-10-09,0,0,NULL
+1544,3,8,2024-10-09,0,0,NULL
+1545,3,9,2024-10-09,1,62,Pushed through despite tiredness
+1546,3,10,2024-10-09,0,2,NULL
+1547,3,11,2024-10-09,0,0,NULL
+1548,3,12,2024-10-09,0,0,Skipped due to travel
+1549,3,1,2024-10-10,0,0,NULL
+1550,3,2,2024-10-10,0,0,Busy with family obligations
+1551,3,3,2024-10-10,1,1,Best session this week
+1552,3,4,2024-10-10,1,30,"Early morning, very focused"
+1553,3,5,2024-10-10,0,0,NULL
+1554,3,6,2024-10-10,1,11,Pushed through despite tiredness
+1555,3,7,2024-10-10,0,0,NULL
+1556,3,8,2024-10-10,1,8,Best session this week
+1557,3,9,2024-10-10,1,83,Feeling motivated
+1558,3,10,2024-10-10,0,0,NULL
+1559,3,11,2024-10-10,0,0,NULL
+1560,3,12,2024-10-10,0,0,NULL
+1561,3,1,2024-10-11,0,3,NULL
+1562,3,2,2024-10-11,1,11,NULL
+1563,3,3,2024-10-11,1,0,Best session this week
+1564,3,4,2024-10-11,1,39,Did it right after waking up
+1565,3,5,2024-10-11,0,0,NULL
+1566,3,6,2024-10-11,0,8,NULL
+1567,3,7,2024-10-11,1,3,Completed with energy
+1568,3,8,2024-10-11,0,8,Busy with family obligations
+1569,3,9,2024-10-11,1,56,Kept the streak alive
+1570,3,10,2024-10-11,0,0,NULL
+1571,3,11,2024-10-11,1,20,Feeling motivated
+1572,3,12,2024-10-11,0,0,Skipped due to travel
+1573,3,1,2024-10-12,0,0,Busy with family obligations
+1574,3,2,2024-10-12,0,0,NULL
+1575,3,3,2024-10-12,1,3,Felt great today
+1576,3,4,2024-10-12,0,0,NULL
+1577,3,5,2024-10-12,0,2,Too tired after work
+1578,3,6,2024-10-12,0,0,NULL
+1579,3,7,2024-10-12,0,0,Forgot in the morning rush
+1580,3,8,2024-10-12,0,4,NULL
+1581,3,9,2024-10-12,0,0,NULL
+1582,3,10,2024-10-12,1,15,Kept the streak alive
+1583,3,11,2024-10-12,0,0,NULL
+1584,3,12,2024-10-12,1,18,NULL
+1585,3,1,2024-10-13,0,0,Forgot in the morning rush
+1586,3,2,2024-10-13,1,21,Felt great today
+1587,3,3,2024-10-13,1,5,NULL
+1588,3,4,2024-10-13,0,0,NULL
+1589,3,5,2024-10-13,1,36,Pushed through despite tiredness
+1590,3,6,2024-10-13,0,0,NULL
+1591,3,7,2024-10-13,0,0,NULL
+1592,3,8,2024-10-13,0,0,"Late night, no energy"
+1593,3,9,2024-10-13,1,49,Did it right after waking up
+1594,3,10,2024-10-13,0,0,Forgot in the morning rush
+1595,3,11,2024-10-13,1,15,NULL
+1596,3,12,2024-10-13,0,0,Too tired after work
+1597,3,1,2024-10-14,1,40,NULL
+1598,3,2,2024-10-14,0,0,NULL
+1599,3,3,2024-10-14,0,0,NULL
+1600,3,4,2024-10-14,0,0,NULL
+1601,3,5,2024-10-14,0,0,NULL
+1602,3,6,2024-10-14,1,20,Kept the streak alive
+1603,3,7,2024-10-14,1,4,Best session this week
+1604,3,8,2024-10-14,0,0,Too tired after work
+1605,3,9,2024-10-14,1,58,Did it right after waking up
+1606,3,10,2024-10-14,0,0,Will catch up tomorrow
+1607,3,11,2024-10-14,0,0,Sick day
+1608,3,12,2024-10-14,0,0,"Late night, no energy"
+1609,3,1,2024-10-15,1,44,Felt great today
+1610,3,2,2024-10-15,1,20,Managed to fit it in before dinner
+1611,3,3,2024-10-15,0,0,Forgot in the morning rush
+1612,3,4,2024-10-15,1,45,Kept the streak alive
+1613,3,5,2024-10-15,0,0,NULL
+1614,3,6,2024-10-15,0,0,NULL
+1615,3,7,2024-10-15,1,5,Felt great today
+1616,3,8,2024-10-15,0,0,NULL
+1617,3,9,2024-10-15,1,46,Best session this week
+1618,3,10,2024-10-15,0,0,NULL
+1619,3,11,2024-10-15,0,2,Too tired after work
+1620,3,12,2024-10-15,1,15,NULL
+1621,3,1,2024-10-16,0,1,NULL
+1622,3,2,2024-10-16,0,0,Too tired after work
+1623,3,3,2024-10-16,1,3,Best session this week
+1624,3,4,2024-10-16,1,36,NULL
+1625,3,5,2024-10-16,1,48,Did it right after waking up
+1626,3,6,2024-10-16,1,11,Kept the streak alive
+1627,3,7,2024-10-16,1,4,Pushed through despite tiredness
+1628,3,8,2024-10-16,1,10,Short but consistent
+1629,3,9,2024-10-16,1,54,Did it right after waking up
+1630,3,10,2024-10-16,0,0,NULL
+1631,3,11,2024-10-16,0,0,NULL
+1632,3,12,2024-10-16,0,0,Too tired after work
+1633,3,1,2024-10-17,0,0,NULL
+1634,3,2,2024-10-17,0,4,"Late night, no energy"
+1635,3,3,2024-10-17,0,0,"Late night, no energy"
+1636,3,4,2024-10-17,1,44,NULL
+1637,3,5,2024-10-17,1,35,"Early morning, very focused"
+1638,3,6,2024-10-17,1,18,NULL
+1639,3,7,2024-10-17,1,2,NULL
+1640,3,8,2024-10-17,1,10,Did it right after waking up
+1641,3,9,2024-10-17,1,55,Completed with energy
+1642,3,10,2024-10-17,1,13,Kept the streak alive
+1643,3,11,2024-10-17,1,17,NULL
+1644,3,12,2024-10-17,1,11,Completed with energy
+1645,3,1,2024-10-18,1,42,NULL
+1646,3,2,2024-10-18,0,0,NULL
+1647,3,3,2024-10-18,1,2,On a roll!
+1648,3,4,2024-10-18,0,0,NULL
+1649,3,5,2024-10-18,0,0,NULL
+1650,3,6,2024-10-18,1,11,Short but consistent
+1651,3,7,2024-10-18,0,0,"Late night, no energy"
+1652,3,8,2024-10-18,0,0,NULL
+1653,3,9,2024-10-18,1,54,Short but consistent
+1654,3,10,2024-10-18,0,0,Forgot in the morning rush
+1655,3,11,2024-10-18,0,0,NULL
+1656,3,12,2024-10-18,0,0,NULL
+1657,3,1,2024-10-19,1,34,Short but consistent
+1658,3,2,2024-10-19,1,14,NULL
+1659,3,3,2024-10-19,1,0,On a roll!
+1660,3,4,2024-10-19,0,4,NULL
+1661,3,5,2024-10-19,0,0,NULL
+1662,3,6,2024-10-19,0,0,Will catch up tomorrow
+1663,3,7,2024-10-19,1,4,Managed to fit it in before dinner
+1664,3,8,2024-10-19,0,0,NULL
+1665,3,9,2024-10-19,0,0,NULL
+1666,3,10,2024-10-19,1,14,Short but consistent
+1667,3,11,2024-10-19,0,0,NULL
+1668,3,12,2024-10-19,0,0,Busy with family obligations
+1669,3,1,2024-10-20,1,41,Short but consistent
+1670,3,2,2024-10-20,0,0,Too tired after work
+1671,3,3,2024-10-20,1,4,Did it right after waking up
+1672,3,4,2024-10-20,0,2,NULL
+1673,3,5,2024-10-20,0,0,NULL
+1674,3,6,2024-10-20,0,0,NULL
+1675,3,7,2024-10-20,1,2,Managed to fit it in before dinner
+1676,3,8,2024-10-20,0,0,NULL
+1677,3,9,2024-10-20,0,0,NULL
+1678,3,10,2024-10-20,0,0,NULL
+1679,3,11,2024-10-20,0,8,NULL
+1680,3,12,2024-10-20,0,0,NULL
+1681,3,1,2024-10-21,1,38,Managed to fit it in before dinner
+1682,3,2,2024-10-21,0,0,NULL
+1683,3,3,2024-10-21,1,5,Pushed through despite tiredness
+1684,3,4,2024-10-21,1,47,Managed to fit it in before dinner
+1685,3,5,2024-10-21,0,0,NULL
+1686,3,6,2024-10-21,1,12,Pushed through despite tiredness
+1687,3,7,2024-10-21,1,0,Pushed through despite tiredness
+1688,3,8,2024-10-21,0,0,NULL
+1689,3,9,2024-10-21,0,6,NULL
+1690,3,10,2024-10-21,0,0,NULL
+1691,3,11,2024-10-21,0,0,NULL
+1692,3,12,2024-10-21,0,0,Busy with family obligations
+1693,3,1,2024-10-22,0,0,NULL
+1694,3,2,2024-10-22,1,18,Managed to fit it in before dinner
+1695,3,3,2024-10-22,0,0,Too tired after work
+1696,3,4,2024-10-22,0,0,NULL
+1697,3,5,2024-10-22,0,8,NULL
+1698,3,6,2024-10-22,0,0,NULL
+1699,3,7,2024-10-22,1,0,Best session this week
+1700,3,8,2024-10-22,1,10,NULL
+1701,3,9,2024-10-22,1,79,Did it right after waking up
+1702,3,10,2024-10-22,0,0,NULL
+1703,3,11,2024-10-22,0,7,NULL
+1704,3,12,2024-10-22,1,20,Managed to fit it in before dinner
+1705,3,1,2024-10-23,1,29,Pushed through despite tiredness
+1706,3,2,2024-10-23,1,19,Feeling motivated
+1707,3,3,2024-10-23,0,0,NULL
+1708,3,4,2024-10-23,0,0,NULL
+1709,3,5,2024-10-23,1,26,"Early morning, very focused"
+1710,3,6,2024-10-23,1,18,Completed with energy
+1711,3,7,2024-10-23,0,0,"Late night, no energy"
+1712,3,8,2024-10-23,1,5,Feeling motivated
+1713,3,9,2024-10-23,1,82,Feeling motivated
+1714,3,10,2024-10-23,1,10,Did it right after waking up
+1715,3,11,2024-10-23,1,13,Kept the streak alive
+1716,3,12,2024-10-23,1,11,On a roll!
+1717,3,1,2024-10-24,0,0,NULL
+1718,3,2,2024-10-24,0,0,NULL
+1719,3,3,2024-10-24,1,1,NULL
+1720,3,4,2024-10-24,1,35,Best session this week
+1721,3,5,2024-10-24,0,0,"Late night, no energy"
+1722,3,6,2024-10-24,0,2,NULL
+1723,3,7,2024-10-24,1,5,Did it right after waking up
+1724,3,8,2024-10-24,0,0,NULL
+1725,3,9,2024-10-24,1,54,NULL
+1726,3,10,2024-10-24,0,7,Will catch up tomorrow
+1727,3,11,2024-10-24,0,0,NULL
+1728,3,12,2024-10-24,0,0,NULL
+1729,3,1,2024-10-25,0,0,"Late night, no energy"
+1730,3,2,2024-10-25,0,0,NULL
+1731,3,3,2024-10-25,1,5,Best session this week
+1732,3,4,2024-10-25,0,0,Will catch up tomorrow
+1733,3,5,2024-10-25,0,0,Too tired after work
+1734,3,6,2024-10-25,0,0,Skipped due to travel
+1735,3,7,2024-10-25,0,0,"Late night, no energy"
+1736,3,8,2024-10-25,1,5,NULL
+1737,3,9,2024-10-25,1,87,Short but consistent
+1738,3,10,2024-10-25,1,15,Completed with energy
+1739,3,11,2024-10-25,0,2,NULL
+1740,3,12,2024-10-25,0,1,NULL
+1741,3,1,2024-10-26,1,41,Completed with energy
+1742,3,2,2024-10-26,0,0,Busy with family obligations
+1743,3,3,2024-10-26,0,0,NULL
+1744,3,4,2024-10-26,1,38,Did it right after waking up
+1745,3,5,2024-10-26,1,46,Felt great today
+1746,3,6,2024-10-26,1,12,Kept the streak alive
+1747,3,7,2024-10-26,1,4,Managed to fit it in before dinner
+1748,3,8,2024-10-26,1,5,Pushed through despite tiredness
+1749,3,9,2024-10-26,0,0,NULL
+1750,3,10,2024-10-26,1,9,Completed with energy
+1751,3,11,2024-10-26,1,19,Feeling motivated
+1752,3,12,2024-10-26,1,10,Kept the streak alive
+1753,3,1,2024-10-27,1,20,Felt great today
+1754,3,2,2024-10-27,0,0,NULL
+1755,3,3,2024-10-27,0,0,NULL
+1756,3,4,2024-10-27,0,0,NULL
+1757,3,5,2024-10-27,0,0,NULL
+1758,3,6,2024-10-27,0,7,NULL
+1759,3,7,2024-10-27,0,0,NULL
+1760,3,8,2024-10-27,0,0,NULL
+1761,3,9,2024-10-27,1,66,Completed with energy
+1762,3,10,2024-10-27,0,0,Sick day
+1763,3,11,2024-10-27,1,16,NULL
+1764,3,12,2024-10-27,1,22,Completed with energy
+1765,3,1,2024-10-28,0,0,NULL
+1766,3,2,2024-10-28,0,3,NULL
+1767,3,3,2024-10-28,1,0,Did it right after waking up
+1768,3,4,2024-10-28,0,0,NULL
+1769,3,5,2024-10-28,0,0,NULL
+1770,3,6,2024-10-28,1,15,Did it right after waking up
+1771,3,7,2024-10-28,0,0,NULL
+1772,3,8,2024-10-28,1,9,Pushed through despite tiredness
+1773,3,9,2024-10-28,0,0,Forgot in the morning rush
+1774,3,10,2024-10-28,1,12,NULL
+1775,3,11,2024-10-28,1,20,Pushed through despite tiredness
+1776,3,12,2024-10-28,1,11,"Early morning, very focused"
+1777,3,1,2024-10-29,0,2,NULL
+1778,3,2,2024-10-29,1,13,Kept the streak alive
+1779,3,3,2024-10-29,0,0,Sick day
+1780,3,4,2024-10-29,1,42,On a roll!
+1781,3,5,2024-10-29,1,59,Pushed through despite tiredness
+1782,3,6,2024-10-29,1,10,NULL
+1783,3,7,2024-10-29,1,0,"Early morning, very focused"
+1784,3,8,2024-10-29,1,6,Feeling motivated
+1785,3,9,2024-10-29,1,73,Best session this week
+1786,3,10,2024-10-29,0,1,NULL
+1787,3,11,2024-10-29,0,0,NULL
+1788,3,12,2024-10-29,1,15,Completed with energy
+1789,3,1,2024-10-30,0,0,NULL
+1790,3,2,2024-10-30,0,0,NULL
+1791,3,3,2024-10-30,0,0,NULL
+1792,3,4,2024-10-30,0,2,NULL
+1793,3,5,2024-10-30,0,4,Too tired after work
+1794,3,6,2024-10-30,0,8,NULL
+1795,3,7,2024-10-30,0,0,NULL
+1796,3,8,2024-10-30,1,10,NULL
+1797,3,9,2024-10-30,1,57,Completed with energy
+1798,3,10,2024-10-30,0,0,NULL
+1799,3,11,2024-10-30,1,12,NULL
+1800,3,12,2024-10-30,0,5,Busy with family obligations
+1801,3,1,2024-10-31,1,45,Did it right after waking up
+1802,3,2,2024-10-31,1,11,NULL
+1803,3,3,2024-10-31,1,3,NULL
+1804,3,4,2024-10-31,1,44,NULL
+1805,3,5,2024-10-31,0,0,NULL
+1806,3,6,2024-10-31,0,0,Sick day
+1807,3,7,2024-10-31,1,3,Short but consistent
+1808,3,8,2024-10-31,1,5,Kept the streak alive
+1809,3,9,2024-10-31,0,6,NULL
+1810,3,10,2024-10-31,1,10,Pushed through despite tiredness
+1811,3,11,2024-10-31,1,20,On a roll!
+1812,3,12,2024-10-31,0,0,NULL
+1813,3,1,2024-11-01,1,23,Short but consistent
+1814,3,2,2024-11-01,1,15,Did it right after waking up
+1815,3,3,2024-11-01,1,4,Pushed through despite tiredness
+1816,3,4,2024-11-01,0,0,NULL
+1817,3,5,2024-11-01,1,39,Completed with energy
+1818,3,6,2024-11-01,1,17,Short but consistent
+1819,3,7,2024-11-01,0,0,NULL
+1820,3,8,2024-11-01,1,8,Feeling motivated
+1821,3,9,2024-11-01,0,0,NULL
+1822,3,10,2024-11-01,1,7,NULL
+1823,3,11,2024-11-01,0,0,NULL
+1824,3,12,2024-11-01,0,0,NULL
+1825,3,1,2024-11-02,0,0,NULL
+1826,3,2,2024-11-02,1,17,Completed with energy
+1827,3,3,2024-11-02,0,6,NULL
+1828,3,4,2024-11-02,1,37,NULL
+1829,3,5,2024-11-02,0,4,NULL
+1830,3,6,2024-11-02,0,0,NULL
+1831,3,7,2024-11-02,0,6,Will catch up tomorrow
+1832,3,8,2024-11-02,0,0,Skipped due to travel
+1833,3,9,2024-11-02,0,0,NULL
+1834,3,10,2024-11-02,1,14,NULL
+1835,3,11,2024-11-02,0,0,NULL
+1836,3,12,2024-11-02,0,0,NULL
+1837,3,1,2024-11-03,0,0,Too tired after work
+1838,3,2,2024-11-03,1,24,NULL
+1839,3,3,2024-11-03,1,1,NULL
+1840,3,4,2024-11-03,0,3,Will catch up tomorrow
+1841,3,5,2024-11-03,1,55,Feeling motivated
+1842,3,6,2024-11-03,0,0,NULL
+1843,3,7,2024-11-03,1,1,On a roll!
+1844,3,8,2024-11-03,0,0,NULL
+1845,3,9,2024-11-03,1,68,On a roll!
+1846,3,10,2024-11-03,0,0,NULL
+1847,3,11,2024-11-03,0,0,NULL
+1848,3,12,2024-11-03,0,0,Skipped due to travel
+1849,3,1,2024-11-04,1,22,Completed with energy
+1850,3,2,2024-11-04,1,19,Completed with energy
+1851,3,3,2024-11-04,1,0,Feeling motivated
+1852,3,4,2024-11-04,1,36,NULL
+1853,3,5,2024-11-04,0,6,NULL
+1854,3,6,2024-11-04,0,5,NULL
+1855,3,7,2024-11-04,0,3,Sick day
+1856,3,8,2024-11-04,0,0,NULL
+1857,3,9,2024-11-04,1,65,Kept the streak alive
+1858,3,10,2024-11-04,0,0,NULL
+1859,3,11,2024-11-04,1,19,Pushed through despite tiredness
+1860,3,12,2024-11-04,0,0,NULL
+1861,3,1,2024-11-05,1,29,Did it right after waking up
+1862,3,2,2024-11-05,0,4,NULL
+1863,3,3,2024-11-05,1,5,NULL
+1864,3,4,2024-11-05,1,34,Pushed through despite tiredness
+1865,3,5,2024-11-05,1,45,NULL
+1866,3,6,2024-11-05,1,15,Pushed through despite tiredness
+1867,3,7,2024-11-05,1,0,NULL
+1868,3,8,2024-11-05,1,6,On a roll!
+1869,3,9,2024-11-05,1,79,"Early morning, very focused"
+1870,3,10,2024-11-05,1,11,Kept the streak alive
+1871,3,11,2024-11-05,0,0,NULL
+1872,3,12,2024-11-05,1,20,NULL
+1873,3,1,2024-11-06,0,0,NULL
+1874,3,2,2024-11-06,0,0,NULL
+1875,3,3,2024-11-06,0,0,NULL
+1876,3,4,2024-11-06,0,8,Too tired after work
+1877,3,5,2024-11-06,1,53,On a roll!
+1878,3,6,2024-11-06,1,19,NULL
+1879,3,7,2024-11-06,1,1,Did it right after waking up
+1880,3,8,2024-11-06,0,0,NULL
+1881,3,9,2024-11-06,0,0,NULL
+1882,3,10,2024-11-06,0,0,NULL
+1883,3,11,2024-11-06,0,0,Will catch up tomorrow
+1884,3,12,2024-11-06,1,23,On a roll!
+1885,3,1,2024-11-07,1,29,On a roll!
+1886,3,2,2024-11-07,1,12,Best session this week
+1887,3,3,2024-11-07,0,0,NULL
+1888,3,4,2024-11-07,0,0,NULL
+1889,3,5,2024-11-07,0,0,NULL
+1890,3,6,2024-11-07,1,19,Completed with energy
+1891,3,7,2024-11-07,1,3,Short but consistent
+1892,3,8,2024-11-07,0,0,NULL
+1893,3,9,2024-11-07,0,0,"Late night, no energy"
+1894,3,10,2024-11-07,1,12,Feeling motivated
+1895,3,11,2024-11-07,0,0,Busy with family obligations
+1896,3,12,2024-11-07,1,11,Short but consistent
+1897,3,1,2024-11-08,0,0,NULL
+1898,3,2,2024-11-08,0,0,NULL
+1899,3,3,2024-11-08,1,5,Short but consistent
+1900,3,4,2024-11-08,0,4,NULL
+1901,3,5,2024-11-08,1,40,Felt great today
+1902,3,6,2024-11-08,1,17,Completed with energy
+1903,3,7,2024-11-08,1,4,Kept the streak alive
+1904,3,8,2024-11-08,0,0,NULL
+1905,3,9,2024-11-08,1,52,On a roll!
+1906,3,10,2024-11-08,1,5,Short but consistent
+1907,3,11,2024-11-08,1,10,Pushed through despite tiredness
+1908,3,12,2024-11-08,1,14,On a roll!
+1909,3,1,2024-11-09,1,31,Managed to fit it in before dinner
+1910,3,2,2024-11-09,0,0,"Late night, no energy"
+1911,3,3,2024-11-09,0,0,NULL
+1912,3,4,2024-11-09,0,1,NULL
+1913,3,5,2024-11-09,1,45,Short but consistent
+1914,3,6,2024-11-09,0,0,Will catch up tomorrow
+1915,3,7,2024-11-09,1,2,Short but consistent
+1916,3,8,2024-11-09,1,9,"Early morning, very focused"
+1917,3,9,2024-11-09,0,0,Forgot in the morning rush
+1918,3,10,2024-11-09,1,13,Best session this week
+1919,3,11,2024-11-09,0,0,NULL
+1920,3,12,2024-11-09,0,0,NULL
+1921,3,1,2024-11-10,0,0,NULL
+1922,3,2,2024-11-10,0,0,Forgot in the morning rush
+1923,3,3,2024-11-10,0,0,Will catch up tomorrow
+1924,3,4,2024-11-10,1,49,NULL
+1925,3,5,2024-11-10,0,0,NULL
+1926,3,6,2024-11-10,1,13,Pushed through despite tiredness
+1927,3,7,2024-11-10,0,3,Sick day
+1928,3,8,2024-11-10,1,8,Feeling motivated
+1929,3,9,2024-11-10,0,0,NULL
+1930,3,10,2024-11-10,0,1,NULL
+1931,3,11,2024-11-10,0,0,NULL
+1932,3,12,2024-11-10,1,10,Did it right after waking up
+1933,3,1,2024-11-11,1,39,Best session this week
+1934,3,2,2024-11-11,0,0,NULL
+1935,3,3,2024-11-11,1,5,"Early morning, very focused"
+1936,3,4,2024-11-11,0,0,NULL
+1937,3,5,2024-11-11,0,0,NULL
+1938,3,6,2024-11-11,1,10,NULL
+1939,3,7,2024-11-11,1,2,Pushed through despite tiredness
+1940,3,8,2024-11-11,0,0,NULL
+1941,3,9,2024-11-11,1,77,Short but consistent
+1942,3,10,2024-11-11,0,0,NULL
+1943,3,11,2024-11-11,1,12,Short but consistent
+1944,3,12,2024-11-11,1,23,Best session this week
+1945,3,1,2024-11-12,1,23,Did it right after waking up
+1946,3,2,2024-11-12,0,1,NULL
+1947,3,3,2024-11-12,1,5,"Early morning, very focused"
+1948,3,4,2024-11-12,0,5,NULL
+1949,3,5,2024-11-12,1,44,NULL
+1950,3,6,2024-11-12,0,0,NULL
+1951,3,7,2024-11-12,1,1,Short but consistent
+1952,3,8,2024-11-12,1,10,On a roll!
+1953,3,9,2024-11-12,1,76,NULL
+1954,3,10,2024-11-12,1,13,NULL
+1955,3,11,2024-11-12,0,6,NULL
+1956,3,12,2024-11-12,0,2,Sick day
+1957,3,1,2024-11-13,1,32,Completed with energy
+1958,3,2,2024-11-13,1,25,"Early morning, very focused"
+1959,3,3,2024-11-13,0,0,NULL
+1960,3,4,2024-11-13,0,0,NULL
+1961,3,5,2024-11-13,1,50,Kept the streak alive
+1962,3,6,2024-11-13,1,17,Completed with energy
+1963,3,7,2024-11-13,1,3,Best session this week
+1964,3,8,2024-11-13,0,1,NULL
+1965,3,9,2024-11-13,0,0,Forgot in the morning rush
+1966,3,10,2024-11-13,1,10,Pushed through despite tiredness
+1967,3,11,2024-11-13,1,11,Did it right after waking up
+1968,3,12,2024-11-13,1,25,Did it right after waking up
+1969,3,1,2024-11-14,1,41,Kept the streak alive
+1970,3,2,2024-11-14,1,20,Did it right after waking up
+1971,3,3,2024-11-14,0,0,NULL
+1972,3,4,2024-11-14,1,33,Managed to fit it in before dinner
+1973,3,5,2024-11-14,1,53,Kept the streak alive
+1974,3,6,2024-11-14,1,18,NULL
+1975,3,7,2024-11-14,0,0,NULL
+1976,3,8,2024-11-14,1,7,Feeling motivated
+1977,3,9,2024-11-14,1,81,NULL
+1978,3,10,2024-11-14,1,15,NULL
+1979,3,11,2024-11-14,0,0,NULL
+1980,3,12,2024-11-14,1,18,Kept the streak alive
+1981,3,1,2024-11-15,1,39,NULL
+1982,3,2,2024-11-15,1,20,Felt great today
+1983,3,3,2024-11-15,1,1,Short but consistent
+1984,3,4,2024-11-15,1,48,Felt great today
+1985,3,5,2024-11-15,0,0,Busy with family obligations
+1986,3,6,2024-11-15,1,16,On a roll!
+1987,3,7,2024-11-15,1,1,Best session this week
+1988,3,8,2024-11-15,0,0,NULL
+1989,3,9,2024-11-15,1,52,On a roll!
+1990,3,10,2024-11-15,1,10,Felt great today
+1991,3,11,2024-11-15,1,19,NULL
+1992,3,12,2024-11-15,0,0,NULL
+1993,3,1,2024-11-16,0,0,Busy with family obligations
+1994,3,2,2024-11-16,1,25,Completed with energy
+1995,3,3,2024-11-16,0,0,NULL
+1996,3,4,2024-11-16,0,0,"Late night, no energy"
+1997,3,5,2024-11-16,0,0,NULL
+1998,3,6,2024-11-16,0,0,NULL
+1999,3,7,2024-11-16,0,0,NULL
+2000,3,8,2024-11-16,0,0,NULL
+2001,3,9,2024-11-16,1,51,NULL
+2002,3,10,2024-11-16,1,14,Did it right after waking up
+2003,3,11,2024-11-16,0,0,Skipped due to travel
+2004,3,12,2024-11-16,0,0,NULL
+2005,3,1,2024-11-17,0,0,Busy with family obligations
+2006,3,2,2024-11-17,1,24,NULL
+2007,3,3,2024-11-17,0,0,NULL
+2008,3,4,2024-11-17,0,7,NULL
+2009,3,5,2024-11-17,1,59,Did it right after waking up
+2010,3,6,2024-11-17,0,0,NULL
+2011,3,7,2024-11-17,0,0,NULL
+2012,3,8,2024-11-17,0,2,NULL
+2013,3,9,2024-11-17,0,0,NULL
+2014,3,10,2024-11-17,0,0,NULL
+2015,3,11,2024-11-17,0,0,Forgot in the morning rush
+2016,3,12,2024-11-17,1,17,Managed to fit it in before dinner
+2017,3,1,2024-11-18,1,26,Felt great today
+2018,3,2,2024-11-18,1,24,Kept the streak alive
+2019,3,3,2024-11-18,0,0,NULL
+2020,3,4,2024-11-18,1,38,Pushed through despite tiredness
+2021,3,5,2024-11-18,1,60,Pushed through despite tiredness
+2022,3,6,2024-11-18,0,7,NULL
+2023,3,7,2024-11-18,1,2,NULL
+2024,3,8,2024-11-18,1,8,On a roll!
+2025,3,9,2024-11-18,0,0,Forgot in the morning rush
+2026,3,10,2024-11-18,1,13,Completed with energy
+2027,3,11,2024-11-18,0,0,NULL
+2028,3,12,2024-11-18,0,0,NULL
+2029,3,1,2024-11-19,1,44,Did it right after waking up
+2030,3,2,2024-11-19,1,22,Did it right after waking up
+2031,3,3,2024-11-19,0,0,NULL
+2032,3,4,2024-11-19,1,36,"Early morning, very focused"
+2033,3,5,2024-11-19,1,28,Kept the streak alive
+2034,3,6,2024-11-19,0,0,NULL
+2035,3,7,2024-11-19,1,1,"Early morning, very focused"
+2036,3,8,2024-11-19,0,0,Will catch up tomorrow
+2037,3,9,2024-11-19,0,0,NULL
+2038,3,10,2024-11-19,0,0,NULL
+2039,3,11,2024-11-19,0,0,NULL
+2040,3,12,2024-11-19,1,21,Did it right after waking up
+2041,3,1,2024-11-20,0,0,NULL
+2042,3,2,2024-11-20,1,18,"Early morning, very focused"
+2043,3,3,2024-11-20,1,2,Best session this week
+2044,3,4,2024-11-20,0,7,NULL
+2045,3,5,2024-11-20,0,0,NULL
+2046,3,6,2024-11-20,1,17,Kept the streak alive
+2047,3,7,2024-11-20,0,0,Busy with family obligations
+2048,3,8,2024-11-20,0,0,NULL
+2049,3,9,2024-11-20,0,0,NULL
+2050,3,10,2024-11-20,0,0,Too tired after work
+2051,3,11,2024-11-20,0,0,NULL
+2052,3,12,2024-11-20,0,6,"Late night, no energy"
+2053,3,1,2024-11-21,1,23,Pushed through despite tiredness
+2054,3,2,2024-11-21,1,14,Short but consistent
+2055,3,3,2024-11-21,0,0,NULL
+2056,3,4,2024-11-21,1,34,"Early morning, very focused"
+2057,3,5,2024-11-21,1,45,Did it right after waking up
+2058,3,6,2024-11-21,1,16,On a roll!
+2059,3,7,2024-11-21,1,4,Best session this week
+2060,3,8,2024-11-21,1,9,NULL
+2061,3,9,2024-11-21,0,0,NULL
+2062,3,10,2024-11-21,1,7,Felt great today
+2063,3,11,2024-11-21,1,19,"Early morning, very focused"
+2064,3,12,2024-11-21,1,15,NULL
+2065,3,1,2024-11-22,1,36,Managed to fit it in before dinner
+2066,3,2,2024-11-22,0,0,NULL
+2067,3,3,2024-11-22,1,5,Best session this week
+2068,3,4,2024-11-22,1,39,Feeling motivated
+2069,3,5,2024-11-22,1,52,Short but consistent
+2070,3,6,2024-11-22,1,14,Feeling motivated
+2071,3,7,2024-11-22,0,0,NULL
+2072,3,8,2024-11-22,1,7,Best session this week
+2073,3,9,2024-11-22,0,0,NULL
+2074,3,10,2024-11-22,1,7,Short but consistent
+2075,3,11,2024-11-22,1,16,NULL
+2076,3,12,2024-11-22,1,23,Feeling motivated
+2077,3,1,2024-11-23,0,8,Will catch up tomorrow
+2078,3,2,2024-11-23,0,0,NULL
+2079,3,3,2024-11-23,0,0,NULL
+2080,3,4,2024-11-23,0,4,NULL
+2081,3,5,2024-11-23,0,0,NULL
+2082,3,6,2024-11-23,1,10,NULL
+2083,3,7,2024-11-23,1,4,Kept the streak alive
+2084,3,8,2024-11-23,0,0,Will catch up tomorrow
+2085,3,9,2024-11-23,0,0,Will catch up tomorrow
+2086,3,10,2024-11-23,1,12,Short but consistent
+2087,3,11,2024-11-23,0,0,Busy with family obligations
+2088,3,12,2024-11-23,1,18,NULL
+2089,3,1,2024-11-24,1,30,Feeling motivated
+2090,3,2,2024-11-24,0,0,NULL
+2091,3,3,2024-11-24,1,0,Best session this week
+2092,3,4,2024-11-24,1,38,Pushed through despite tiredness
+2093,3,5,2024-11-24,0,0,NULL
+2094,3,6,2024-11-24,0,5,NULL
+2095,3,7,2024-11-24,0,0,Forgot in the morning rush
+2096,3,8,2024-11-24,1,6,Short but consistent
+2097,3,9,2024-11-24,1,77,Short but consistent
+2098,3,10,2024-11-24,1,14,Best session this week
+2099,3,11,2024-11-24,0,0,NULL
+2100,3,12,2024-11-24,0,0,NULL
+2101,3,1,2024-11-25,0,0,Skipped due to travel
+2102,3,2,2024-11-25,1,13,Short but consistent
+2103,3,3,2024-11-25,1,0,Kept the streak alive
+2104,3,4,2024-11-25,0,0,NULL
+2105,3,5,2024-11-25,0,0,Too tired after work
+2106,3,6,2024-11-25,0,0,NULL
+2107,3,7,2024-11-25,1,5,"Early morning, very focused"
+2108,3,8,2024-11-25,1,10,Completed with energy
+2109,3,9,2024-11-25,0,0,"Late night, no energy"
+2110,3,10,2024-11-25,1,6,Felt great today
+2111,3,11,2024-11-25,0,6,Forgot in the morning rush
+2112,3,12,2024-11-25,1,23,Feeling motivated
+2113,3,1,2024-11-26,0,0,NULL
+2114,3,2,2024-11-26,1,13,Short but consistent
+2115,3,3,2024-11-26,1,3,Kept the streak alive
+2116,3,4,2024-11-26,0,0,NULL
+2117,3,5,2024-11-26,1,48,NULL
+2118,3,6,2024-11-26,1,16,Completed with energy
+2119,3,7,2024-11-26,1,3,NULL
+2120,3,8,2024-11-26,1,10,Pushed through despite tiredness
+2121,3,9,2024-11-26,0,0,NULL
+2122,3,10,2024-11-26,1,11,Completed with energy
+2123,3,11,2024-11-26,0,0,Forgot in the morning rush
+2124,3,12,2024-11-26,0,0,Busy with family obligations
+2125,3,1,2024-11-27,1,37,Completed with energy
+2126,3,2,2024-11-27,0,0,NULL
+2127,3,3,2024-11-27,1,5,Feeling motivated
+2128,3,4,2024-11-27,0,0,Skipped due to travel
+2129,3,5,2024-11-27,0,7,Forgot in the morning rush
+2130,3,6,2024-11-27,0,6,NULL
+2131,3,7,2024-11-27,1,5,Kept the streak alive
+2132,3,8,2024-11-27,0,0,NULL
+2133,3,9,2024-11-27,1,58,Pushed through despite tiredness
+2134,3,10,2024-11-27,1,9,Short but consistent
+2135,3,11,2024-11-27,0,0,Busy with family obligations
+2136,3,12,2024-11-27,1,25,Kept the streak alive
+2137,3,1,2024-11-28,0,0,NULL
+2138,3,2,2024-11-28,0,0,NULL
+2139,3,3,2024-11-28,0,0,NULL
+2140,3,4,2024-11-28,0,0,Forgot in the morning rush
+2141,3,5,2024-11-28,1,32,Short but consistent
+2142,3,6,2024-11-28,1,10,Best session this week
+2143,3,7,2024-11-28,1,5,Best session this week
+2144,3,8,2024-11-28,1,9,Best session this week
+2145,3,9,2024-11-28,1,54,Kept the streak alive
+2146,3,10,2024-11-28,1,7,Feeling motivated
+2147,3,11,2024-11-28,0,0,NULL
+2148,3,12,2024-11-28,0,0,NULL
+2149,3,1,2024-11-29,0,0,Skipped due to travel
+2150,3,2,2024-11-29,0,0,NULL
+2151,3,3,2024-11-29,0,0,NULL
+2152,3,4,2024-11-29,0,0,NULL
+2153,3,5,2024-11-29,1,56,Best session this week
+2154,3,6,2024-11-29,0,0,NULL
+2155,3,7,2024-11-29,1,2,NULL
+2156,3,8,2024-11-29,1,5,Kept the streak alive
+2157,3,9,2024-11-29,0,0,NULL
+2158,3,10,2024-11-29,0,3,NULL
+2159,3,11,2024-11-29,1,13,NULL
+2160,3,12,2024-11-29,0,0,NULL
+2161,4,1,2024-10-01,0,0,"Late night, no energy"
+2162,4,2,2024-10-01,0,0,NULL
+2163,4,3,2024-10-01,0,0,NULL
+2164,4,4,2024-10-01,0,0,NULL
+2165,4,5,2024-10-01,1,30,NULL
+2166,4,6,2024-10-01,0,2,NULL
+2167,4,7,2024-10-01,1,3,"Early morning, very focused"
+2168,4,8,2024-10-01,1,5,Felt great today
+2169,4,9,2024-10-01,1,67,NULL
+2170,4,10,2024-10-01,1,5,Did it right after waking up
+2171,4,11,2024-10-01,1,11,NULL
+2172,4,12,2024-10-01,1,17,Kept the streak alive
+2173,4,1,2024-10-02,1,45,On a roll!
+2174,4,2,2024-10-02,0,0,NULL
+2175,4,3,2024-10-02,0,0,NULL
+2176,4,4,2024-10-02,0,0,NULL
+2177,4,5,2024-10-02,1,32,Completed with energy
+2178,4,6,2024-10-02,0,0,NULL
+2179,4,7,2024-10-02,1,0,NULL
+2180,4,8,2024-10-02,1,5,Short but consistent
+2181,4,9,2024-10-02,1,55,Feeling motivated
+2182,4,10,2024-10-02,1,13,Kept the streak alive
+2183,4,11,2024-10-02,0,5,Forgot in the morning rush
+2184,4,12,2024-10-02,1,24,Managed to fit it in before dinner
+2185,4,1,2024-10-03,0,7,NULL
+2186,4,2,2024-10-03,1,21,Feeling motivated
+2187,4,3,2024-10-03,0,0,NULL
+2188,4,4,2024-10-03,1,43,Did it right after waking up
+2189,4,5,2024-10-03,1,51,Managed to fit it in before dinner
+2190,4,6,2024-10-03,0,0,NULL
+2191,4,7,2024-10-03,0,0,NULL
+2192,4,8,2024-10-03,0,0,NULL
+2193,4,9,2024-10-03,1,65,Managed to fit it in before dinner
+2194,4,10,2024-10-03,0,0,Too tired after work
+2195,4,11,2024-10-03,0,0,NULL
+2196,4,12,2024-10-03,1,19,Managed to fit it in before dinner
+2197,4,1,2024-10-04,1,42,NULL
+2198,4,2,2024-10-04,0,0,Will catch up tomorrow
+2199,4,3,2024-10-04,1,4,NULL
+2200,4,4,2024-10-04,0,0,NULL
+2201,4,5,2024-10-04,1,53,Feeling motivated
+2202,4,6,2024-10-04,1,16,Did it right after waking up
+2203,4,7,2024-10-04,1,0,Felt great today
+2204,4,8,2024-10-04,0,0,NULL
+2205,4,9,2024-10-04,0,0,NULL
+2206,4,10,2024-10-04,1,13,"Early morning, very focused"
+2207,4,11,2024-10-04,0,0,Too tired after work
+2208,4,12,2024-10-04,0,0,"Late night, no energy"
+2209,4,1,2024-10-05,0,0,Too tired after work
+2210,4,2,2024-10-05,0,0,NULL
+2211,4,3,2024-10-05,1,0,Kept the streak alive
+2212,4,4,2024-10-05,0,0,NULL
+2213,4,5,2024-10-05,0,0,NULL
+2214,4,6,2024-10-05,0,0,NULL
+2215,4,7,2024-10-05,0,0,"Late night, no energy"
+2216,4,8,2024-10-05,0,0,NULL
+2217,4,9,2024-10-05,1,78,Feeling motivated
+2218,4,10,2024-10-05,1,13,NULL
+2219,4,11,2024-10-05,1,17,Completed with energy
+2220,4,12,2024-10-05,1,23,Completed with energy
+2221,4,1,2024-10-06,1,24,Kept the streak alive
+2222,4,2,2024-10-06,1,21,NULL
+2223,4,3,2024-10-06,0,0,NULL
+2224,4,4,2024-10-06,0,0,NULL
+2225,4,5,2024-10-06,0,0,NULL
+2226,4,6,2024-10-06,0,0,NULL
+2227,4,7,2024-10-06,1,3,Feeling motivated
+2228,4,8,2024-10-06,0,0,NULL
+2229,4,9,2024-10-06,0,0,NULL
+2230,4,10,2024-10-06,1,13,On a roll!
+2231,4,11,2024-10-06,0,6,Will catch up tomorrow
+2232,4,12,2024-10-06,0,2,"Late night, no energy"
+2233,4,1,2024-10-07,0,0,NULL
+2234,4,2,2024-10-07,0,6,"Late night, no energy"
+2235,4,3,2024-10-07,0,0,NULL
+2236,4,4,2024-10-07,0,5,Too tired after work
+2237,4,5,2024-10-07,1,44,NULL
+2238,4,6,2024-10-07,0,0,NULL
+2239,4,7,2024-10-07,1,4,NULL
+2240,4,8,2024-10-07,0,0,NULL
+2241,4,9,2024-10-07,0,0,NULL
+2242,4,10,2024-10-07,0,0,Busy with family obligations
+2243,4,11,2024-10-07,1,20,Kept the streak alive
+2244,4,12,2024-10-07,0,0,NULL
+2245,4,1,2024-10-08,0,0,NULL
+2246,4,2,2024-10-08,0,0,NULL
+2247,4,3,2024-10-08,1,4,NULL
+2248,4,4,2024-10-08,0,0,NULL
+2249,4,5,2024-10-08,0,0,NULL
+2250,4,6,2024-10-08,1,14,Did it right after waking up
+2251,4,7,2024-10-08,1,4,Kept the streak alive
+2252,4,8,2024-10-08,1,9,On a roll!
+2253,4,9,2024-10-08,1,76,Short but consistent
+2254,4,10,2024-10-08,0,0,Too tired after work
+2255,4,11,2024-10-08,0,0,Skipped due to travel
+2256,4,12,2024-10-08,0,0,Forgot in the morning rush
+2257,4,1,2024-10-09,1,24,"Early morning, very focused"
+2258,4,2,2024-10-09,0,0,Will catch up tomorrow
+2259,4,3,2024-10-09,1,0,"Early morning, very focused"
+2260,4,4,2024-10-09,1,34,Managed to fit it in before dinner
+2261,4,5,2024-10-09,0,0,NULL
+2262,4,6,2024-10-09,0,3,NULL
+2263,4,7,2024-10-09,0,0,NULL
+2264,4,8,2024-10-09,1,7,Felt great today
+2265,4,9,2024-10-09,1,71,Completed with energy
+2266,4,10,2024-10-09,0,0,Too tired after work
+2267,4,11,2024-10-09,1,20,Completed with energy
+2268,4,12,2024-10-09,1,14,"Early morning, very focused"
+2269,4,1,2024-10-10,0,0,NULL
+2270,4,2,2024-10-10,0,0,NULL
+2271,4,3,2024-10-10,0,0,NULL
+2272,4,4,2024-10-10,1,44,Felt great today
+2273,4,5,2024-10-10,1,43,NULL
+2274,4,6,2024-10-10,0,7,"Late night, no energy"
+2275,4,7,2024-10-10,0,0,Sick day
+2276,4,8,2024-10-10,0,0,NULL
+2277,4,9,2024-10-10,0,0,Skipped due to travel
+2278,4,10,2024-10-10,0,0,NULL
+2279,4,11,2024-10-10,0,0,NULL
+2280,4,12,2024-10-10,0,0,NULL
+2281,4,1,2024-10-11,0,0,NULL
+2282,4,2,2024-10-11,1,20,On a roll!
+2283,4,3,2024-10-11,1,2,Felt great today
+2284,4,4,2024-10-11,0,0,NULL
+2285,4,5,2024-10-11,1,36,Managed to fit it in before dinner
+2286,4,6,2024-10-11,0,0,NULL
+2287,4,7,2024-10-11,1,5,NULL
+2288,4,8,2024-10-11,1,10,Kept the streak alive
+2289,4,9,2024-10-11,0,0,NULL
+2290,4,10,2024-10-11,0,0,Too tired after work
+2291,4,11,2024-10-11,1,13,Kept the streak alive
+2292,4,12,2024-10-11,1,10,Did it right after waking up
+2293,4,1,2024-10-12,0,0,Skipped due to travel
+2294,4,2,2024-10-12,0,0,NULL
+2295,4,3,2024-10-12,1,2,Felt great today
+2296,4,4,2024-10-12,0,0,NULL
+2297,4,5,2024-10-12,1,50,Completed with energy
+2298,4,6,2024-10-12,0,0,NULL
+2299,4,7,2024-10-12,0,0,NULL
+2300,4,8,2024-10-12,0,0,Forgot in the morning rush
+2301,4,9,2024-10-12,0,3,NULL
+2302,4,10,2024-10-12,0,0,NULL
+2303,4,11,2024-10-12,1,20,NULL
+2304,4,12,2024-10-12,0,0,NULL
+2305,4,1,2024-10-13,1,40,NULL
+2306,4,2,2024-10-13,0,5,NULL
+2307,4,3,2024-10-13,0,0,NULL
+2308,4,4,2024-10-13,0,0,NULL
+2309,4,5,2024-10-13,0,0,Busy with family obligations
+2310,4,6,2024-10-13,0,0,Will catch up tomorrow
+2311,4,7,2024-10-13,1,0,Feeling motivated
+2312,4,8,2024-10-13,1,8,Completed with energy
+2313,4,9,2024-10-13,0,5,Skipped due to travel
+2314,4,10,2024-10-13,1,5,NULL
+2315,4,11,2024-10-13,0,0,NULL
+2316,4,12,2024-10-13,1,17,On a roll!
+2317,4,1,2024-10-14,0,0,NULL
+2318,4,2,2024-10-14,1,24,Did it right after waking up
+2319,4,3,2024-10-14,1,4,Completed with energy
+2320,4,4,2024-10-14,1,31,Managed to fit it in before dinner
+2321,4,5,2024-10-14,1,29,Did it right after waking up
+2322,4,6,2024-10-14,1,10,"Early morning, very focused"
+2323,4,7,2024-10-14,0,0,Too tired after work
+2324,4,8,2024-10-14,0,0,Skipped due to travel
+2325,4,9,2024-10-14,0,0,NULL
+2326,4,10,2024-10-14,0,0,NULL
+2327,4,11,2024-10-14,0,0,NULL
+2328,4,12,2024-10-14,1,10,Kept the streak alive
+2329,4,1,2024-10-15,0,0,Too tired after work
+2330,4,2,2024-10-15,0,3,NULL
+2331,4,3,2024-10-15,1,2,On a roll!
+2332,4,4,2024-10-15,1,49,Kept the streak alive
+2333,4,5,2024-10-15,1,27,Felt great today
+2334,4,6,2024-10-15,1,16,NULL
+2335,4,7,2024-10-15,0,0,NULL
+2336,4,8,2024-10-15,0,4,NULL
+2337,4,9,2024-10-15,1,78,NULL
+2338,4,10,2024-10-15,0,3,NULL
+2339,4,11,2024-10-15,0,0,NULL
+2340,4,12,2024-10-15,1,16,Did it right after waking up
+2341,4,1,2024-10-16,1,41,Kept the streak alive
+2342,4,2,2024-10-16,0,0,NULL
+2343,4,3,2024-10-16,1,4,On a roll!
+2344,4,4,2024-10-16,0,0,NULL
+2345,4,5,2024-10-16,0,0,NULL
+2346,4,6,2024-10-16,0,0,NULL
+2347,4,7,2024-10-16,0,0,NULL
+2348,4,8,2024-10-16,0,0,NULL
+2349,4,9,2024-10-16,1,56,Short but consistent
+2350,4,10,2024-10-16,0,0,Too tired after work
+2351,4,11,2024-10-16,0,7,NULL
+2352,4,12,2024-10-16,0,0,NULL
+2353,4,1,2024-10-17,1,25,Best session this week
+2354,4,2,2024-10-17,0,0,NULL
+2355,4,3,2024-10-17,1,0,Pushed through despite tiredness
+2356,4,4,2024-10-17,0,0,Forgot in the morning rush
+2357,4,5,2024-10-17,1,46,Best session this week
+2358,4,6,2024-10-17,1,15,Did it right after waking up
+2359,4,7,2024-10-17,1,4,Did it right after waking up
+2360,4,8,2024-10-17,0,0,NULL
+2361,4,9,2024-10-17,1,53,Did it right after waking up
+2362,4,10,2024-10-17,1,11,Feeling motivated
+2363,4,11,2024-10-17,1,16,NULL
+2364,4,12,2024-10-17,1,16,Short but consistent
+2365,4,1,2024-10-18,0,0,Too tired after work
+2366,4,2,2024-10-18,0,0,NULL
+2367,4,3,2024-10-18,0,0,Skipped due to travel
+2368,4,4,2024-10-18,0,0,NULL
+2369,4,5,2024-10-18,1,57,On a roll!
+2370,4,6,2024-10-18,0,0,Will catch up tomorrow
+2371,4,7,2024-10-18,0,0,NULL
+2372,4,8,2024-10-18,0,0,NULL
+2373,4,9,2024-10-18,0,0,Sick day
+2374,4,10,2024-10-18,0,0,Busy with family obligations
+2375,4,11,2024-10-18,0,0,NULL
+2376,4,12,2024-10-18,1,12,Pushed through despite tiredness
+2377,4,1,2024-10-19,0,0,NULL
+2378,4,2,2024-10-19,1,24,NULL
+2379,4,3,2024-10-19,0,0,NULL
+2380,4,4,2024-10-19,0,0,Busy with family obligations
+2381,4,5,2024-10-19,1,39,"Early morning, very focused"
+2382,4,6,2024-10-19,0,0,NULL
+2383,4,7,2024-10-19,0,0,NULL
+2384,4,8,2024-10-19,0,1,NULL
+2385,4,9,2024-10-19,1,88,On a roll!
+2386,4,10,2024-10-19,0,0,NULL
+2387,4,11,2024-10-19,0,2,NULL
+2388,4,12,2024-10-19,0,0,NULL
+2389,4,1,2024-10-20,1,29,Short but consistent
+2390,4,2,2024-10-20,0,0,NULL
+2391,4,3,2024-10-20,0,0,NULL
+2392,4,4,2024-10-20,0,0,NULL
+2393,4,5,2024-10-20,1,38,Kept the streak alive
+2394,4,6,2024-10-20,1,18,Did it right after waking up
+2395,4,7,2024-10-20,0,0,Skipped due to travel
+2396,4,8,2024-10-20,0,6,NULL
+2397,4,9,2024-10-20,0,2,NULL
+2398,4,10,2024-10-20,1,5,Kept the streak alive
+2399,4,11,2024-10-20,0,0,Busy with family obligations
+2400,4,12,2024-10-20,0,0,NULL
+2401,4,1,2024-10-21,0,0,NULL
+2402,4,2,2024-10-21,0,2,Will catch up tomorrow
+2403,4,3,2024-10-21,0,0,NULL
+2404,4,4,2024-10-21,0,0,Busy with family obligations
+2405,4,5,2024-10-21,1,37,Kept the streak alive
+2406,4,6,2024-10-21,1,17,NULL
+2407,4,7,2024-10-21,0,1,NULL
+2408,4,8,2024-10-21,1,9,Kept the streak alive
+2409,4,9,2024-10-21,1,49,Managed to fit it in before dinner
+2410,4,10,2024-10-21,1,9,NULL
+2411,4,11,2024-10-21,0,0,Too tired after work
+2412,4,12,2024-10-21,1,22,Pushed through despite tiredness
+2413,4,1,2024-10-22,0,6,NULL
+2414,4,2,2024-10-22,1,14,Short but consistent
+2415,4,3,2024-10-22,1,5,NULL
+2416,4,4,2024-10-22,0,0,NULL
+2417,4,5,2024-10-22,0,0,NULL
+2418,4,6,2024-10-22,1,12,Kept the streak alive
+2419,4,7,2024-10-22,1,4,Did it right after waking up
+2420,4,8,2024-10-22,1,9,Kept the streak alive
+2421,4,9,2024-10-22,0,0,NULL
+2422,4,10,2024-10-22,1,10,Feeling motivated
+2423,4,11,2024-10-22,0,0,Forgot in the morning rush
+2424,4,12,2024-10-22,1,23,Kept the streak alive
+2425,4,1,2024-10-23,1,25,Feeling motivated
+2426,4,2,2024-10-23,0,0,NULL
+2427,4,3,2024-10-23,1,2,NULL
+2428,4,4,2024-10-23,0,0,Sick day
+2429,4,5,2024-10-23,0,0,NULL
+2430,4,6,2024-10-23,1,11,Did it right after waking up
+2431,4,7,2024-10-23,1,3,Kept the streak alive
+2432,4,8,2024-10-23,1,9,Felt great today
+2433,4,9,2024-10-23,0,7,Busy with family obligations
+2434,4,10,2024-10-23,0,0,Skipped due to travel
+2435,4,11,2024-10-23,0,7,NULL
+2436,4,12,2024-10-23,1,17,Feeling motivated
+2437,4,1,2024-10-24,0,4,NULL
+2438,4,2,2024-10-24,1,13,Pushed through despite tiredness
+2439,4,3,2024-10-24,1,5,Managed to fit it in before dinner
+2440,4,4,2024-10-24,1,30,NULL
+2441,4,5,2024-10-24,1,47,Pushed through despite tiredness
+2442,4,6,2024-10-24,1,20,NULL
+2443,4,7,2024-10-24,1,0,Short but consistent
+2444,4,8,2024-10-24,0,0,NULL
+2445,4,9,2024-10-24,0,4,NULL
+2446,4,10,2024-10-24,0,6,NULL
+2447,4,11,2024-10-24,0,0,Skipped due to travel
+2448,4,12,2024-10-24,1,10,On a roll!
+2449,4,1,2024-10-25,0,0,Skipped due to travel
+2450,4,2,2024-10-25,0,0,Forgot in the morning rush
+2451,4,3,2024-10-25,1,0,Short but consistent
+2452,4,4,2024-10-25,1,50,Best session this week
+2453,4,5,2024-10-25,0,0,Busy with family obligations
+2454,4,6,2024-10-25,1,11,On a roll!
+2455,4,7,2024-10-25,1,3,NULL
+2456,4,8,2024-10-25,1,6,Kept the streak alive
+2457,4,9,2024-10-25,1,62,NULL
+2458,4,10,2024-10-25,0,3,NULL
+2459,4,11,2024-10-25,0,0,NULL
+2460,4,12,2024-10-25,0,0,NULL
+2461,4,1,2024-10-26,0,0,Will catch up tomorrow
+2462,4,2,2024-10-26,0,0,NULL
+2463,4,3,2024-10-26,0,0,Will catch up tomorrow
+2464,4,4,2024-10-26,0,0,Too tired after work
+2465,4,5,2024-10-26,0,0,Sick day
+2466,4,6,2024-10-26,0,0,Too tired after work
+2467,4,7,2024-10-26,0,0,Busy with family obligations
+2468,4,8,2024-10-26,0,0,Will catch up tomorrow
+2469,4,9,2024-10-26,0,0,Too tired after work
+2470,4,10,2024-10-26,1,14,Kept the streak alive
+2471,4,11,2024-10-26,0,0,Too tired after work
+2472,4,12,2024-10-26,0,0,NULL
+2473,4,1,2024-10-27,0,5,Sick day
+2474,4,2,2024-10-27,0,0,NULL
+2475,4,3,2024-10-27,1,5,Feeling motivated
+2476,4,4,2024-10-27,1,46,On a roll!
+2477,4,5,2024-10-27,1,25,Completed with energy
+2478,4,6,2024-10-27,0,3,Forgot in the morning rush
+2479,4,7,2024-10-27,0,2,NULL
+2480,4,8,2024-10-27,0,0,Skipped due to travel
+2481,4,9,2024-10-27,0,0,Sick day
+2482,4,10,2024-10-27,1,14,Best session this week
+2483,4,11,2024-10-27,0,0,NULL
+2484,4,12,2024-10-27,1,12,On a roll!
+2485,4,1,2024-10-28,1,35,Kept the streak alive
+2486,4,2,2024-10-28,1,23,Did it right after waking up
+2487,4,3,2024-10-28,1,0,Did it right after waking up
+2488,4,4,2024-10-28,1,39,NULL
+2489,4,5,2024-10-28,0,0,Busy with family obligations
+2490,4,6,2024-10-28,0,0,NULL
+2491,4,7,2024-10-28,0,0,NULL
+2492,4,8,2024-10-28,1,5,Felt great today
+2493,4,9,2024-10-28,0,0,Busy with family obligations
+2494,4,10,2024-10-28,0,0,NULL
+2495,4,11,2024-10-28,1,14,NULL
+2496,4,12,2024-10-28,0,0,NULL
+2497,4,1,2024-10-29,1,25,Best session this week
+2498,4,2,2024-10-29,0,0,NULL
+2499,4,3,2024-10-29,0,0,NULL
+2500,4,4,2024-10-29,0,0,Busy with family obligations
+2501,4,5,2024-10-29,0,0,Too tired after work
+2502,4,6,2024-10-29,0,0,NULL
+2503,4,7,2024-10-29,1,5,Pushed through despite tiredness
+2504,4,8,2024-10-29,1,10,Pushed through despite tiredness
+2505,4,9,2024-10-29,1,82,NULL
+2506,4,10,2024-10-29,0,1,NULL
+2507,4,11,2024-10-29,0,0,NULL
+2508,4,12,2024-10-29,0,0,Busy with family obligations
+2509,4,1,2024-10-30,1,28,Feeling motivated
+2510,4,2,2024-10-30,1,22,NULL
+2511,4,3,2024-10-30,1,5,Short but consistent
+2512,4,4,2024-10-30,1,48,Did it right after waking up
+2513,4,5,2024-10-30,0,0,Sick day
+2514,4,6,2024-10-30,0,0,Forgot in the morning rush
+2515,4,7,2024-10-30,0,1,NULL
+2516,4,8,2024-10-30,1,10,"Early morning, very focused"
+2517,4,9,2024-10-30,0,5,Forgot in the morning rush
+2518,4,10,2024-10-30,1,13,Completed with energy
+2519,4,11,2024-10-30,0,0,Too tired after work
+2520,4,12,2024-10-30,0,0,Busy with family obligations
+2521,4,1,2024-10-31,1,23,Short but consistent
+2522,4,2,2024-10-31,0,1,"Late night, no energy"
+2523,4,3,2024-10-31,1,4,Best session this week
+2524,4,4,2024-10-31,0,0,Too tired after work
+2525,4,5,2024-10-31,1,27,Completed with energy
+2526,4,6,2024-10-31,1,16,NULL
+2527,4,7,2024-10-31,0,0,NULL
+2528,4,8,2024-10-31,1,9,Managed to fit it in before dinner
+2529,4,9,2024-10-31,1,66,On a roll!
+2530,4,10,2024-10-31,0,0,NULL
+2531,4,11,2024-10-31,1,15,Short but consistent
+2532,4,12,2024-10-31,1,10,Kept the streak alive
+2533,4,1,2024-11-01,0,0,NULL
+2534,4,2,2024-11-01,0,1,NULL
+2535,4,3,2024-11-01,1,1,On a roll!
+2536,4,4,2024-11-01,0,0,NULL
+2537,4,5,2024-11-01,0,0,Will catch up tomorrow
+2538,4,6,2024-11-01,1,10,Did it right after waking up
+2539,4,7,2024-11-01,0,0,NULL
+2540,4,8,2024-11-01,1,5,On a roll!
+2541,4,9,2024-11-01,1,87,Short but consistent
+2542,4,10,2024-11-01,0,6,Sick day
+2543,4,11,2024-11-01,0,0,NULL
+2544,4,12,2024-11-01,0,0,NULL
+2545,4,1,2024-11-02,0,0,NULL
+2546,4,2,2024-11-02,0,0,NULL
+2547,4,3,2024-11-02,0,0,NULL
+2548,4,4,2024-11-02,1,32,Completed with energy
+2549,4,5,2024-11-02,0,0,Will catch up tomorrow
+2550,4,6,2024-11-02,0,0,"Late night, no energy"
+2551,4,7,2024-11-02,0,0,NULL
+2552,4,8,2024-11-02,0,0,NULL
+2553,4,9,2024-11-02,0,0,Sick day
+2554,4,10,2024-11-02,0,0,NULL
+2555,4,11,2024-11-02,0,0,NULL
+2556,4,12,2024-11-02,0,0,NULL
+2557,4,1,2024-11-03,0,0,NULL
+2558,4,2,2024-11-03,1,19,Completed with energy
+2559,4,3,2024-11-03,1,5,NULL
+2560,4,4,2024-11-03,0,0,Will catch up tomorrow
+2561,4,5,2024-11-03,1,49,NULL
+2562,4,6,2024-11-03,0,0,NULL
+2563,4,7,2024-11-03,1,3,On a roll!
+2564,4,8,2024-11-03,0,0,NULL
+2565,4,9,2024-11-03,1,83,NULL
+2566,4,10,2024-11-03,1,5,NULL
+2567,4,11,2024-11-03,0,0,NULL
+2568,4,12,2024-11-03,0,0,NULL
+2569,4,1,2024-11-04,1,24,Feeling motivated
+2570,4,2,2024-11-04,0,0,NULL
+2571,4,3,2024-11-04,0,0,NULL
+2572,4,4,2024-11-04,1,48,Kept the streak alive
+2573,4,5,2024-11-04,0,0,Busy with family obligations
+2574,4,6,2024-11-04,1,12,Short but consistent
+2575,4,7,2024-11-04,0,0,NULL
+2576,4,8,2024-11-04,1,5,Short but consistent
+2577,4,9,2024-11-04,0,0,NULL
+2578,4,10,2024-11-04,1,7,Felt great today
+2579,4,11,2024-11-04,0,0,NULL
+2580,4,12,2024-11-04,0,0,NULL
+2581,4,1,2024-11-05,0,0,NULL
+2582,4,2,2024-11-05,0,0,Will catch up tomorrow
+2583,4,3,2024-11-05,0,0,NULL
+2584,4,4,2024-11-05,0,0,NULL
+2585,4,5,2024-11-05,1,53,Feeling motivated
+2586,4,6,2024-11-05,0,0,Sick day
+2587,4,7,2024-11-05,0,1,NULL
+2588,4,8,2024-11-05,0,6,NULL
+2589,4,9,2024-11-05,1,51,On a roll!
+2590,4,10,2024-11-05,0,0,NULL
+2591,4,11,2024-11-05,0,0,NULL
+2592,4,12,2024-11-05,0,0,Sick day
+2593,4,1,2024-11-06,1,42,NULL
+2594,4,2,2024-11-06,0,0,Skipped due to travel
+2595,4,3,2024-11-06,0,0,NULL
+2596,4,4,2024-11-06,1,44,On a roll!
+2597,4,5,2024-11-06,1,30,Completed with energy
+2598,4,6,2024-11-06,0,0,NULL
+2599,4,7,2024-11-06,1,4,Kept the streak alive
+2600,4,8,2024-11-06,1,5,Did it right after waking up
+2601,4,9,2024-11-06,0,0,NULL
+2602,4,10,2024-11-06,0,0,Will catch up tomorrow
+2603,4,11,2024-11-06,1,12,Managed to fit it in before dinner
+2604,4,12,2024-11-06,0,8,NULL
+2605,4,1,2024-11-07,0,0,NULL
+2606,4,2,2024-11-07,0,0,NULL
+2607,4,3,2024-11-07,0,0,NULL
+2608,4,4,2024-11-07,1,35,Felt great today
+2609,4,5,2024-11-07,0,0,Forgot in the morning rush
+2610,4,6,2024-11-07,0,0,"Late night, no energy"
+2611,4,7,2024-11-07,0,1,NULL
+2612,4,8,2024-11-07,1,6,Managed to fit it in before dinner
+2613,4,9,2024-11-07,0,0,Too tired after work
+2614,4,10,2024-11-07,0,0,NULL
+2615,4,11,2024-11-07,0,0,NULL
+2616,4,12,2024-11-07,0,0,NULL
+2617,4,1,2024-11-08,1,36,Best session this week
+2618,4,2,2024-11-08,0,0,Too tired after work
+2619,4,3,2024-11-08,1,1,Pushed through despite tiredness
+2620,4,4,2024-11-08,0,0,Forgot in the morning rush
+2621,4,5,2024-11-08,0,0,NULL
+2622,4,6,2024-11-08,1,12,Managed to fit it in before dinner
+2623,4,7,2024-11-08,0,0,NULL
+2624,4,8,2024-11-08,0,3,"Late night, no energy"
+2625,4,9,2024-11-08,0,0,Will catch up tomorrow
+2626,4,10,2024-11-08,0,0,NULL
+2627,4,11,2024-11-08,1,15,Did it right after waking up
+2628,4,12,2024-11-08,1,17,Completed with energy
+2629,4,1,2024-11-09,0,0,NULL
+2630,4,2,2024-11-09,0,0,Will catch up tomorrow
+2631,4,3,2024-11-09,0,3,Skipped due to travel
+2632,4,4,2024-11-09,0,0,Skipped due to travel
+2633,4,5,2024-11-09,0,8,NULL
+2634,4,6,2024-11-09,0,0,NULL
+2635,4,7,2024-11-09,0,0,NULL
+2636,4,8,2024-11-09,0,0,NULL
+2637,4,9,2024-11-09,1,56,On a roll!
+2638,4,10,2024-11-09,0,0,NULL
+2639,4,11,2024-11-09,0,0,NULL
+2640,4,12,2024-11-09,0,0,NULL
+2641,4,1,2024-11-10,0,0,NULL
+2642,4,2,2024-11-10,0,5,NULL
+2643,4,3,2024-11-10,1,3,Feeling motivated
+2644,4,4,2024-11-10,0,0,NULL
+2645,4,5,2024-11-10,0,0,NULL
+2646,4,6,2024-11-10,0,0,NULL
+2647,4,7,2024-11-10,0,0,NULL
+2648,4,8,2024-11-10,0,0,Skipped due to travel
+2649,4,9,2024-11-10,1,50,Pushed through despite tiredness
+2650,4,10,2024-11-10,0,4,NULL
+2651,4,11,2024-11-10,0,0,NULL
+2652,4,12,2024-11-10,0,0,NULL
+2653,4,1,2024-11-11,0,0,NULL
+2654,4,2,2024-11-11,0,0,NULL
+2655,4,3,2024-11-11,0,0,NULL
+2656,4,4,2024-11-11,0,0,NULL
+2657,4,5,2024-11-11,1,58,NULL
+2658,4,6,2024-11-11,0,0,NULL
+2659,4,7,2024-11-11,0,0,NULL
+2660,4,8,2024-11-11,1,7,Short but consistent
+2661,4,9,2024-11-11,1,48,Managed to fit it in before dinner
+2662,4,10,2024-11-11,0,1,Sick day
+2663,4,11,2024-11-11,0,0,NULL
+2664,4,12,2024-11-11,1,19,"Early morning, very focused"
+2665,4,1,2024-11-12,1,40,NULL
+2666,4,2,2024-11-12,1,11,Kept the streak alive
+2667,4,3,2024-11-12,0,0,Too tired after work
+2668,4,4,2024-11-12,0,0,Too tired after work
+2669,4,5,2024-11-12,1,36,Managed to fit it in before dinner
+2670,4,6,2024-11-12,1,16,Kept the streak alive
+2671,4,7,2024-11-12,1,4,Pushed through despite tiredness
+2672,4,8,2024-11-12,1,5,Pushed through despite tiredness
+2673,4,9,2024-11-12,0,0,NULL
+2674,4,10,2024-11-12,1,11,Pushed through despite tiredness
+2675,4,11,2024-11-12,0,0,NULL
+2676,4,12,2024-11-12,0,0,Busy with family obligations
+2677,4,1,2024-11-13,1,26,Completed with energy
+2678,4,2,2024-11-13,1,14,Managed to fit it in before dinner
+2679,4,3,2024-11-13,1,0,Pushed through despite tiredness
+2680,4,4,2024-11-13,0,0,NULL
+2681,4,5,2024-11-13,0,7,NULL
+2682,4,6,2024-11-13,0,0,Busy with family obligations
+2683,4,7,2024-11-13,0,0,NULL
+2684,4,8,2024-11-13,1,5,Did it right after waking up
+2685,4,9,2024-11-13,1,67,NULL
+2686,4,10,2024-11-13,1,8,Felt great today
+2687,4,11,2024-11-13,0,0,NULL
+2688,4,12,2024-11-13,0,0,NULL
+2689,4,1,2024-11-14,1,27,NULL
+2690,4,2,2024-11-14,1,15,Best session this week
+2691,4,3,2024-11-14,1,2,Feeling motivated
+2692,4,4,2024-11-14,1,36,Kept the streak alive
+2693,4,5,2024-11-14,0,0,NULL
+2694,4,6,2024-11-14,0,2,Forgot in the morning rush
+2695,4,7,2024-11-14,1,1,Pushed through despite tiredness
+2696,4,8,2024-11-14,1,6,Completed with energy
+2697,4,9,2024-11-14,0,0,NULL
+2698,4,10,2024-11-14,0,0,Busy with family obligations
+2699,4,11,2024-11-14,0,0,NULL
+2700,4,12,2024-11-14,1,21,"Early morning, very focused"
+2701,4,1,2024-11-15,0,0,Too tired after work
+2702,4,2,2024-11-15,1,11,NULL
+2703,4,3,2024-11-15,0,0,NULL
+2704,4,4,2024-11-15,0,2,NULL
+2705,4,5,2024-11-15,1,32,Completed with energy
+2706,4,6,2024-11-15,0,0,NULL
+2707,4,7,2024-11-15,1,5,Did it right after waking up
+2708,4,8,2024-11-15,1,9,NULL
+2709,4,9,2024-11-15,1,62,Best session this week
+2710,4,10,2024-11-15,0,1,NULL
+2711,4,11,2024-11-15,1,20,Short but consistent
+2712,4,12,2024-11-15,1,24,Completed with energy
+2713,4,1,2024-11-16,1,39,On a roll!
+2714,4,2,2024-11-16,1,16,NULL
+2715,4,3,2024-11-16,0,3,NULL
+2716,4,4,2024-11-16,0,0,NULL
+2717,4,5,2024-11-16,0,0,Will catch up tomorrow
+2718,4,6,2024-11-16,0,0,NULL
+2719,4,7,2024-11-16,1,4,NULL
+2720,4,8,2024-11-16,0,4,NULL
+2721,4,9,2024-11-16,1,81,Felt great today
+2722,4,10,2024-11-16,0,0,NULL
+2723,4,11,2024-11-16,0,0,NULL
+2724,4,12,2024-11-16,0,8,Busy with family obligations
+2725,4,1,2024-11-17,0,0,Forgot in the morning rush
+2726,4,2,2024-11-17,0,0,NULL
+2727,4,3,2024-11-17,0,0,NULL
+2728,4,4,2024-11-17,0,0,NULL
+2729,4,5,2024-11-17,0,0,NULL
+2730,4,6,2024-11-17,0,0,NULL
+2731,4,7,2024-11-17,1,2,Short but consistent
+2732,4,8,2024-11-17,0,0,Sick day
+2733,4,9,2024-11-17,0,5,NULL
+2734,4,10,2024-11-17,0,0,NULL
+2735,4,11,2024-11-17,0,0,NULL
+2736,4,12,2024-11-17,0,0,NULL
+2737,4,1,2024-11-18,1,27,Feeling motivated
+2738,4,2,2024-11-18,0,0,NULL
+2739,4,3,2024-11-18,0,0,NULL
+2740,4,4,2024-11-18,1,42,NULL
+2741,4,5,2024-11-18,1,60,Best session this week
+2742,4,6,2024-11-18,0,0,NULL
+2743,4,7,2024-11-18,0,0,NULL
+2744,4,8,2024-11-18,1,8,On a roll!
+2745,4,9,2024-11-18,1,50,Kept the streak alive
+2746,4,10,2024-11-18,1,7,Best session this week
+2747,4,11,2024-11-18,0,0,"Late night, no energy"
+2748,4,12,2024-11-18,1,15,Short but consistent
+2749,4,1,2024-11-19,1,26,Completed with energy
+2750,4,2,2024-11-19,1,17,Kept the streak alive
+2751,4,3,2024-11-19,0,0,NULL
+2752,4,4,2024-11-19,1,49,Completed with energy
+2753,4,5,2024-11-19,1,32,Short but consistent
+2754,4,6,2024-11-19,1,10,Pushed through despite tiredness
+2755,4,7,2024-11-19,1,2,Pushed through despite tiredness
+2756,4,8,2024-11-19,0,0,NULL
+2757,4,9,2024-11-19,1,79,Feeling motivated
+2758,4,10,2024-11-19,0,0,Forgot in the morning rush
+2759,4,11,2024-11-19,0,0,NULL
+2760,4,12,2024-11-19,1,25,Pushed through despite tiredness
+2761,4,1,2024-11-20,1,42,"Early morning, very focused"
+2762,4,2,2024-11-20,0,0,"Late night, no energy"
+2763,4,3,2024-11-20,1,1,Felt great today
+2764,4,4,2024-11-20,0,6,Will catch up tomorrow
+2765,4,5,2024-11-20,0,0,NULL
+2766,4,6,2024-11-20,1,11,Kept the streak alive
+2767,4,7,2024-11-20,1,1,Completed with energy
+2768,4,8,2024-11-20,0,0,Will catch up tomorrow
+2769,4,9,2024-11-20,1,47,NULL
+2770,4,10,2024-11-20,1,13,On a roll!
+2771,4,11,2024-11-20,0,0,"Late night, no energy"
+2772,4,12,2024-11-20,0,0,NULL
+2773,4,1,2024-11-21,1,41,On a roll!
+2774,4,2,2024-11-21,0,0,NULL
+2775,4,3,2024-11-21,1,1,Did it right after waking up
+2776,4,4,2024-11-21,0,0,NULL
+2777,4,5,2024-11-21,0,6,NULL
+2778,4,6,2024-11-21,1,15,Pushed through despite tiredness
+2779,4,7,2024-11-21,1,2,On a roll!
+2780,4,8,2024-11-21,0,0,NULL
+2781,4,9,2024-11-21,0,0,Sick day
+2782,4,10,2024-11-21,1,12,NULL
+2783,4,11,2024-11-21,0,0,NULL
+2784,4,12,2024-11-21,1,23,NULL
+2785,4,1,2024-11-22,0,0,NULL
+2786,4,2,2024-11-22,0,0,Too tired after work
+2787,4,3,2024-11-22,1,1,Completed with energy
+2788,4,4,2024-11-22,1,41,Short but consistent
+2789,4,5,2024-11-22,0,0,NULL
+2790,4,6,2024-11-22,1,16,Best session this week
+2791,4,7,2024-11-22,1,0,Feeling motivated
+2792,4,8,2024-11-22,1,10,Pushed through despite tiredness
+2793,4,9,2024-11-22,1,89,Managed to fit it in before dinner
+2794,4,10,2024-11-22,1,6,NULL
+2795,4,11,2024-11-22,0,0,NULL
+2796,4,12,2024-11-22,1,21,Pushed through despite tiredness
+2797,4,1,2024-11-23,1,20,NULL
+2798,4,2,2024-11-23,0,0,NULL
+2799,4,3,2024-11-23,0,8,NULL
+2800,4,4,2024-11-23,0,0,Too tired after work
+2801,4,5,2024-11-23,0,0,NULL
+2802,4,6,2024-11-23,1,10,Managed to fit it in before dinner
+2803,4,7,2024-11-23,0,0,NULL
+2804,4,8,2024-11-23,0,0,NULL
+2805,4,9,2024-11-23,0,0,NULL
+2806,4,10,2024-11-23,1,13,Managed to fit it in before dinner
+2807,4,11,2024-11-23,0,3,NULL
+2808,4,12,2024-11-23,1,15,Short but consistent
+2809,4,1,2024-11-24,0,0,NULL
+2810,4,2,2024-11-24,0,0,Busy with family obligations
+2811,4,3,2024-11-24,0,5,NULL
+2812,4,4,2024-11-24,1,33,Completed with energy
+2813,4,5,2024-11-24,0,0,Sick day
+2814,4,6,2024-11-24,1,11,Completed with energy
+2815,4,7,2024-11-24,1,2,Best session this week
+2816,4,8,2024-11-24,0,0,"Late night, no energy"
+2817,4,9,2024-11-24,1,81,Felt great today
+2818,4,10,2024-11-24,0,0,Will catch up tomorrow
+2819,4,11,2024-11-24,1,10,On a roll!
+2820,4,12,2024-11-24,0,0,NULL
+2821,4,1,2024-11-25,1,43,On a roll!
+2822,4,2,2024-11-25,0,0,Busy with family obligations
+2823,4,3,2024-11-25,0,0,NULL
+2824,4,4,2024-11-25,0,6,NULL
+2825,4,5,2024-11-25,0,2,NULL
+2826,4,6,2024-11-25,1,11,Feeling motivated
+2827,4,7,2024-11-25,1,5,NULL
+2828,4,8,2024-11-25,1,6,NULL
+2829,4,9,2024-11-25,0,0,NULL
+2830,4,10,2024-11-25,0,0,NULL
+2831,4,11,2024-11-25,1,19,Short but consistent
+2832,4,12,2024-11-25,0,6,NULL
+2833,4,1,2024-11-26,0,0,NULL
+2834,4,2,2024-11-26,0,0,"Late night, no energy"
+2835,4,3,2024-11-26,0,0,NULL
+2836,4,4,2024-11-26,1,44,On a roll!
+2837,4,5,2024-11-26,1,35,Completed with energy
+2838,4,6,2024-11-26,1,15,Completed with energy
+2839,4,7,2024-11-26,1,3,"Early morning, very focused"
+2840,4,8,2024-11-26,0,0,NULL
+2841,4,9,2024-11-26,1,52,NULL
+2842,4,10,2024-11-26,0,0,Busy with family obligations
+2843,4,11,2024-11-26,0,0,Will catch up tomorrow
+2844,4,12,2024-11-26,0,0,Skipped due to travel
+2845,4,1,2024-11-27,0,0,Too tired after work
+2846,4,2,2024-11-27,0,0,NULL
+2847,4,3,2024-11-27,1,0,Pushed through despite tiredness
+2848,4,4,2024-11-27,0,0,Busy with family obligations
+2849,4,5,2024-11-27,0,0,NULL
+2850,4,6,2024-11-27,0,0,NULL
+2851,4,7,2024-11-27,0,0,Forgot in the morning rush
+2852,4,8,2024-11-27,0,0,NULL
+2853,4,9,2024-11-27,0,5,Will catch up tomorrow
+2854,4,10,2024-11-27,0,0,NULL
+2855,4,11,2024-11-27,0,0,Forgot in the morning rush
+2856,4,12,2024-11-27,0,3,Too tired after work
+2857,4,1,2024-11-28,0,0,Will catch up tomorrow
+2858,4,2,2024-11-28,0,0,Sick day
+2859,4,3,2024-11-28,0,0,NULL
+2860,4,4,2024-11-28,1,35,Completed with energy
+2861,4,5,2024-11-28,1,50,Completed with energy
+2862,4,6,2024-11-28,1,17,Short but consistent
+2863,4,7,2024-11-28,1,5,"Early morning, very focused"
+2864,4,8,2024-11-28,1,5,Managed to fit it in before dinner
+2865,4,9,2024-11-28,1,55,Best session this week
+2866,4,10,2024-11-28,1,12,Kept the streak alive
+2867,4,11,2024-11-28,0,0,NULL
+2868,4,12,2024-11-28,1,22,Short but consistent
+2869,4,1,2024-11-29,1,26,Completed with energy
+2870,4,2,2024-11-29,0,0,Will catch up tomorrow
+2871,4,3,2024-11-29,1,1,Kept the streak alive
+2872,4,4,2024-11-29,0,6,Too tired after work
+2873,4,5,2024-11-29,0,0,NULL
+2874,4,6,2024-11-29,0,0,NULL
+2875,4,7,2024-11-29,1,1,Managed to fit it in before dinner
+2876,4,8,2024-11-29,0,0,NULL
+2877,4,9,2024-11-29,1,57,NULL
+2878,4,10,2024-11-29,0,5,"Late night, no energy"
+2879,4,11,2024-11-29,0,0,NULL
+2880,4,12,2024-11-29,0,0,NULL
+2881,5,1,2024-10-01,0,0,NULL
+2882,5,2,2024-10-01,0,2,NULL
+2883,5,3,2024-10-01,0,0,Busy with family obligations
+2884,5,4,2024-10-01,0,0,NULL
+2885,5,5,2024-10-01,0,0,NULL
+2886,5,6,2024-10-01,0,0,NULL
+2887,5,7,2024-10-01,0,0,NULL
+2888,5,8,2024-10-01,0,0,NULL
+2889,5,9,2024-10-01,0,7,NULL
+2890,5,10,2024-10-01,0,0,NULL
+2891,5,11,2024-10-01,1,18,Managed to fit it in before dinner
+2892,5,12,2024-10-01,1,13,On a roll!
+2893,5,1,2024-10-02,0,0,NULL
+2894,5,2,2024-10-02,0,0,NULL
+2895,5,3,2024-10-02,1,1,NULL
+2896,5,4,2024-10-02,1,38,"Early morning, very focused"
+2897,5,5,2024-10-02,0,0,NULL
+2898,5,6,2024-10-02,1,10,Felt great today
+2899,5,7,2024-10-02,1,4,Short but consistent
+2900,5,8,2024-10-02,0,0,NULL
+2901,5,9,2024-10-02,0,0,NULL
+2902,5,10,2024-10-02,1,11,Short but consistent
+2903,5,11,2024-10-02,1,16,Pushed through despite tiredness
+2904,5,12,2024-10-02,0,0,NULL
+2905,5,1,2024-10-03,0,0,Sick day
+2906,5,2,2024-10-03,1,13,NULL
+2907,5,3,2024-10-03,0,0,NULL
+2908,5,4,2024-10-03,0,0,Will catch up tomorrow
+2909,5,5,2024-10-03,1,26,Managed to fit it in before dinner
+2910,5,6,2024-10-03,1,12,Felt great today
+2911,5,7,2024-10-03,0,0,NULL
+2912,5,8,2024-10-03,0,2,NULL
+2913,5,9,2024-10-03,0,0,Sick day
+2914,5,10,2024-10-03,1,8,Feeling motivated
+2915,5,11,2024-10-03,0,0,NULL
+2916,5,12,2024-10-03,0,0,NULL
+2917,5,1,2024-10-04,0,0,NULL
+2918,5,2,2024-10-04,1,13,Completed with energy
+2919,5,3,2024-10-04,1,1,Completed with energy
+2920,5,4,2024-10-04,1,36,Managed to fit it in before dinner
+2921,5,5,2024-10-04,1,51,Completed with energy
+2922,5,6,2024-10-04,0,0,Busy with family obligations
+2923,5,7,2024-10-04,0,0,NULL
+2924,5,8,2024-10-04,0,0,NULL
+2925,5,9,2024-10-04,0,0,NULL
+2926,5,10,2024-10-04,1,10,Kept the streak alive
+2927,5,11,2024-10-04,0,0,NULL
+2928,5,12,2024-10-04,0,0,Too tired after work
+2929,5,1,2024-10-05,0,0,NULL
+2930,5,2,2024-10-05,0,0,NULL
+2931,5,3,2024-10-05,1,1,Completed with energy
+2932,5,4,2024-10-05,0,0,NULL
+2933,5,5,2024-10-05,0,8,NULL
+2934,5,6,2024-10-05,0,0,NULL
+2935,5,7,2024-10-05,0,0,Sick day
+2936,5,8,2024-10-05,0,0,Busy with family obligations
+2937,5,9,2024-10-05,1,64,Pushed through despite tiredness
+2938,5,10,2024-10-05,0,0,NULL
+2939,5,11,2024-10-05,0,0,NULL
+2940,5,12,2024-10-05,0,0,NULL
+2941,5,1,2024-10-06,0,0,Skipped due to travel
+2942,5,2,2024-10-06,0,0,NULL
+2943,5,3,2024-10-06,0,0,NULL
+2944,5,4,2024-10-06,0,0,NULL
+2945,5,5,2024-10-06,0,5,NULL
+2946,5,6,2024-10-06,0,0,Will catch up tomorrow
+2947,5,7,2024-10-06,0,0,Will catch up tomorrow
+2948,5,8,2024-10-06,0,0,NULL
+2949,5,9,2024-10-06,0,0,NULL
+2950,5,10,2024-10-06,0,0,NULL
+2951,5,11,2024-10-06,1,19,Did it right after waking up
+2952,5,12,2024-10-06,0,6,NULL
+2953,5,1,2024-10-07,0,0,Too tired after work
+2954,5,2,2024-10-07,0,0,NULL
+2955,5,3,2024-10-07,0,2,NULL
+2956,5,4,2024-10-07,0,0,Too tired after work
+2957,5,5,2024-10-07,0,0,NULL
+2958,5,6,2024-10-07,0,0,NULL
+2959,5,7,2024-10-07,0,0,NULL
+2960,5,8,2024-10-07,1,5,Completed with energy
+2961,5,9,2024-10-07,0,0,NULL
+2962,5,10,2024-10-07,0,0,Skipped due to travel
+2963,5,11,2024-10-07,0,0,NULL
+2964,5,12,2024-10-07,0,0,NULL
+2965,5,1,2024-10-08,0,0,Will catch up tomorrow
+2966,5,2,2024-10-08,0,3,Too tired after work
+2967,5,3,2024-10-08,1,5,Feeling motivated
+2968,5,4,2024-10-08,0,3,NULL
+2969,5,5,2024-10-08,0,0,NULL
+2970,5,6,2024-10-08,1,10,"Early morning, very focused"
+2971,5,7,2024-10-08,0,0,NULL
+2972,5,8,2024-10-08,1,10,NULL
+2973,5,9,2024-10-08,0,0,NULL
+2974,5,10,2024-10-08,0,0,Will catch up tomorrow
+2975,5,11,2024-10-08,0,0,NULL
+2976,5,12,2024-10-08,0,0,NULL
+2977,5,1,2024-10-09,1,27,NULL
+2978,5,2,2024-10-09,0,0,NULL
+2979,5,3,2024-10-09,1,2,Feeling motivated
+2980,5,4,2024-10-09,1,37,NULL
+2981,5,5,2024-10-09,0,0,NULL
+2982,5,6,2024-10-09,1,10,Best session this week
+2983,5,7,2024-10-09,1,3,Short but consistent
+2984,5,8,2024-10-09,0,0,NULL
+2985,5,9,2024-10-09,0,0,"Late night, no energy"
+2986,5,10,2024-10-09,0,0,NULL
+2987,5,11,2024-10-09,1,13,On a roll!
+2988,5,12,2024-10-09,0,0,NULL
+2989,5,1,2024-10-10,1,26,Completed with energy
+2990,5,2,2024-10-10,1,19,Short but consistent
+2991,5,3,2024-10-10,0,7,NULL
+2992,5,4,2024-10-10,0,0,NULL
+2993,5,5,2024-10-10,1,55,NULL
+2994,5,6,2024-10-10,0,0,NULL
+2995,5,7,2024-10-10,1,1,Pushed through despite tiredness
+2996,5,8,2024-10-10,0,0,NULL
+2997,5,9,2024-10-10,1,48,NULL
+2998,5,10,2024-10-10,0,0,Sick day
+2999,5,11,2024-10-10,0,0,NULL
+3000,5,12,2024-10-10,0,0,NULL
+3001,5,1,2024-10-11,0,0,Too tired after work
+3002,5,2,2024-10-11,0,0,NULL
+3003,5,3,2024-10-11,1,4,Feeling motivated
+3004,5,4,2024-10-11,0,0,"Late night, no energy"
+3005,5,5,2024-10-11,0,3,"Late night, no energy"
+3006,5,6,2024-10-11,0,0,Forgot in the morning rush
+3007,5,7,2024-10-11,0,0,NULL
+3008,5,8,2024-10-11,0,0,Will catch up tomorrow
+3009,5,9,2024-10-11,0,5,NULL
+3010,5,10,2024-10-11,1,15,Kept the streak alive
+3011,5,11,2024-10-11,0,4,NULL
+3012,5,12,2024-10-11,1,21,Kept the streak alive
+3013,5,1,2024-10-12,0,0,Skipped due to travel
+3014,5,2,2024-10-12,1,19,Short but consistent
+3015,5,3,2024-10-12,0,0,NULL
+3016,5,4,2024-10-12,0,5,NULL
+3017,5,5,2024-10-12,0,0,NULL
+3018,5,6,2024-10-12,0,0,NULL
+3019,5,7,2024-10-12,0,0,NULL
+3020,5,8,2024-10-12,0,0,NULL
+3021,5,9,2024-10-12,0,0,NULL
+3022,5,10,2024-10-12,0,6,NULL
+3023,5,11,2024-10-12,0,7,NULL
+3024,5,12,2024-10-12,0,0,Skipped due to travel
+3025,5,1,2024-10-13,0,0,NULL
+3026,5,2,2024-10-13,0,0,NULL
+3027,5,3,2024-10-13,0,0,NULL
+3028,5,4,2024-10-13,0,0,NULL
+3029,5,5,2024-10-13,0,0,NULL
+3030,5,6,2024-10-13,0,0,NULL
+3031,5,7,2024-10-13,0,0,NULL
+3032,5,8,2024-10-13,0,0,Skipped due to travel
+3033,5,9,2024-10-13,0,0,NULL
+3034,5,10,2024-10-13,0,4,NULL
+3035,5,11,2024-10-13,0,0,"Late night, no energy"
+3036,5,12,2024-10-13,1,16,"Early morning, very focused"
+3037,5,1,2024-10-14,0,7,Busy with family obligations
+3038,5,2,2024-10-14,0,0,Forgot in the morning rush
+3039,5,3,2024-10-14,0,0,NULL
+3040,5,4,2024-10-14,0,0,Skipped due to travel
+3041,5,5,2024-10-14,0,3,NULL
+3042,5,6,2024-10-14,0,0,Will catch up tomorrow
+3043,5,7,2024-10-14,1,5,Managed to fit it in before dinner
+3044,5,8,2024-10-14,0,0,"Late night, no energy"
+3045,5,9,2024-10-14,0,0,Busy with family obligations
+3046,5,10,2024-10-14,0,0,NULL
+3047,5,11,2024-10-14,0,2,NULL
+3048,5,12,2024-10-14,1,12,"Early morning, very focused"
+3049,5,1,2024-10-15,0,0,NULL
+3050,5,2,2024-10-15,0,0,NULL
+3051,5,3,2024-10-15,1,5,On a roll!
+3052,5,4,2024-10-15,0,0,Will catch up tomorrow
+3053,5,5,2024-10-15,0,0,NULL
+3054,5,6,2024-10-15,1,10,Did it right after waking up
+3055,5,7,2024-10-15,0,0,NULL
+3056,5,8,2024-10-15,0,0,NULL
+3057,5,9,2024-10-15,1,81,"Early morning, very focused"
+3058,5,10,2024-10-15,1,7,Managed to fit it in before dinner
+3059,5,11,2024-10-15,0,0,NULL
+3060,5,12,2024-10-15,0,0,"Late night, no energy"
+3061,5,1,2024-10-16,0,0,Skipped due to travel
+3062,5,2,2024-10-16,0,0,NULL
+3063,5,3,2024-10-16,0,8,NULL
+3064,5,4,2024-10-16,1,46,Pushed through despite tiredness
+3065,5,5,2024-10-16,0,0,Forgot in the morning rush
+3066,5,6,2024-10-16,0,0,NULL
+3067,5,7,2024-10-16,1,4,Feeling motivated
+3068,5,8,2024-10-16,1,5,Pushed through despite tiredness
+3069,5,9,2024-10-16,0,1,Skipped due to travel
+3070,5,10,2024-10-16,0,0,NULL
+3071,5,11,2024-10-16,1,14,Managed to fit it in before dinner
+3072,5,12,2024-10-16,0,3,NULL
+3073,5,1,2024-10-17,0,0,NULL
+3074,5,2,2024-10-17,0,0,NULL
+3075,5,3,2024-10-17,0,3,NULL
+3076,5,4,2024-10-17,1,39,"Early morning, very focused"
+3077,5,5,2024-10-17,0,0,NULL
+3078,5,6,2024-10-17,0,0,NULL
+3079,5,7,2024-10-17,1,3,Pushed through despite tiredness
+3080,5,8,2024-10-17,1,5,NULL
+3081,5,9,2024-10-17,0,0,NULL
+3082,5,10,2024-10-17,0,0,Forgot in the morning rush
+3083,5,11,2024-10-17,0,0,Forgot in the morning rush
+3084,5,12,2024-10-17,0,0,NULL
+3085,5,1,2024-10-18,0,0,Skipped due to travel
+3086,5,2,2024-10-18,1,21,NULL
+3087,5,3,2024-10-18,0,0,NULL
+3088,5,4,2024-10-18,0,0,NULL
+3089,5,5,2024-10-18,0,0,NULL
+3090,5,6,2024-10-18,0,0,NULL
+3091,5,7,2024-10-18,0,0,NULL
+3092,5,8,2024-10-18,0,0,Will catch up tomorrow
+3093,5,9,2024-10-18,0,0,NULL
+3094,5,10,2024-10-18,0,0,NULL
+3095,5,11,2024-10-18,1,20,Completed with energy
+3096,5,12,2024-10-18,0,0,Sick day
+3097,5,1,2024-10-19,0,0,NULL
+3098,5,2,2024-10-19,0,0,Busy with family obligations
+3099,5,3,2024-10-19,0,0,NULL
+3100,5,4,2024-10-19,0,1,NULL
+3101,5,5,2024-10-19,0,0,Forgot in the morning rush
+3102,5,6,2024-10-19,0,0,NULL
+3103,5,7,2024-10-19,0,7,NULL
+3104,5,8,2024-10-19,0,0,NULL
+3105,5,9,2024-10-19,0,0,NULL
+3106,5,10,2024-10-19,0,0,NULL
+3107,5,11,2024-10-19,0,0,NULL
+3108,5,12,2024-10-19,0,2,NULL
+3109,5,1,2024-10-20,0,0,NULL
+3110,5,2,2024-10-20,0,0,NULL
+3111,5,3,2024-10-20,0,0,NULL
+3112,5,4,2024-10-20,0,0,NULL
+3113,5,5,2024-10-20,0,0,NULL
+3114,5,6,2024-10-20,1,14,Completed with energy
+3115,5,7,2024-10-20,1,0,NULL
+3116,5,8,2024-10-20,0,4,NULL
+3117,5,9,2024-10-20,0,0,Forgot in the morning rush
+3118,5,10,2024-10-20,0,3,NULL
+3119,5,11,2024-10-20,0,0,Too tired after work
+3120,5,12,2024-10-20,0,0,NULL
+3121,5,1,2024-10-21,0,0,NULL
+3122,5,2,2024-10-21,1,18,Best session this week
+3123,5,3,2024-10-21,0,0,NULL
+3124,5,4,2024-10-21,0,0,NULL
+3125,5,5,2024-10-21,0,7,NULL
+3126,5,6,2024-10-21,0,0,NULL
+3127,5,7,2024-10-21,1,3,NULL
+3128,5,8,2024-10-21,0,0,NULL
+3129,5,9,2024-10-21,0,0,NULL
+3130,5,10,2024-10-21,0,0,NULL
+3131,5,11,2024-10-21,0,0,NULL
+3132,5,12,2024-10-21,1,10,Did it right after waking up
+3133,5,1,2024-10-22,0,6,NULL
+3134,5,2,2024-10-22,0,0,Busy with family obligations
+3135,5,3,2024-10-22,0,0,NULL
+3136,5,4,2024-10-22,1,33,NULL
+3137,5,5,2024-10-22,0,0,Busy with family obligations
+3138,5,6,2024-10-22,0,0,Too tired after work
+3139,5,7,2024-10-22,1,4,NULL
+3140,5,8,2024-10-22,1,10,Best session this week
+3141,5,9,2024-10-22,0,2,NULL
+3142,5,10,2024-10-22,1,10,NULL
+3143,5,11,2024-10-22,0,0,NULL
+3144,5,12,2024-10-22,0,0,NULL
+3145,5,1,2024-10-23,1,26,Kept the streak alive
+3146,5,2,2024-10-23,0,0,NULL
+3147,5,3,2024-10-23,0,0,Will catch up tomorrow
+3148,5,4,2024-10-23,0,0,NULL
+3149,5,5,2024-10-23,0,0,NULL
+3150,5,6,2024-10-23,0,6,NULL
+3151,5,7,2024-10-23,0,0,Forgot in the morning rush
+3152,5,8,2024-10-23,0,0,NULL
+3153,5,9,2024-10-23,1,54,Felt great today
+3154,5,10,2024-10-23,0,0,NULL
+3155,5,11,2024-10-23,0,7,NULL
+3156,5,12,2024-10-23,1,22,"Early morning, very focused"
+3157,5,1,2024-10-24,0,4,NULL
+3158,5,2,2024-10-24,0,6,Too tired after work
+3159,5,3,2024-10-24,1,1,NULL
+3160,5,4,2024-10-24,0,4,Will catch up tomorrow
+3161,5,5,2024-10-24,0,0,NULL
+3162,5,6,2024-10-24,0,0,NULL
+3163,5,7,2024-10-24,1,2,Feeling motivated
+3164,5,8,2024-10-24,0,0,NULL
+3165,5,9,2024-10-24,0,0,Skipped due to travel
+3166,5,10,2024-10-24,0,0,NULL
+3167,5,11,2024-10-24,1,17,Managed to fit it in before dinner
+3168,5,12,2024-10-24,0,0,NULL
+3169,5,1,2024-10-25,1,34,Feeling motivated
+3170,5,2,2024-10-25,0,0,NULL
+3171,5,3,2024-10-25,1,2,Completed with energy
+3172,5,4,2024-10-25,0,0,NULL
+3173,5,5,2024-10-25,0,0,"Late night, no energy"
+3174,5,6,2024-10-25,0,0,NULL
+3175,5,7,2024-10-25,1,5,On a roll!
+3176,5,8,2024-10-25,0,0,NULL
+3177,5,9,2024-10-25,1,74,Felt great today
+3178,5,10,2024-10-25,0,0,NULL
+3179,5,11,2024-10-25,1,19,Completed with energy
+3180,5,12,2024-10-25,1,20,Completed with energy
+3181,5,1,2024-10-26,0,0,NULL
+3182,5,2,2024-10-26,0,0,Forgot in the morning rush
+3183,5,3,2024-10-26,1,5,Felt great today
+3184,5,4,2024-10-26,0,0,NULL
+3185,5,5,2024-10-26,0,0,Sick day
+3186,5,6,2024-10-26,1,14,"Early morning, very focused"
+3187,5,7,2024-10-26,1,4,Feeling motivated
+3188,5,8,2024-10-26,1,7,Completed with energy
+3189,5,9,2024-10-26,1,52,NULL
+3190,5,10,2024-10-26,1,10,NULL
+3191,5,11,2024-10-26,0,0,NULL
+3192,5,12,2024-10-26,0,0,Will catch up tomorrow
+3193,5,1,2024-10-27,0,0,NULL
+3194,5,2,2024-10-27,0,0,NULL
+3195,5,3,2024-10-27,0,5,Forgot in the morning rush
+3196,5,4,2024-10-27,0,3,NULL
+3197,5,5,2024-10-27,0,0,NULL
+3198,5,6,2024-10-27,0,0,NULL
+3199,5,7,2024-10-27,1,1,Managed to fit it in before dinner
+3200,5,8,2024-10-27,0,0,NULL
+3201,5,9,2024-10-27,0,0,NULL
+3202,5,10,2024-10-27,0,0,NULL
+3203,5,11,2024-10-27,0,8,NULL
+3204,5,12,2024-10-27,0,0,NULL
+3205,5,1,2024-10-28,0,4,NULL
+3206,5,2,2024-10-28,0,0,NULL
+3207,5,3,2024-10-28,1,5,Completed with energy
+3208,5,4,2024-10-28,0,0,NULL
+3209,5,5,2024-10-28,0,8,NULL
+3210,5,6,2024-10-28,0,0,NULL
+3211,5,7,2024-10-28,0,0,NULL
+3212,5,8,2024-10-28,0,8,Busy with family obligations
+3213,5,9,2024-10-28,0,0,NULL
+3214,5,10,2024-10-28,0,0,Busy with family obligations
+3215,5,11,2024-10-28,0,0,NULL
+3216,5,12,2024-10-28,0,0,NULL
+3217,5,1,2024-10-29,0,1,NULL
+3218,5,2,2024-10-29,0,0,NULL
+3219,5,3,2024-10-29,1,3,Felt great today
+3220,5,4,2024-10-29,0,0,NULL
+3221,5,5,2024-10-29,0,0,Busy with family obligations
+3222,5,6,2024-10-29,0,0,Will catch up tomorrow
+3223,5,7,2024-10-29,0,0,NULL
+3224,5,8,2024-10-29,0,0,Will catch up tomorrow
+3225,5,9,2024-10-29,0,0,NULL
+3226,5,10,2024-10-29,0,0,NULL
+3227,5,11,2024-10-29,0,0,NULL
+3228,5,12,2024-10-29,0,0,NULL
+3229,5,1,2024-10-30,1,38,NULL
+3230,5,2,2024-10-30,0,0,NULL
+3231,5,3,2024-10-30,1,4,"Early morning, very focused"
+3232,5,4,2024-10-30,0,4,NULL
+3233,5,5,2024-10-30,1,58,NULL
+3234,5,6,2024-10-30,0,0,Busy with family obligations
+3235,5,7,2024-10-30,0,2,Sick day
+3236,5,8,2024-10-30,0,0,NULL
+3237,5,9,2024-10-30,0,0,"Late night, no energy"
+3238,5,10,2024-10-30,1,8,Pushed through despite tiredness
+3239,5,11,2024-10-30,1,19,Did it right after waking up
+3240,5,12,2024-10-30,1,18,Pushed through despite tiredness
+3241,5,1,2024-10-31,1,36,Did it right after waking up
+3242,5,2,2024-10-31,1,11,NULL
+3243,5,3,2024-10-31,0,7,NULL
+3244,5,4,2024-10-31,1,39,NULL
+3245,5,5,2024-10-31,0,0,NULL
+3246,5,6,2024-10-31,1,11,Kept the streak alive
+3247,5,7,2024-10-31,0,0,Forgot in the morning rush
+3248,5,8,2024-10-31,0,0,Will catch up tomorrow
+3249,5,9,2024-10-31,0,0,Skipped due to travel
+3250,5,10,2024-10-31,0,0,NULL
+3251,5,11,2024-10-31,0,5,NULL
+3252,5,12,2024-10-31,1,20,Best session this week
+3253,5,1,2024-11-01,0,0,NULL
+3254,5,2,2024-11-01,1,10,Best session this week
+3255,5,3,2024-11-01,1,1,NULL
+3256,5,4,2024-11-01,1,34,Kept the streak alive
+3257,5,5,2024-11-01,0,0,Sick day
+3258,5,6,2024-11-01,0,8,NULL
+3259,5,7,2024-11-01,0,1,NULL
+3260,5,8,2024-11-01,0,0,"Late night, no energy"
+3261,5,9,2024-11-01,0,0,Will catch up tomorrow
+3262,5,10,2024-11-01,0,0,"Late night, no energy"
+3263,5,11,2024-11-01,0,0,NULL
+3264,5,12,2024-11-01,0,0,NULL
+3265,5,1,2024-11-02,0,0,"Late night, no energy"
+3266,5,2,2024-11-02,0,0,Busy with family obligations
+3267,5,3,2024-11-02,1,2,NULL
+3268,5,4,2024-11-02,1,42,Feeling motivated
+3269,5,5,2024-11-02,1,56,NULL
+3270,5,6,2024-11-02,0,0,NULL
+3271,5,7,2024-11-02,0,0,NULL
+3272,5,8,2024-11-02,0,0,NULL
+3273,5,9,2024-11-02,0,0,NULL
+3274,5,10,2024-11-02,0,7,NULL
+3275,5,11,2024-11-02,0,0,Busy with family obligations
+3276,5,12,2024-11-02,0,0,NULL
+3277,5,1,2024-11-03,0,5,NULL
+3278,5,2,2024-11-03,1,10,Did it right after waking up
+3279,5,3,2024-11-03,0,0,Will catch up tomorrow
+3280,5,4,2024-11-03,0,0,NULL
+3281,5,5,2024-11-03,0,0,Forgot in the morning rush
+3282,5,6,2024-11-03,0,0,NULL
+3283,5,7,2024-11-03,0,5,Sick day
+3284,5,8,2024-11-03,0,0,Too tired after work
+3285,5,9,2024-11-03,0,0,NULL
+3286,5,10,2024-11-03,0,4,Sick day
+3287,5,11,2024-11-03,0,0,Skipped due to travel
+3288,5,12,2024-11-03,0,0,NULL
+3289,5,1,2024-11-04,0,0,NULL
+3290,5,2,2024-11-04,1,23,Felt great today
+3291,5,3,2024-11-04,1,4,Pushed through despite tiredness
+3292,5,4,2024-11-04,1,42,Best session this week
+3293,5,5,2024-11-04,0,0,NULL
+3294,5,6,2024-11-04,0,0,NULL
+3295,5,7,2024-11-04,1,5,NULL
+3296,5,8,2024-11-04,0,0,Busy with family obligations
+3297,5,9,2024-11-04,0,0,NULL
+3298,5,10,2024-11-04,0,0,NULL
+3299,5,11,2024-11-04,0,0,NULL
+3300,5,12,2024-11-04,0,0,NULL
+3301,5,1,2024-11-05,1,34,On a roll!
+3302,5,2,2024-11-05,0,4,Skipped due to travel
+3303,5,3,2024-11-05,1,1,Short but consistent
+3304,5,4,2024-11-05,0,0,Busy with family obligations
+3305,5,5,2024-11-05,0,0,NULL
+3306,5,6,2024-11-05,0,0,NULL
+3307,5,7,2024-11-05,1,5,On a roll!
+3308,5,8,2024-11-05,0,6,NULL
+3309,5,9,2024-11-05,1,80,Did it right after waking up
+3310,5,10,2024-11-05,0,0,NULL
+3311,5,11,2024-11-05,1,17,NULL
+3312,5,12,2024-11-05,0,0,NULL
+3313,5,1,2024-11-06,0,0,Forgot in the morning rush
+3314,5,2,2024-11-06,0,1,NULL
+3315,5,3,2024-11-06,0,6,NULL
+3316,5,4,2024-11-06,0,0,NULL
+3317,5,5,2024-11-06,0,1,NULL
+3318,5,6,2024-11-06,1,14,NULL
+3319,5,7,2024-11-06,0,0,NULL
+3320,5,8,2024-11-06,1,9,NULL
+3321,5,9,2024-11-06,1,90,On a roll!
+3322,5,10,2024-11-06,0,0,NULL
+3323,5,11,2024-11-06,0,0,NULL
+3324,5,12,2024-11-06,0,8,NULL
+3325,5,1,2024-11-07,0,0,NULL
+3326,5,2,2024-11-07,1,19,Feeling motivated
+3327,5,3,2024-11-07,1,0,NULL
+3328,5,4,2024-11-07,0,7,NULL
+3329,5,5,2024-11-07,1,60,Best session this week
+3330,5,6,2024-11-07,0,3,Busy with family obligations
+3331,5,7,2024-11-07,0,0,NULL
+3332,5,8,2024-11-07,0,0,NULL
+3333,5,9,2024-11-07,0,2,Sick day
+3334,5,10,2024-11-07,1,14,Completed with energy
+3335,5,11,2024-11-07,1,19,NULL
+3336,5,12,2024-11-07,0,0,NULL
+3337,5,1,2024-11-08,0,0,NULL
+3338,5,2,2024-11-08,0,0,NULL
+3339,5,3,2024-11-08,1,1,Completed with energy
+3340,5,4,2024-11-08,0,0,NULL
+3341,5,5,2024-11-08,0,0,NULL
+3342,5,6,2024-11-08,1,17,Managed to fit it in before dinner
+3343,5,7,2024-11-08,0,0,NULL
+3344,5,8,2024-11-08,1,8,Managed to fit it in before dinner
+3345,5,9,2024-11-08,0,0,NULL
+3346,5,10,2024-11-08,0,3,NULL
+3347,5,11,2024-11-08,0,0,NULL
+3348,5,12,2024-11-08,0,0,NULL
+3349,5,1,2024-11-09,0,0,NULL
+3350,5,2,2024-11-09,0,0,Will catch up tomorrow
+3351,5,3,2024-11-09,0,0,Busy with family obligations
+3352,5,4,2024-11-09,0,0,NULL
+3353,5,5,2024-11-09,0,0,Too tired after work
+3354,5,6,2024-11-09,0,0,NULL
+3355,5,7,2024-11-09,0,5,NULL
+3356,5,8,2024-11-09,0,4,"Late night, no energy"
+3357,5,9,2024-11-09,0,0,NULL
+3358,5,10,2024-11-09,0,0,NULL
+3359,5,11,2024-11-09,0,0,NULL
+3360,5,12,2024-11-09,0,0,NULL
+3361,5,1,2024-11-10,0,0,NULL
+3362,5,2,2024-11-10,0,0,NULL
+3363,5,3,2024-11-10,0,0,Forgot in the morning rush
+3364,5,4,2024-11-10,1,31,Kept the streak alive
+3365,5,5,2024-11-10,0,1,NULL
+3366,5,6,2024-11-10,0,0,NULL
+3367,5,7,2024-11-10,0,0,NULL
+3368,5,8,2024-11-10,0,0,NULL
+3369,5,9,2024-11-10,0,0,Busy with family obligations
+3370,5,10,2024-11-10,0,0,Sick day
+3371,5,11,2024-11-10,0,0,NULL
+3372,5,12,2024-11-10,1,11,"Early morning, very focused"
+3373,5,1,2024-11-11,0,0,NULL
+3374,5,2,2024-11-11,0,0,NULL
+3375,5,3,2024-11-11,0,0,NULL
+3376,5,4,2024-11-11,0,0,NULL
+3377,5,5,2024-11-11,0,1,Skipped due to travel
+3378,5,6,2024-11-11,1,20,Felt great today
+3379,5,7,2024-11-11,0,0,Will catch up tomorrow
+3380,5,8,2024-11-11,0,0,NULL
+3381,5,9,2024-11-11,0,0,NULL
+3382,5,10,2024-11-11,0,0,NULL
+3383,5,11,2024-11-11,0,0,"Late night, no energy"
+3384,5,12,2024-11-11,1,23,Best session this week
+3385,5,1,2024-11-12,0,0,"Late night, no energy"
+3386,5,2,2024-11-12,1,18,Completed with energy
+3387,5,3,2024-11-12,0,0,NULL
+3388,5,4,2024-11-12,0,0,NULL
+3389,5,5,2024-11-12,1,49,Pushed through despite tiredness
+3390,5,6,2024-11-12,0,0,NULL
+3391,5,7,2024-11-12,0,0,NULL
+3392,5,8,2024-11-12,1,9,NULL
+3393,5,9,2024-11-12,0,0,Sick day
+3394,5,10,2024-11-12,1,9,Felt great today
+3395,5,11,2024-11-12,0,0,NULL
+3396,5,12,2024-11-12,0,0,NULL
+3397,5,1,2024-11-13,0,0,Skipped due to travel
+3398,5,2,2024-11-13,0,0,Busy with family obligations
+3399,5,3,2024-11-13,0,0,NULL
+3400,5,4,2024-11-13,1,39,Pushed through despite tiredness
+3401,5,5,2024-11-13,0,0,NULL
+3402,5,6,2024-11-13,0,0,NULL
+3403,5,7,2024-11-13,0,0,Will catch up tomorrow
+3404,5,8,2024-11-13,0,0,NULL
+3405,5,9,2024-11-13,1,77,Completed with energy
+3406,5,10,2024-11-13,0,0,NULL
+3407,5,11,2024-11-13,0,8,"Late night, no energy"
+3408,5,12,2024-11-13,0,0,NULL
+3409,5,1,2024-11-14,1,44,Pushed through despite tiredness
+3410,5,2,2024-11-14,1,11,Completed with energy
+3411,5,3,2024-11-14,0,0,NULL
+3412,5,4,2024-11-14,0,0,NULL
+3413,5,5,2024-11-14,1,44,"Early morning, very focused"
+3414,5,6,2024-11-14,1,13,Managed to fit it in before dinner
+3415,5,7,2024-11-14,1,1,NULL
+3416,5,8,2024-11-14,0,0,Forgot in the morning rush
+3417,5,9,2024-11-14,0,0,NULL
+3418,5,10,2024-11-14,0,0,NULL
+3419,5,11,2024-11-14,0,0,NULL
+3420,5,12,2024-11-14,1,20,Did it right after waking up
+3421,5,1,2024-11-15,0,0,"Late night, no energy"
+3422,5,2,2024-11-15,0,0,NULL
+3423,5,3,2024-11-15,0,7,NULL
+3424,5,4,2024-11-15,0,2,NULL
+3425,5,5,2024-11-15,0,0,NULL
+3426,5,6,2024-11-15,0,0,NULL
+3427,5,7,2024-11-15,0,3,"Late night, no energy"
+3428,5,8,2024-11-15,0,0,NULL
+3429,5,9,2024-11-15,0,0,NULL
+3430,5,10,2024-11-15,1,7,Pushed through despite tiredness
+3431,5,11,2024-11-15,0,0,Skipped due to travel
+3432,5,12,2024-11-15,0,0,NULL
+3433,5,1,2024-11-16,0,0,Forgot in the morning rush
+3434,5,2,2024-11-16,0,0,NULL
+3435,5,3,2024-11-16,0,0,NULL
+3436,5,4,2024-11-16,0,0,Skipped due to travel
+3437,5,5,2024-11-16,0,0,NULL
+3438,5,6,2024-11-16,0,0,NULL
+3439,5,7,2024-11-16,0,2,NULL
+3440,5,8,2024-11-16,0,0,NULL
+3441,5,9,2024-11-16,0,0,NULL
+3442,5,10,2024-11-16,0,7,NULL
+3443,5,11,2024-11-16,0,7,NULL
+3444,5,12,2024-11-16,1,21,"Early morning, very focused"
+3445,5,1,2024-11-17,0,0,NULL
+3446,5,2,2024-11-17,1,15,"Early morning, very focused"
+3447,5,3,2024-11-17,0,5,Too tired after work
+3448,5,4,2024-11-17,0,0,Busy with family obligations
+3449,5,5,2024-11-17,0,1,Forgot in the morning rush
+3450,5,6,2024-11-17,0,0,NULL
+3451,5,7,2024-11-17,0,0,NULL
+3452,5,8,2024-11-17,0,0,NULL
+3453,5,9,2024-11-17,0,5,NULL
+3454,5,10,2024-11-17,0,0,NULL
+3455,5,11,2024-11-17,0,0,"Late night, no energy"
+3456,5,12,2024-11-17,0,4,NULL
+3457,5,1,2024-11-18,0,6,NULL
+3458,5,2,2024-11-18,0,0,NULL
+3459,5,3,2024-11-18,0,0,NULL
+3460,5,4,2024-11-18,0,7,Busy with family obligations
+3461,5,5,2024-11-18,1,36,"Early morning, very focused"
+3462,5,6,2024-11-18,0,6,NULL
+3463,5,7,2024-11-18,0,0,NULL
+3464,5,8,2024-11-18,1,10,Pushed through despite tiredness
+3465,5,9,2024-11-18,1,83,Did it right after waking up
+3466,5,10,2024-11-18,0,0,Too tired after work
+3467,5,11,2024-11-18,0,0,NULL
+3468,5,12,2024-11-18,0,0,NULL
+3469,5,1,2024-11-19,0,0,NULL
+3470,5,2,2024-11-19,0,0,Will catch up tomorrow
+3471,5,3,2024-11-19,0,0,NULL
+3472,5,4,2024-11-19,0,0,NULL
+3473,5,5,2024-11-19,0,0,NULL
+3474,5,6,2024-11-19,0,0,NULL
+3475,5,7,2024-11-19,0,0,NULL
+3476,5,8,2024-11-19,0,0,NULL
+3477,5,9,2024-11-19,1,82,Pushed through despite tiredness
+3478,5,10,2024-11-19,0,0,NULL
+3479,5,11,2024-11-19,0,0,NULL
+3480,5,12,2024-11-19,0,0,NULL
+3481,5,1,2024-11-20,0,0,Busy with family obligations
+3482,5,2,2024-11-20,1,19,Pushed through despite tiredness
+3483,5,3,2024-11-20,0,0,NULL
+3484,5,4,2024-11-20,0,0,Sick day
+3485,5,5,2024-11-20,0,0,Will catch up tomorrow
+3486,5,6,2024-11-20,0,0,NULL
+3487,5,7,2024-11-20,0,0,NULL
+3488,5,8,2024-11-20,0,0,NULL
+3489,5,9,2024-11-20,0,0,NULL
+3490,5,10,2024-11-20,1,11,"Early morning, very focused"
+3491,5,11,2024-11-20,1,17,NULL
+3492,5,12,2024-11-20,1,22,NULL
+3493,5,1,2024-11-21,0,0,NULL
+3494,5,2,2024-11-21,0,0,NULL
+3495,5,3,2024-11-21,0,6,NULL
+3496,5,4,2024-11-21,0,0,NULL
+3497,5,5,2024-11-21,0,5,NULL
+3498,5,6,2024-11-21,0,0,NULL
+3499,5,7,2024-11-21,0,0,Will catch up tomorrow
+3500,5,8,2024-11-21,0,0,NULL
+3501,5,9,2024-11-21,0,2,Too tired after work
+3502,5,10,2024-11-21,1,12,Best session this week
+3503,5,11,2024-11-21,0,0,Forgot in the morning rush
+3504,5,12,2024-11-21,0,0,NULL
+3505,5,1,2024-11-22,0,0,NULL
+3506,5,2,2024-11-22,1,12,Felt great today
+3507,5,3,2024-11-22,0,0,NULL
+3508,5,4,2024-11-22,0,0,Busy with family obligations
+3509,5,5,2024-11-22,0,0,NULL
+3510,5,6,2024-11-22,0,0,NULL
+3511,5,7,2024-11-22,0,0,NULL
+3512,5,8,2024-11-22,1,10,Did it right after waking up
+3513,5,9,2024-11-22,1,90,NULL
+3514,5,10,2024-11-22,0,0,NULL
+3515,5,11,2024-11-22,1,19,Did it right after waking up
+3516,5,12,2024-11-22,0,0,Will catch up tomorrow
+3517,5,1,2024-11-23,1,45,Kept the streak alive
+3518,5,2,2024-11-23,0,1,NULL
+3519,5,3,2024-11-23,0,0,NULL
+3520,5,4,2024-11-23,0,0,NULL
+3521,5,5,2024-11-23,0,0,NULL
+3522,5,6,2024-11-23,0,4,Will catch up tomorrow
+3523,5,7,2024-11-23,0,0,Forgot in the morning rush
+3524,5,8,2024-11-23,0,0,NULL
+3525,5,9,2024-11-23,0,2,"Late night, no energy"
+3526,5,10,2024-11-23,0,0,Sick day
+3527,5,11,2024-11-23,0,0,NULL
+3528,5,12,2024-11-23,0,0,NULL
+3529,5,1,2024-11-24,0,5,NULL
+3530,5,2,2024-11-24,0,0,NULL
+3531,5,3,2024-11-24,0,0,NULL
+3532,5,4,2024-11-24,0,0,NULL
+3533,5,5,2024-11-24,0,0,Sick day
+3534,5,6,2024-11-24,0,0,Skipped due to travel
+3535,5,7,2024-11-24,0,0,NULL
+3536,5,8,2024-11-24,0,0,NULL
+3537,5,9,2024-11-24,0,0,NULL
+3538,5,10,2024-11-24,0,0,NULL
+3539,5,11,2024-11-24,0,5,NULL
+3540,5,12,2024-11-24,0,0,NULL
+3541,5,1,2024-11-25,0,0,NULL
+3542,5,2,2024-11-25,0,0,NULL
+3543,5,3,2024-11-25,1,1,Best session this week
+3544,5,4,2024-11-25,0,0,NULL
+3545,5,5,2024-11-25,1,30,Feeling motivated
+3546,5,6,2024-11-25,1,12,NULL
+3547,5,7,2024-11-25,0,0,NULL
+3548,5,8,2024-11-25,0,0,Skipped due to travel
+3549,5,9,2024-11-25,1,73,Completed with energy
+3550,5,10,2024-11-25,0,3,NULL
+3551,5,11,2024-11-25,1,19,Managed to fit it in before dinner
+3552,5,12,2024-11-25,0,7,NULL
+3553,5,1,2024-11-26,1,39,Did it right after waking up
+3554,5,2,2024-11-26,0,6,NULL
+3555,5,3,2024-11-26,0,8,NULL
+3556,5,4,2024-11-26,1,39,"Early morning, very focused"
+3557,5,5,2024-11-26,0,0,NULL
+3558,5,6,2024-11-26,0,0,Forgot in the morning rush
+3559,5,7,2024-11-26,0,0,NULL
+3560,5,8,2024-11-26,0,1,NULL
+3561,5,9,2024-11-26,0,7,NULL
+3562,5,10,2024-11-26,0,1,NULL
+3563,5,11,2024-11-26,1,14,On a roll!
+3564,5,12,2024-11-26,0,0,NULL
+3565,5,1,2024-11-27,0,0,NULL
+3566,5,2,2024-11-27,0,6,NULL
+3567,5,3,2024-11-27,0,0,NULL
+3568,5,4,2024-11-27,0,0,NULL
+3569,5,5,2024-11-27,0,0,NULL
+3570,5,6,2024-11-27,0,0,Forgot in the morning rush
+3571,5,7,2024-11-27,0,0,NULL
+3572,5,8,2024-11-27,0,0,NULL
+3573,5,9,2024-11-27,0,6,Busy with family obligations
+3574,5,10,2024-11-27,0,0,NULL
+3575,5,11,2024-11-27,0,3,"Late night, no energy"
+3576,5,12,2024-11-27,1,10,On a roll!
+3577,5,1,2024-11-28,0,0,NULL
+3578,5,2,2024-11-28,0,0,NULL
+3579,5,3,2024-11-28,0,0,Forgot in the morning rush
+3580,5,4,2024-11-28,0,0,NULL
+3581,5,5,2024-11-28,0,0,Busy with family obligations
+3582,5,6,2024-11-28,0,0,NULL
+3583,5,7,2024-11-28,1,4,Managed to fit it in before dinner
+3584,5,8,2024-11-28,1,10,On a roll!
+3585,5,9,2024-11-28,1,73,"Early morning, very focused"
+3586,5,10,2024-11-28,1,6,On a roll!
+3587,5,11,2024-11-28,0,0,NULL
+3588,5,12,2024-11-28,0,0,NULL
+3589,5,1,2024-11-29,0,0,NULL
+3590,5,2,2024-11-29,0,0,NULL
+3591,5,3,2024-11-29,1,1,Did it right after waking up
+3592,5,4,2024-11-29,0,0,NULL
+3593,5,5,2024-11-29,0,0,NULL
+3594,5,6,2024-11-29,0,0,Sick day
+3595,5,7,2024-11-29,0,0,NULL
+3596,5,8,2024-11-29,0,0,NULL
+3597,5,9,2024-11-29,1,86,Managed to fit it in before dinner
+3598,5,10,2024-11-29,0,0,NULL
+3599,5,11,2024-11-29,0,8,NULL
+3600,5,12,2024-11-29,0,8,NULL
